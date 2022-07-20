@@ -1,0 +1,8 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,2002,2002,2002,0,0,2,Export,798,Tuvalu,TUV,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137814,,,0
+H0,2002,2002,2002,0,0,2,Export,798,Tuvalu,TUV,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30755,,,0
+H0,2002,2002,2002,0,0,2,Export,798,Tuvalu,TUV,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81091,,,0
+H0,2002,2002,2002,0,0,2,Export,798,Tuvalu,TUV,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7860,,,0
+H0,2002,2002,2002,0,0,2,Export,798,Tuvalu,TUV,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,273,,,0
+H0,2002,2002,2002,0,0,2,Export,798,Tuvalu,TUV,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15652,,,0
+H0,2002,2002,2002,0,0,2,Export,798,Tuvalu,TUV,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2183,,,0

@@ -1,0 +1,224 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,313685932750,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4484567,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54670661,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,346621302,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6861,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3410974,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18198032,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1553976,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105578215,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,669537540,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2617918519,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6392677121,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21550574,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,335710925,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,175410063,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52117934,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5964722,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5474743963,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3452093,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1241034,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23006985,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111116579,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6463589,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2529787753,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1982938,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,587583,,,0
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62778,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31523895,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20978250,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,431029496,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18482110,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,270714,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140243677,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,112687323,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12055167,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4471937769,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1967500,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,189350410,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,519475,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105084062,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1793168,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,371088957,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21538874130,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,571750145,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22751,,,0
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6100730,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7241569,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16063,,,0
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,198115475,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,291089379,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9617285,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,138453168,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1852735686,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4278020,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1213438519,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,597506,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40110884,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101116735,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12296617,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1120499,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42632581,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,610194,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,187204969,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,583890,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1300791,,,0
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32065,,,0
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2230847,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,639055676,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19385863021,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2530833,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14864,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3964656,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3053211,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53871190,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2347737,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35709083,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,47908722413,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37585864,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10951670,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17074,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,757378395,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23058,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,206706,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11367877,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29275596,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4488084,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1857237,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1305613,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8558389,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19322625,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9928390652,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1054849146,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73640501,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,491224470,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,332560063,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,234552449,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1060101317,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1191596726,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,16172752590,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49017513,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12443423,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8104488864,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,198140977,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,278953894,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89373079,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3290950,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3680127801,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,485767007,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9139881,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5317662,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,438714150,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,181337,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,134482134,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5879153,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,121021251,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,143356841,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,383549899,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59903829,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6030492,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1773260,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1395918514,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7855255,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8608626,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146015555,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7020764,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38037587,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1443396820,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2072024696,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11102018,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33705767,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23777016,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3657,,,0
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,355484262,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8761641,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,256060117,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4602166,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84089729,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6080825984,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18017468,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10976271,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16345234,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,583446,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2423865,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,214643,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,208043091,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4014192,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10749540,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,151220105,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,532592,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,667861946,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,757723,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87183,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46578,,,0
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30436195,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,773,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,375955170,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,234459797,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2442536,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20708768,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,172655921,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,330648596,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2685671950,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1149431430,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,181068,,,0
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,98703,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1157693157,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1084129164,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3135888766,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3655612,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13739749,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2675124,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,988602,,,0
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2171238,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11073417,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13436713,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,246811,,,0
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1817308579,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22475933,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,364901518,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20834763,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1503397,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18058262326,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6214923121,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,621952951,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,769418183,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3289172392,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,633153,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,680556251,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3676290,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7882394387,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25229191,,,0
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85189267,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2244,,,0
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3530464,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4276509,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1698174945,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37910491,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7200287,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2107986511,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11893706,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29206,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4968476,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3749286620,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,218566425,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3362572889,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11343240,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2938069,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3643,,,0
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51497823,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,461495978,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59980627,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1219445309,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28312024193,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50827570,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43860731665,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4778520,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,159537428,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111806937,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29747224,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16806,,,0
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7340954,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20063612,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3437322,,,4

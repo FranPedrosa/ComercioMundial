@@ -1,0 +1,105 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,593624150,,,4
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10698,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,500,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1154850,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7668918,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30570,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19683544,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4344,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13083,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1482,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16935935,,,4
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1503,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42574,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,661462,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10602693,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4464,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68536,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,592,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15577307,,,4
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59554,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,193328755,,,4
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58715,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,119988,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39440,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5120965,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6296,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,597386,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,537299,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58816,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7841700,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,441929,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,928,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1083,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18529,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18273688,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,247,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3715,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,192,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99461,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,696366,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1574702,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2877,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5083,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4809157,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104093828,,,4
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87400,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,892403,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,354690,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15514,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7923232,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68695,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80156,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5225013,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55603,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41598,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51485,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,195,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54682,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12890,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,512225,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43857,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22139,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7902,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1112242,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,521334,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89133,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6858,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2203,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,873254,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,113688,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13294,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1121950,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7578,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,926,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,148,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2006825,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19413707,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12609,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16941,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1196,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1907742,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,154743,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,174351,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5338320,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1299659,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49192,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56527113,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7354,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4772,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3395,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27845746,,,4
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10395,,,4
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,806046,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10075514,,,4
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,217606,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,231445,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11862724,,,4
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2242492,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23822886,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13575,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9878,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,782,,,0
+H4,2015,2015,2015,0,0,2,Export,646,Rwanda,RWA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1029,,,0

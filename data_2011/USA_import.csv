@@ -1,0 +1,224 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2263619062869,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26636658,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27850624,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14912502640,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,619386,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13833012040,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6701119,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2472504326,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4735427165,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10364472436,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9524376946,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,787723344,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,547474212,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5083031159,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,96717923,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48316834,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17804275411,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,60304959,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,543454,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,915072262,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,51573543,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,294171881,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32838643288,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,199976242,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6083098,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1576923,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6703542,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25882135,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,433613082,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9815249,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,374264350,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2807102439,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,343085075,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,317921220034,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1555724,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19105166,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6107551,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2182609273,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3248084576,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9735524799,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,417340261542,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1503222,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1594278,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23720046987,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1825061,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,175,Mayotte,MYT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19997,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2458666613,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,623076678,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,777529,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10367071078,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,458430814,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5700,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21995207,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3453620722,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2018589,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6908880516,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1990612,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4312687648,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10033289823,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2559804055,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1223537879,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,149423224,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,149126,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,996135886,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,135552602,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6987682,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,160166754,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4611766741,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,40804610648,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,55911415,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,44591,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4120233,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4659044777,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,185189880,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,86582,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8672740,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,100675925186,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,801198114,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1152281,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,772871,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,911189864,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7641624,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7261453,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4977593426,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,121792680,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,432087858,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,760196206,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3928,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,541600,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4692888122,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4524491090,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3013471255,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,226694735,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19991262977,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1037061,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17368920169,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39506389330,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23269736980,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35087489076,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1309328741,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,620633021,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,132558803222,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1714209200,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1090566322,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,397008879,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58605754441,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8010061011,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2765203,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,60369962,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,82917895,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,394700104,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,374815397,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,161518682,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,666411212,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1093273328,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,513178360,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,117636811,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,90800533,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,68483942,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26490291933,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3642106,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4181706,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,253439526,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1010333,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,261909270,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,265113824434,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,42728527892,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11219023,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17353090,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4490681,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,620661,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1065605739,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36312173,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2288065235,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,439765890,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,335196,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,83865229,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24949969111,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,560796392,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3325157926,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23954513,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,93131244,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2452481,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3352480577,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2682664652,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,293291688,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34465731501,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,53969,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,272886,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8551726953,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2236067,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17883007,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,217325,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4025928170,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,409989680,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,145360762,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,118588634,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6905853718,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9481140514,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2772,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4530244769,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2671205511,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,272178,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27152,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1239681602,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1498106393,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35557789977,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32159061,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8578136,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,56699103,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4982697,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19263378,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,210655,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2094978,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5620069,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1000094,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48760012831,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7228206,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,138210326,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6410603,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26933885,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37455488622,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19367940323,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1437884198,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18456988144,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,563604960,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,193681,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9623790266,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,52346333,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11461146079,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17909,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,736,Fmr Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11076603,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,346462691,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,93000444,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11810806243,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24815127835,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,407713681,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12541788,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25751271324,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31746014,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7051512,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2206253,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8506040704,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2508100235,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,365341057,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5464067068,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45124246,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9770365,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2400,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48450437,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1528024894,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,54897978,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2161941843,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,52149820173,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,60724152,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3654053,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,304161791,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,51483193,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,43865920825,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6241,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3332344,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,615969651,,,0
+H3,2011,2011,2011,0,0,1,Import,842,USA,USA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,47545602,,,0

@@ -1,0 +1,60 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,509210752,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,215000,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1569,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,283142,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17490068,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,288036,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52906,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5104690,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87094,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3347,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1558237,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1857955,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17296618,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2880916,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7529,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,694265,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3123938,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1337234,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41278124,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1236030,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9958908,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57994840,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13699,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10399690,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,470162,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14003610,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1572082,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6058,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8009123,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,794826,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6966768,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2932615,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20199,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8948847,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1288060,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51000,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16835152,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15948,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48598,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,876089,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2095846,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,972620,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5000,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6899,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,279417,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75479,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44839,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67336,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11729,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5399,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39513568,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10783,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3173923,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152198,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9878815,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2360,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,214421440,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2405430,,,0
+H0,1995,1995,1995,0,0,2,Export,558,Nicaragua,NIC,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84703,,,0

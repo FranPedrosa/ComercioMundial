@@ -1,0 +1,185 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17930809142,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,61111,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21568,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1119424,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,179801,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50266,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14756,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3255103,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,213029623,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45751365,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,55532458,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25033285,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,219790269,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9480726,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12064,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,127559768,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3685,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17117,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1083608,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,70680,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50051,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5693279,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8934412,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8551006,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,777042,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39068,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,285349010,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25501,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16253,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6725318,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2959701501,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2976625,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,314111,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1596942,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,139,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,686,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1237842,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,521068,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,169834,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1802222,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13622227,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20072,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,57189978,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,59906,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,127761,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13105921,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5030,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,752625,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22600,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3071934,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,104723,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11820408,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,134665428,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1861,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,106013,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6455428,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19803,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,384194422,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4087879,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4994779,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,149,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1533857,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30289,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4875,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,879839,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,429394058,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1688566,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,540127,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,440793124,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11501288,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,190397,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8965275,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,76350642,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,252116078,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29635,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,59479,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,669555047,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1127355,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,492512,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3241677,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5983270,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,298641221,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17556070,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,93165,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,175221,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33737,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,370613,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,885,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,104093,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2231865,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,155015,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,357240,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,650881,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,105970,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,569531468,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13116584,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30448,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2525292,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3120,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,498884,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4873593,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,454587332,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,153129,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,98653,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2203224,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24504,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,773748470,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,560845,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17901,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,63177,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,85853615,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,65893,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7168,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,106871,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,218305712,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,156412,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,252956,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1129560,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13387826,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4872,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,992,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3832,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,378702235,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1411209,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1723779,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5987068,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31817008,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13042694,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3841616,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,92150290,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13811938,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,145702519,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3380,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,782,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,77,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,52890,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,226660210,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14653,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2588680,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,57969,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3125805552,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1798377082,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3503344,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,181337440,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1103077,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36364159,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45856195,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,195487,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31060230,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,69945502,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,241040666,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,542803,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,428019473,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8185,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,359989,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,77,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,361123,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1224378696,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,111881,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,40204407,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,691,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,123748,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,110,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,153432,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28735120,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8074,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20907925,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,281092582,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1580525,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,352370577,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3756,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3331338,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,43760803,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,358606,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3631,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,67587,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4824881,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5779797,,,0
+H4,2013,2013,2013,0,0,1,Import,144,Sri Lanka,LKA,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,54318196,,,0

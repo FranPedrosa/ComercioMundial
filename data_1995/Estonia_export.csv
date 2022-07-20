@@ -1,0 +1,110 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1840378240,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,179331,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2063,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,953,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1711727,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103196,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74169,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5252432,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,895921,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188220,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22579,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16442330,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94254,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39544,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1172902,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6166,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45573272,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1851,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2132915,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1442267,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,717,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7817,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1385618,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76593,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97559,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3128277,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2718976,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60462300,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77695,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,395776000,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14035263,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105734,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,212821,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132604400,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16660,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28663,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,215538,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1189,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36393,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28050,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,264606,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2555635,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3770947,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,910165,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111020,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4150391,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,959881,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15498509,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4702,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8868025,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8848921,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,514,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,468798,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,477096,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42151,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29976,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137209232,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20270,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,730,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86110672,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68039,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100445,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226251,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148841,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,249567,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81360,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3641681,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107067,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85955352,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,867,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1177,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,677799,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34148592,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1952,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,436141,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17904,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4562,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21117232,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2849874,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1498552,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,325029984,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1722,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10073,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17835,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,267351,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1391064,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36041,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6175893,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1814003,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,631127,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199832608,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5366761,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,389111,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1324191,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,563409,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9433909,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,505478,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16186,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68926696,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,348173,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5185,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60324840,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114969,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43941852,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9219,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5238665,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97744,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20203,,,0
+H0,1995,1995,1995,0,0,2,Export,233,Estonia,EST,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,556144,,,0

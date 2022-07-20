@@ -1,0 +1,50 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37133344,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97053,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4477,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1140259,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5440,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,684220,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,175,Mayotte,MYT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,672194,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81832,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16088233,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,917,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6574,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180530,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1266886,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2094,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1168,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1055370,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,222287,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102705,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,995938,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22897,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1130885,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,440483,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1079386,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,257652,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5064,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,554287,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3071,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,679,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21525,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150443,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,397859,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,324258,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4612729,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34527,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,335311,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4335,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,395210,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,240112,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3259183,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,479518,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1583,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,663025,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74304,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16409,,,0
+H0,2002,2002,2002,0,0,1,Import,174,Comoros,COM,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19908,,,0

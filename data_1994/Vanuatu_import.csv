@@ -1,0 +1,44 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83255464,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31161916,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101269,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9049,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43235,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,269986,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142512,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168569,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1012088,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37183,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3310,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3689485,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84161,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5876168,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2150,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,163069,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5002743,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,286140,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,650936,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7932365,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58752,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,790683,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1570351,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,697,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,269537,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103827,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5067253,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10714744,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4200,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30320,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1780519,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35074,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,369770,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2649498,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,688,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36967,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136809,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41377,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,693607,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,763717,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1221786,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4940,,,0
+H0,1994,1994,1994,0,0,1,Import,548,Vanuatu,VUT,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,274014,,,0

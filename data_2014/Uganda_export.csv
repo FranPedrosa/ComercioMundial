@@ -1,0 +1,142 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2261964444,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1236960,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1458508,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2533,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,62872,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1997917,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,175264,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,711916,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,102807,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,68933,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,89828683,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27501,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,89933,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2971,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37683,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,138535,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13209,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,43454016,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2961,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,688577,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7643248,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,304951,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2000,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1016774,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,498855,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,353070,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12869,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,65995222,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16634,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37166,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,181680327,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,70,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,775641,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,275069,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33837,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3800,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2685571,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,181784,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,134950,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4855391,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7272,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1219795,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,321989,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,247337,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,104758,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16225908,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,66119,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2732513,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,47214,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6504,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,75081850,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1113134,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5189980,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,185061,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36015975,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8533,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1255200,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4163,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2148142,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,49627,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11461140,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,98546964,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2065994,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20650,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6109661,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26133,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1816148,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,297435925,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2321955,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5850597,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,57170,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,161000,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2294103,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,90969,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1729,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,49233,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,466839,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,153793,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,353553,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14260299,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5355,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,453956,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18712,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,461335,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,845384,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,423480,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,694147,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7828370,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4463576,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,620557,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,287859,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1955733,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,89422112,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,241967,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1069172,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2456991,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2403320,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,595212,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8919731,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9991597,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,433498,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5336721,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5575389,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,245334653,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1140601,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19950,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1783,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,231147,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,176752,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27875490,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31753469,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9900,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1635303,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1391652,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4475103,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9382308,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,79648,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36749708,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,280294992,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,105091081,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9732,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3433940,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,55554043,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,581241,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,162432,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,365804,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23088,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35016987,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5044650,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1746559,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,72202,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1501746,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33274377,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,56019035,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39785690,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,490082,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2600,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,878842,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1491159,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,144178575,,,0

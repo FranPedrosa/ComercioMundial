@@ -1,0 +1,230 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,254169031902,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10854595,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68885788,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1702079,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,434903443,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1535,,,0
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4160716,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13496130,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114473815,,,0
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106946989,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66486045,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,881528067,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5101398439,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,210998633,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56401046,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43858795,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38436988,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5497691,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6096653658,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,448954,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,267427,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6419758,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,204375223,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,564060,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51,,,0
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,425326274,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1021811,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5337,,,0
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9529568,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,426591,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1220828908,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8742149,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,733396,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1708825348,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25280949,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28433007,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1056093871,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1766290,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8478232,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2554929,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15237900,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6350629,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144147943,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3059767546,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63255133,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6872896,,,0
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7135543,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44086445,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45,,,0
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18494433,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,986085816,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72054189,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,257590652,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15029806315,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17592487,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4243411256,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1780754,,,0
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28346175,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24476785,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11005669,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8168519,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25452816,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4681,,,0
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1325154697,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35887388,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,171,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,766660,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2030581964,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14191213157,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1028624,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3358714,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8568530,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19594175,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,120163453,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8195485,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14909100,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73512693807,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,103755451,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59608368,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,443207,,,0
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1107445665,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11438091,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15432,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,374017,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10882823,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42108231,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5094047,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10087668,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82431,,,0
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3598167,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,452749427,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6381986843,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96428937,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,155384210,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34069158,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146067061,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1036794643,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,718337639,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10731047237,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58630510,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4983734,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,691495516,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,923026266,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88702875,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50300532,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,304771,,,0
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,701356712,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101054691,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27458811,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6689316,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49853422,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,851918,,,0
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1570481276,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,142756221,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54745071,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3779886275,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,396971917,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2881460,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3837495,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,931652,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,175177036,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3591191,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25360348,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64121589,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23435093,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7400102,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,805730764,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,222227748,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52851336,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,262236740,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36859011,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,409718867,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40516490,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44253935,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2380678,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,952,,,0
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1610004,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10783355575,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2581647,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,514252,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1895493,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,243051,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4493729,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60005,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133041423,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1909895,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16117542,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99718655,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5615635,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13474,,,0
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,413211,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2619320015,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,642011,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19491,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,807068,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90521270,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24392,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91026078,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,94652026,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2931378,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11180449,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91153417,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,200490223,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1344405264,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2672380,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3099,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89972341,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5276969077,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7607579598,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2045479,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,507915,,,0
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1050464,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22810,,,0
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,595637,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55159,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1675046,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26905611,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55882,,,0
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1066610634,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82189319,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,917423146,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1827294,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10564338,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,609543137,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,311858192,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6322787694,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,383559668,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,975150768,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3484613,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,721949834,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5653486,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6437049532,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,487347,,,0
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14477515,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34647,,,0
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8502953,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31496,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7297897436,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2578154101,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5273073,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16408055,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,237597261,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17096473,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50704,,,0
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6458379,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,550058829,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124315345,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2361551796,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29830532,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16772,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72514,,,0
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19014528,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5659490599,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,121271675,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,371404795,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14567926008,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38453085,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106921278,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,839,Special Categories,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8823864,,,0
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7318099262,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8526744,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43768483,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,165453360,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5683525,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21807,,,0
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,719,,,0
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18762633,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1701941,,,4
+H5,2020,2020,2020,0,0,2,Export,616,Poland,POL,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,755965331,,,4

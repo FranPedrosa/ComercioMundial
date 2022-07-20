@@ -1,0 +1,200 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,290402110277,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1003674,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19977154,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72269091,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63585,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,724510,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20570,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,227405,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,211171554,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1069942500,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1878266478,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8948838304,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2283377,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89459907,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,724497905,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,176750730,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,531770,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3983546190,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68681,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,535147,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7673837,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137277077,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10361170,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1484810472,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,169790,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11759522,,,0
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2017645,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34640,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,344303602,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,143610335,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48566,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55175438,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,321976011,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2250291,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1809620856,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6817,,,0
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,359650,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52963,,,0
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,202356780,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,839025617,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17668973269,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,324180690,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,740769,,,0
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1117284,,,0
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,799617,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29838,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107908696,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,298677864,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49619673,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13910722,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2670418027,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1242800,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1052817212,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1219041319,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,218859311,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2488131,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,169350630,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49761,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84778331,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5213757,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60189,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1168023788,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17075748130,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,322355,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7792,,,0
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,123338,,,0
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1289124,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97086279,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15334,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,433150,,,0
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56611581170,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3079923452,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,211515,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,256825929,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109690,,,0
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40023,,,0
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90016,,,0
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51131745,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,277006057,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61225457,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3749049,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47288,,,0
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34754373,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12057160932,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1501851198,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26458808,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2777542163,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14134890,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,328481,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4881428253,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,422282988,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23672611046,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,873961715,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3001713,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5318093160,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125668252,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,284931789,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65430963,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1058458817,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7181249,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7110181,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50246921,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1084121969,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29996533,,,0
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63785779,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101321189,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144737490,,,0
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,199060656,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,218956974,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5933062,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46414926,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1776019,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,796223396,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5158106,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1499932384,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28570289,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140826983,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43658556,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1093815562,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1351383636,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,905095876,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27409128,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5204003,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,273828660,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43412474,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13575512,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3487677,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7835847,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5384094578,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,282219,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,261291,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11447,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20091,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100249975,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146045479,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,424596,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,384004425,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,470365312,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,214748368,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48732800,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3594974,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19750449,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1822616673,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,665291029,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2654215567,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1133859710,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9622,,,0
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,451004896,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,904020311,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1342714304,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,738311,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49652,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,291046,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9866,,,0
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5089873,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1462687,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6165670,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,651083693,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,490562719,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,261303450,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,437230,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1003061,,,0
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1935296274,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4077209564,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1062360292,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2882305610,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1170011772,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19412,,,0
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2421717044,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6027361,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7467660249,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2048614,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1117760312,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3000388,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1546328912,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,161665,,,0
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,778146640,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8160628302,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1031935,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,655256,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10100461913,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,205813801,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1909539021,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140248,,,0
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6157,,,0
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15600620,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157956201,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79419477,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,94760620,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16634818922,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,797395868,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20889652406,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3236187739,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27259444,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6265275,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2448609,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29186,,,0
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11075,,,4
+H5,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,959858,,,4

@@ -1,0 +1,52 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,198765525,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87610,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24344355,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41641,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21031971,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175500,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12180598,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1380616,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,342000,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9000,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46873,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,612521,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171334,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75178,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4396799,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,432605,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,258735,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2216663,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135936,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117845,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1740403,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36853,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2420082,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61452,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,315863,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2699,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,332370,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,353525,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17850,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188135,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103506,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,639581,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,217572,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197339,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1774532,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56664658,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188904,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17886,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7456905,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9254,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,485760,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77173,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25894610,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13431586,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5421788,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14468,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8381664,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1340889,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2856746,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27827,,,0
+H0,1996,1996,1996,0,0,2,Export,268,Georgia,GEO,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35865,,,0

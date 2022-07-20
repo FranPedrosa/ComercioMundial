@@ -1,0 +1,211 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45775135124,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,517711383,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96639,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77713885,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,172045,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1185,,,0
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11422179,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11232,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,920044,,,0
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,113451134,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,293390923,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,132518509,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1797640,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52040647,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61935555,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127117,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69639,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,320299619,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,208104,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,219844,,,0
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,230252,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20452,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,942117814,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3317650,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1319,,,0
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,453840,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9109,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71138,,,0
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27861937,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1294777,,,0
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8975873,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33179766,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1530679,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4860284,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,510875936,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15339,,,0
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,187695,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71244080,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,656648,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24038696,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12486525412,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23945,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9090,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1389598,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,322600,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3736077,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1490158,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5151,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3437160,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5616854,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101487,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3325307,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34344110,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4716376,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88504763,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,705978,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1649715,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,901916,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,180917,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43009,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22355353,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,250,,,0
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4870501,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,949168,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7020,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48620078,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,356045665,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17727,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,243,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,898487,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,194588,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,737511,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2537,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,855942883,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2022411,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13227,,,0
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7278,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39648434,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,671,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48036,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9941753,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,419793,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,492276,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32573,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4637,,,0
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,458883,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,178214403,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26727863,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,134968,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2405304781,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,371825885,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40048158,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56740470,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,452925631,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40596252,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1178903,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1137476927,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,517182,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15523836,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,520050245,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,175027,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1061863390,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1121888732,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125308,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14836,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3084321,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40916098,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39,,,0
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4953609,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9947650,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3303666,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20155,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2442197,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31701,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1085582953,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37711,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,336054,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1696713,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48238,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4732707,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114135935,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,644404106,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,120,,,0
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52336,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38271094,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,335907148,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1075059,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,614813619,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1268550,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1741720,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,460687082,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67984,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,320623,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74612,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,281993,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46964391,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,103366,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15136,,,0
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,116267137,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,512124614,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76746,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26215909,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68720,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2898,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13796973,,,0
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6366,,,0
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32780220,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64016,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14357485,,,0
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5131648,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50131813,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,93674573,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22405759,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1482867848,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17504092,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,613078532,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29383896,,,0
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,165556,,,0
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,960,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1610,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51109,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,163694,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1893129655,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1341391,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3206136,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,468412,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,657510,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,242680597,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,584027616,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7882188,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,437951683,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2438319,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4906169,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,921567740,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1564895,,,0
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,173751828,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24016225,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5608819,,,0
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,171102,,,0
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8106315,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,202700229,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,320830323,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,192804,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,835654,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,896054438,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7958984,,,0
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1815,,,0
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,671,,,0
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1439919,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4474233768,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17520930,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,400976035,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4662963,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8337,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16392,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36925017,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,364780657,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,910,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,273600371,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,611363033,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,119638923,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2583822398,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,449559,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3989201,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9095046,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,906084,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5088,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25210609,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29652028,,,4
+H5,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,365,,,4

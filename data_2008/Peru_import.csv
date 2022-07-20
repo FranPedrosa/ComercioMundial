@@ -1,0 +1,195 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29952802806,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24713,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,40671,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,44161,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8420,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1419,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,67530,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,819504653,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21526,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1575,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1581999167,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,77465080,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,107548735,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,100332,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5965787,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6892230,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,134,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,82369,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,138146113,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11416,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,247835242,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,101736,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,106,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2417838269,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1113,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1105,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5371203,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,152757,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3148840,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,723959,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2627,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,436108323,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,41,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5791,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8438157,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1183436800,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4069489753,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,310853,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1282953022,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,175,Mayotte,MYT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3905,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1500,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,530,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25450890,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1393938,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,890725,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,90704,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23631352,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,180913,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50120149,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3324,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19107472,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1775991594,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1354218,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4971,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1009,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1132632,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21370,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,187789322,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,266815139,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14788,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1790,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,702532,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,857398181,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,186355,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5776769,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,57,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,56507743,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1320,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,237,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16863,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,41870,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,759048,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21601565,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14653241,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,144231,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,84545025,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33149710,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39160055,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,51001813,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,731077856,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,610264,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,779189,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1277047814,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50317,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1151153,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20759,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20948896,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,779970837,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,197,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,75464,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,40624,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,296974,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,256,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,179906305,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,96,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,435252,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2554262,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,376617,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,69239,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,159830130,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2049,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,53144,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,286488,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39761,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,310749,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1163535744,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,298904808,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26470,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,44003,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24656,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,440,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35826438,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,63,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,187292,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8432,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30304,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,118232007,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,530,Neth. Antilles,ANT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5175753,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,43313455,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,103410,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1627,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36338767,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,441848,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7931,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,73323730,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,99128,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,116,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12304338,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9550,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,474,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,51912,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18759258,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,292423891,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,197577993,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2212448,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34940330,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27184308,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12155447,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6293117,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21021569,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,219435401,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,69,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,599,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14823,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10992,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,52278,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,818,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,52777760,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,100716,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1630268,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5307,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3894,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,504072176,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45499268,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7053025,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,44074172,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7907324,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13502,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,44728029,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20278,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,421963491,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,375,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,93880,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,572386,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,234479893,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,118080585,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,98087,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,334447165,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,83516,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,77,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33197417,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30901682,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,900750,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,84813452,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,137,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,228,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,98,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,350,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35843790,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29478,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4081953,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,174844390,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,233048,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,838,Free Zones,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2974372,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5647493840,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2589596,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,94378275,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4862,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,333037255,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,124350,,,0
+H3,2008,2008,2008,0,0,1,Import,604,Peru,PER,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,142954,,,0

@@ -1,0 +1,94 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,383701223,,,4
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,175315,,,4
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,416798,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,193403,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4634,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18848,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57407382,,,4
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,283960,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4981950,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106322,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,291251,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16749,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,392,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8195712,,,4
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70752,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,291789,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5867542,,,4
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,407506,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,823718,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22489,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31856,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27194,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1012027,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61975,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2132373,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2671,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,565,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1346867,,,4
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2500913,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,123740,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,472359,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4466308,,,4
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,955,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,896355,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,835457,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,354496,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21119,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,447335,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158022,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11441,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,768342,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4180119,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12398556,,,4
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1079502,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1347927,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,835,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110525,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,416031,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2304133,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,233198,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5495758,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18191399,,,4
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3494,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1809021,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,272460,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,351,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,225173,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5008966,,,4
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,257295,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21817,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,174,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23007,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,571,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73432,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,517983,,,4
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1602357,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1673875,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13049,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2571247,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6618,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56409,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147464,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,825159,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1381831,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51033,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,902060,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,773370,,,4
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3369510,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28442,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78088671,,,4
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,130466,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,546650,,,4
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1719,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110592,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23434,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12100254,,,4
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126874244,,,4
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16006,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2202,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1510101,,,0
+H4,2016,2016,2016,0,0,1,Import,308,Grenada,GRD,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1673725,,,4

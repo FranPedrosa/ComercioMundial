@@ -1,0 +1,79 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1194471256,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3096798,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,178074,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54262,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2014039,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8535721,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1476992,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3817855,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50882,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3558601,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,309402,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192411432,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4369977,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31737,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96584087,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,638303,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,392834,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2365958,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3450,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59175,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5065644,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9194265,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,222372,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,178459,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91323,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48070235,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72601688,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3315612,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,300,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1697972,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,658842,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3421627,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,556031,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45616,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101426,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18730,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1017300,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25191833,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7376,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180630,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3967,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2747263,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143702,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104754,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62623855,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,840499,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,613283,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2247665,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1330507,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6418,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44480121,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80000,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1692450,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,566675,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14166,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15621639,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18353997,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1571631,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152264,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3560304,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1372180,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243928,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166089,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8424604,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39100,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,474327,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,974947,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20969711,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,349998,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17827933,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29304,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,320384,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153015208,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16100,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,341703293,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,187279,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11360,,,0
+H1,2003,2003,2003,0,0,2,Export,388,Jamaica,JAM,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3493,,,0

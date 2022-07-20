@@ -1,0 +1,71 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,246162629,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,76084,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,284360,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6355,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2073259,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,90261,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,65526,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5988311,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,761200,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16245,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,210368,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23432,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1297618,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14478,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,102763,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,87741,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,130074,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,542225,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7842,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,372565,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2031945,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,57753,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,49667,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4706891,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1033119,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,188346,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3739583,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1151546,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11280906,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,346446,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,65392,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13879580,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1240977,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,55457,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,57024,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12694,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1486613,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1147030,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11522216,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6261,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30320,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,265504,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,450022,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4241978,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1312888,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,80324,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1513,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5481,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,184112,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,98318,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2015,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,126075,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,872751,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,170417,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,413515,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,240333,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,750629,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5169799,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,113358,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7156,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1318490,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,709355,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9845531,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,751714,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,68263,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,359083,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,69838734,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,81700889,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,229543,,,0
+H4,2016,2016,2016,0,0,2,Export,84,Belize,BLZ,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,594365,,,0

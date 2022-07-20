@@ -1,0 +1,104 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3699498752,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78662304,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,172727,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28442,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,570,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2964838,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2055400,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16413601,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,231181664,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2033060,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5915512,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31664062,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2451753,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4189063,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1624893,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4227,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19958624,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1783,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24180,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4161270,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,265975,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,200,Czechoslovakia,CSK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3435545,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,228435,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16731555,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119234,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,230,Fmr Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4216769,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1415984,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,933913792,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53277,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25860,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,164632,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,607519040,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4663073,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23232786,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3762280,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,314503,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6695,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42756,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,849092,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,205574,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,412912,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11218979,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16663867,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67238,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1431188,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,730106880,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4842406,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10149238,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13104891,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32267,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10826,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13492,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,526372,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4738221,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8885,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201695952,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46191,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,496789,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10177,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5051814,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2008110,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,928,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,382440,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26768622,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37144,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,878300,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99614808,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3721,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56351,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120509,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2871065,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149749,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3500985,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5439211,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1736934,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,490979,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,965302,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24085532,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1185301,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,556,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68097968,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1022315,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16931,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135714336,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4202985,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7774841,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16761538,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13474277,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18262444,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2583009,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2016775,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25538908,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,144387,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,810,Fmr USSR,SUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41191736,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11228527,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47471304,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49164232,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24130062,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1387290,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11184846,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,368244,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,890,Fmr Yugoslavia,YUG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9892494,,,0
+H0,1991,1991,1991,0,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32269412,,,0

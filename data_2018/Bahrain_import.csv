@@ -1,0 +1,212 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20597535923,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,364095,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,637579,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149460,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4078477,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40876,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11407921,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,945574624,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70981333,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4223,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6217852,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30007082,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118728,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2536,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64731196,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1385,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,200034,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,861860,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,672676127,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,395158,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1205,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11448,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11160649,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9187618,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8798,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,434519,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8301676,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,173804,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,186373014,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8991,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24605,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16667870,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4611,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,103072904,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1877519343,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,647,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2071099,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67171,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44345,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1001428,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11366184,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,527093,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58535233,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58000863,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,199758,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45096615,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5657,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,735626,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3380279,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,181605,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5589520,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43417,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6494470,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16688,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,946,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,285764,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15050452,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,497403235,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101285,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,103,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,173752,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,637050,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,652459,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1184,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,398579,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,581762218,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,295532,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,746,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12727310,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6760,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,255,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44610,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2346991,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30350,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41106,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55931,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43363,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,218925,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7373051,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18650515,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,295905,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86603516,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15260776,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,278813,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68639097,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,425764345,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1237549,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4608,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,795213341,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3600191,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50721272,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4501458,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,251119781,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111928684,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10033660,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60303,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30776338,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115288,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,580775,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7249,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10002558,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5434592,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75778,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1647908,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1083,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136783408,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105870,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2963310,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1826370,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65558,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,857422,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74276467,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75805500,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1852,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,646940,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16031,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1216,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10924824,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127012,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,122998891,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,903176,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39368,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125714,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,150706174,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,197043,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2361,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,929,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52954318,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68590,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26200,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7127980,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1720,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19097,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13088429,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,358,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,720,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74560926,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1246875,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13112,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2693697,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2232577,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28586702,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3077,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85757428,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21248259,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1776,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,537,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16807518,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,98538497,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3071,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72335,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13355,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40787,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1590,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,153679,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4999991,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39230,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,274,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6813977406,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39750,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2412951,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67438,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,441635,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,768804090,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110668506,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24795781,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,172831830,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14660944,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4890445,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30809441,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1382948,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157360711,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14923751,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16757,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46513110,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,383130974,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2727007,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,417,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,285587028,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8756,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,234347,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,371,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16107,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1308893825,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5086119,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,336308813,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,591,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11185,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1028434,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24752611,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,772921,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88032346,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,475613129,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,787959,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37787,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,838,Free Zones,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78040837,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1205606532,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3419050,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1527899,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,199244,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,302108,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1275,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12478,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7942079,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6209248,,,0
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1701,,,0

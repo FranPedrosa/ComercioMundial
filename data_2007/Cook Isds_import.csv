@@ -1,0 +1,51 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103209430,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,193468,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7235,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12341553,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1299,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19418,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46046,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,289,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3362,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,348,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,569799,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,603,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1966528,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4449,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1115180,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35444,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,218648,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63762,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,213820,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16325,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,995016,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,224,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93897,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2777454,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85628,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,254950,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68385,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37295,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17846,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123290,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1796,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68516576,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,546,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,624,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28040,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128945,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,190,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69208,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9444817,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103516,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,179837,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12483,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42030,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1599154,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69788,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1701937,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38222,,,0
+H0,2007,2007,2007,0,0,1,Import,184,Cook Isds,COK,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1,,,0

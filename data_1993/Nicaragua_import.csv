@@ -1,0 +1,86 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,755111104,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9378,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130500,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6754192,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64687,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,773710,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1860,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116107,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22089,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6535201,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23079,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3000,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5955976,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4590,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10659,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1786423,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6503158,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4290,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37278,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124119,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,526028,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93864,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5445892,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77775208,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2896197,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,481187,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1289466,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61319,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,382364,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,233818,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34708368,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10468,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4587370,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7805526,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14208,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3800,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19188562,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1330,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66762200,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17950408,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,488891,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,427757,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,334884,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6139,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192726,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,745877,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7174052,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9340,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60448920,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4835668,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3034857,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4070,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,779,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1382750,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,198529,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28654052,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15954519,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4117965,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150970,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3466366,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3758867,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27064348,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19079,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,172448,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4040,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37237,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3807,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5208370,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1461292,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33399,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4030728,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5760,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7214813,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2070,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2262045,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3667466,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148668,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24779,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3855462,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,200636320,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41644,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93623504,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40449,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5080,,,0
+H0,1993,1993,1993,0,0,1,Import,558,Nicaragua,NIC,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1082455,,,0

@@ -1,0 +1,234 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,582775305815,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1288426,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35861075,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1368081,,,0
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3065278052,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61857,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13941628,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,498016078,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,260529,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,120389596,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,409729587,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,655963331,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6878567136,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17132269,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,130085607,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1728961139,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3485556,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9550096,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56005765514,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1815570,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45046,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20121926,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108126364,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,407554,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2310206477,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1429585,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60035,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18869277,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1820027,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1144767312,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,248150603,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2870270,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97406770,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,520018226,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,231764045,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3089739598,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1436349,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16289447,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5100641,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,172932405,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,327830065,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,853705667,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41151580733,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32746,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57001,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,262097515,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7174124,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33530536,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63089771,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2850833,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68153095,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,448689101,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12979699,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,98003215,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8111506622,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6540675,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4185510699,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2543853,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30825138,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,303821477,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8451185,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,197995,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44491355,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2964,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,336498605,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118515,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9359,,,0
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5264678,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2392412243,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21703105,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19293870,,,0
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1920173,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,119877746,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40492164,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110264,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4693579,,,0
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101023682178,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,303987292,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23630803,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8866,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2003001002,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126754,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1313027,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105390,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43805002,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55289199,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67701611,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12689874,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,254591,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88094397,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,637902852,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4185224274,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8872814,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1153521962,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19251896,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,278920572,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8664733884,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1143652214,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48601325890,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,866067966,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9637914,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5644057869,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1822401649,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15503882,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109702719,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3508387656,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,175306568,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,353856,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14251964,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50030426,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1356793,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,285225588,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,142426518,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,522839318,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,680651149,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2571470642,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11480354,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,556437385,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3644942,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1891853769,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23302139,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8315098,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,308589494,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33206485,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,202683010,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1559871557,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2393680512,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4274943,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34412301,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,647492,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1237740,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5193099041,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37567523,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22045390,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59777936,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,984,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11915268,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50231294894,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,458637,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36120,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4416671,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12522,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40773149,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66044,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,283270183,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27340118,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39326908,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2046133542,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1706476837,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,312,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,180,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1742001108,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77205,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,390385,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26923,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2910016,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,320,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,604847281,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10301347,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21672613,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36005226,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,223196217,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,585997292,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3923,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14039560303,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7094685384,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50853,,,0
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66990,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,522403944,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4028744489,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6280548370,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5256016,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,428792,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3195,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,288310,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46239,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2391930,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1581575,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,624497,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13773169,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1608272,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3135797742,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75904324,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,453310578,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125530923,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7372738,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4454709153,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2050123805,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5531177659,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4141915853,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1754748692,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2792919,,,0
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,529626245,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40255406,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45922713143,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73993,,,0
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52968998,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9125,,,0
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11378122,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8074339,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7142837305,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16546196548,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6264431,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26547200,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1845718994,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26903378,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100379,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1326,,,0
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,189859029,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,933931273,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4039377454,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7623068286,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6127744,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1098,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6747,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9734923,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,589765963,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57692603,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,586089218,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21941652778,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28449537,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,839,Special Categories,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,821485566,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27911165540,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26108061,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44741040,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17591409,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75561072,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,143620,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3154,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1782338,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9456018,,,4
+H5,2020,2020,2020,0,0,1,Import,251,France,FRA,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,739403914,,,4

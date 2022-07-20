@@ -1,0 +1,43 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109316111,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150405,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5795345,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1574,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,391393,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1687,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,789144,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10922119,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32814,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87552,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12344,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,229808,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,661253,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,352,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1473,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44016,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,830239,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,778083,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37371,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29556,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10539,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32757,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1056,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,570,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84292153,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,713,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9432,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,686,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81044,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,268643,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,163,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138762,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,582387,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131585,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2460094,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4229,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,504411,,,0
+H0,2011,2011,2011,0,0,1,Import,184,Cook Isds,COK,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1,,,0

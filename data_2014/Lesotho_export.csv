@@ -1,0 +1,24 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2014,2014,2014,0,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,818116230,,,4
+H2,2014,2014,2014,0,0,2,Export,426,Lesotho,LSO,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,548160,,,4
+H2,2014,2014,2014,0,0,2,Export,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,376860635,,,4
+H2,2014,2014,2014,0,0,2,Export,426,Lesotho,LSO,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,238760,,,4
+H2,2014,2014,2014,0,0,2,Export,426,Lesotho,LSO,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,645071,,,4
+H2,2014,2014,2014,0,0,2,Export,426,Lesotho,LSO,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,35884,,,0
+H2,2014,2014,2014,0,0,2,Export,426,Lesotho,LSO,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,73,,,0
+H2,2014,2014,2014,0,0,2,Export,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,584389,,,4
+H2,2014,2014,2014,0,0,2,Export,426,Lesotho,LSO,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,623676,,,4
+H2,2014,2014,2014,0,0,2,Export,426,Lesotho,LSO,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18962,,,0
+H2,2014,2014,2014,0,0,2,Export,426,Lesotho,LSO,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6495,,,0
+H2,2014,2014,2014,0,0,2,Export,426,Lesotho,LSO,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,658541,,,4
+H2,2014,2014,2014,0,0,2,Export,426,Lesotho,LSO,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3662,,,0
+H2,2014,2014,2014,0,0,2,Export,426,Lesotho,LSO,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,60681,,,4
+H2,2014,2014,2014,0,0,2,Export,426,Lesotho,LSO,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5235,,,0
+H2,2014,2014,2014,0,0,2,Export,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,32524,,,4
+H2,2014,2014,2014,0,0,2,Export,426,Lesotho,LSO,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,791,,,4
+H2,2014,2014,2014,0,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,188343487,,,4
+H2,2014,2014,2014,0,0,2,Export,426,Lesotho,LSO,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,989,,,0
+H2,2014,2014,2014,0,0,2,Export,426,Lesotho,LSO,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,690578,,,4
+H2,2014,2014,2014,0,0,2,Export,426,Lesotho,LSO,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,81411,,,4
+H2,2014,2014,2014,0,0,2,Export,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,929117,,,4
+H2,2014,2014,2014,0,0,2,Export,426,Lesotho,LSO,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,247747097,,,4

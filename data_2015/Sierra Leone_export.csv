@@ -1,0 +1,47 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,93257547,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,54787,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,52278267,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,178,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,190458,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1081069,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,79,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4828561,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,257,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,148,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1270918,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,261426,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2303412,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,62060,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5313571,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5662,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,40,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,59,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,86228,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,59,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,59,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,52342,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1647463,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,49253,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,510332,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,51803,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15796373,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,376873,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4021,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,79,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,77102,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1590688,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,350580,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,79,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,79,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,59,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2305511,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,40,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35387,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1916083,,,0
+H3,2015,2015,2015,0,0,2,Export,694,Sierra Leone,SLE,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,756006,,,0

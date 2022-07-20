@@ -1,0 +1,16 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,0,0,2,Export,60,Bermuda,BMU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8317389,,,0
+H4,2016,2016,2016,0,0,2,Export,60,Bermuda,BMU,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1434,,,0
+H4,2016,2016,2016,0,0,2,Export,60,Bermuda,BMU,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1143,,,0
+H4,2016,2016,2016,0,0,2,Export,60,Bermuda,BMU,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,221039,,,0
+H4,2016,2016,2016,0,0,2,Export,60,Bermuda,BMU,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9505,,,0
+H4,2016,2016,2016,0,0,2,Export,60,Bermuda,BMU,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5662,,,0
+H4,2016,2016,2016,0,0,2,Export,60,Bermuda,BMU,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27,,,0
+H4,2016,2016,2016,0,0,2,Export,60,Bermuda,BMU,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17543,,,0
+H4,2016,2016,2016,0,0,2,Export,60,Bermuda,BMU,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,422,,,0
+H4,2016,2016,2016,0,0,2,Export,60,Bermuda,BMU,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,70071,,,0
+H4,2016,2016,2016,0,0,2,Export,60,Bermuda,BMU,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,390,,,0
+H4,2016,2016,2016,0,0,2,Export,60,Bermuda,BMU,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3048,,,0
+H4,2016,2016,2016,0,0,2,Export,60,Bermuda,BMU,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,428760,,,0
+H4,2016,2016,2016,0,0,2,Export,60,Bermuda,BMU,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7484334,,,0
+H4,2016,2016,2016,0,0,2,Export,60,Bermuda,BMU,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,74012,,,0

@@ -1,0 +1,76 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,714734336,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3206,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10300,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12196656,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169199,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3303041,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65339,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23066188,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1028,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1056,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,460958,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54750,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4149,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2341552,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5591,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13489,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,723723,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40294852,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,415178,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165455,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46709,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12124819,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1179,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19046598,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14699,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4656503,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201804,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1127894,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2122920,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,616991,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4837234,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,278293,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2049990,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52130208,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,211485,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33539,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88186,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72125,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5833,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36085,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55427,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,167436,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21104084,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1402,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,326032,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1561173,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49176,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,501854,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,728503,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72000,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22995,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51375296,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4052,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39500,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1264177,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25513636,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20000,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65020,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1441007,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37221,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8611070,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19687436,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5693481,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,205443632,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195751,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1403092,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2264221,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175426496,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6424121,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1959870,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46333,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29399,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29901,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131347,,,0
+H1,1996,1996,1996,0,0,2,Export,800,Uganda,UGA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39391,,,0

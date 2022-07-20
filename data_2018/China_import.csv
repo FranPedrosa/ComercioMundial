@@ -1,0 +1,221 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2133605397056,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24079054,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108035667,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1177700854,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144993,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25826510355,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44553,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,382017889,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3516448060,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105810855895,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6923240152,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12876510,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,150124723,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,984423113,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,302143196,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21274990,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6967715296,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83979,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8487,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,329704235,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77401761,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14229756,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77569499985,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,255541,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,629315587,,,0
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25884,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,247510370,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1146431159,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5457982608,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11927715,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,571053716,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1376654693,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1095349604,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28359370499,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,290397,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,121274,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54250254,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,321882532,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95945414,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26730709192,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146221550788,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5887947938,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27965,,,0
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6813001070,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5655537196,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2502171,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,777220046,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,211997145,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,480383428,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53987540,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4399047486,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48324704,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4389665685,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,119207,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,180125017,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1988695595,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,164389033,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2139372096,,,0
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,345301703,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,310857810,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,245190749,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125937991,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25307141,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4781024849,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32212626915,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7035062,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,204482,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2976658825,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53887498,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20062361,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,444122,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106323509875,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2442011666,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2376,,,0
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102806,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,562508164,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,231912064,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2753,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86572476,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2187615992,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43082806,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7500576,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,781,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48268463,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8503489961,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4342073994,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,165755700,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34151845170,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21102280118,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22495274204,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10859500737,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4641156563,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21061508116,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,252306050,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76320862,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,180660538752,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8093143784,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,214181967,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,173757616,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,213151847,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,204643401328,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15343866351,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54327492,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2018152803,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48983511,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30088980,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,213051476,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89269998,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4779181282,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,330039468,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,312043219,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64087491,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,200056263,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27355541,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63205046045,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1033042,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88509008,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,349203408,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,473,"LAIA, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30853,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,861505278,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37444094,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14008909646,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,177614692473,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6344111519,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38388289,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41736137,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2744,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,706900466,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,633533508,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18898511468,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,502923033,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,121220,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21999560,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12332749097,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140646,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34296,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,200,,,0
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1093709391,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15682950,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11083329203,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105718831,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,171113167,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1853091958,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,171115,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10513,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,487984,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3421521148,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21774777,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33160256,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40063,,,0
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2172086000,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81763041,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2825845569,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39514179,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14914301898,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20611587611,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3645367549,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2249055585,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7638682,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3014403,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9146390237,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,637,"North America and Central America, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76,,,0
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2167852311,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59141093545,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39326143,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1017279,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59377,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,233028,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4562623,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49225,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45854380353,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128598402,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,223872460,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25219,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,177144352,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18833346931,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33727771702,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5245624833,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63956351155,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,591022076,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16552250,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27304126396,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,889626220,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8750222741,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1604135559,,,0
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,665165815,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4400,,,0
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53032074,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27459866,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8954752686,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38647609029,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,869406,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76844381,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44629636653,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,145761840,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118661,,,0
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,385430678,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16237766589,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,195076703,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3756859617,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6435959828,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,444,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8514,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46223884,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2645030412,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48343083,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1842524155,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23870561399,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,391255385,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,156015756423,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95118080,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2556225876,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1503385042,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7431396492,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4009,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,509571,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,719933259,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4082849703,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,393671688,,,4

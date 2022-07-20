@@ -1,0 +1,91 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1338216704,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5027845,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,387012,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,675337,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,785670,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152385,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129070,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,620630,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3434167,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15133819,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,765,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2978273,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6137670,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,476879,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12594014,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1159134,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,280099,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4409185,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95440880,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19910,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197029,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1017699,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,370805,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11970370,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2005446,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,191124960,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7525897,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15361303,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59270408,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107343,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33492,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4508239,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76974424,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,291736,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28065,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1493959,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46469,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1542341,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14534147,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,869206,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23242794,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,766813,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6645,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,200716,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1859513,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,524239,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62000,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3236,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54488,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47601324,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38055,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4826791,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20745648,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18555,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,552123,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,267806,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54534416,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2882886,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,956654,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,233475,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28502840,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16444358,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97887,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,407576,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2795549,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1011570,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2934428,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3857706,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36768,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18598442,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40050,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4196923,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6793410,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4870889,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,696491,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5390422,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2883423,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1455797,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10000,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1180445,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4301073,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1557427,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124992,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,333750,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15841533,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,510527488,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19727,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4065345,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,341931,,,0
+H0,1993,1993,1993,0,0,2,Export,320,Guatemala,GTM,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,404172,,,0

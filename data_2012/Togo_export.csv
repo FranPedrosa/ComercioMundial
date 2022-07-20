@@ -1,0 +1,82 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1119061949,,,4
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10066,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6541786,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10938,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2000018,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39378,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3616,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14766,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22879968,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9742,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3766342,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,673777,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,763811,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3997331,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18887304,,,4
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5042398,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1423492,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,344596,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111138494,,,4
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25353991,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2860619,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67421976,,,4
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2588,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88631351,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,236474,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10904862,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80579234,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1417,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1802773,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2911,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13888363,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44158,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24568,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7151356,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35552454,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24229,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9844,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48897,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6742116,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16342,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1140431,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10503156,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27323816,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5999734,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5293972,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8538,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10242,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6155478,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1437,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,94497813,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,93702600,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36948,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15751,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90004,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109370854,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45698,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2854,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,123885,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7989754,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56024,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15546037,,,4
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,737282,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10032185,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126826,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,899553,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5019006,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124309,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76500,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2028,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27192996,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1366744,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,637144,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13782,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4261666,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,277987,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6202,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,592982,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,204814,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,838,Free Zones,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4537915,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2710062,,,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,163478559,,,0

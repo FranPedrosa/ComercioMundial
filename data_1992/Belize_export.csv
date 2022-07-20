@@ -1,0 +1,49 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135938576,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79857,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2000,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4383,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8169,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,985750,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,337525,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16631,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16798,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5926336,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8655,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73753,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7500,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2250,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2500,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5687,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114766,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3858,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13893,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1174752,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3351314,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2717,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,364979,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4500,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226581,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1078901,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1141535,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,549,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17001312,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53451,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3011676,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,412035,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67106,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10221,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6126,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,750,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78368,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,831,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106149,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7451,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56499,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7171,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3847047,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32096092,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64140448,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1000,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8070,,,0
+H0,1992,1992,1992,0,0,2,Export,84,Belize,BLZ,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70633,,,0

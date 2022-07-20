@@ -1,0 +1,220 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,425369491041,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1124248,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4087586,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,401434110,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,452154,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2190712,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3813092,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12031535,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12851369,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,506875070,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5728459826,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4432015825,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146019308,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114817569,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1200902222,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104639097,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33507792,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20038300266,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23893889,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62946,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18666780,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5999062,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1669860790,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2832710779,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70707851,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74876,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40048594,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33718220,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,227022536,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,157326942,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,921027,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72734960,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,232048607,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171249604,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6173876251,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1672805,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2956256,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,514693,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,840836226,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66706,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1100723351,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23495430412,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61564,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10095,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,429365080,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70986,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9957787,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17339919,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51718,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,731365751,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78315291,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20861444,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,244196093,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2316651145,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1616645,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5132487132,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18586566,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76976247,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78145618,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78728097,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8018515,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23650729,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,245759,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,286544220,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,159490310,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17304531,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117654666,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4438692991,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33949318089,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,818286,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122253,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33224668,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27571117,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4728646,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1079355,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58050824014,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,386301510,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8505433,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7446,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1079440070,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4668694,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1001169,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,559221,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27884764,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43812517,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80793984,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1674342,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62714,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38449662,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5194887201,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2053844516,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,458083656,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1984671401,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52506258,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137711,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16634720775,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1442159901,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19559677233,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170142496,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,198759327,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19072525705,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120151473,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24297922,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,348422093,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1925700,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5052227073,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,564320327,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251986,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23043888,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23493899,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1308467,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,696438866,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11726155,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,323557953,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,446561862,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,995714341,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,214275784,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28676021,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38046924,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3732770093,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15472087,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2167317,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,277605907,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1695460,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,583503476,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1162970293,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4088731857,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4549408,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8405915,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85517,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,793179042,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46182380,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71448275,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174757307,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250986,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16390515,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25802538549,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8849085,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21295386,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34316,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,280111,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,953061249,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15859984,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8061364,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122480528,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10242849411,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2264768,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1677,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2959,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4336739,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,931756906,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9838778,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97867692,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2726024,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1213205859,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1701097351,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9992,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2492212729,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3219396003,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,350034,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,378366,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73403573,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1152407581,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4504252235,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1900542,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,565966,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9740483,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26418,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26073194,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16899643,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8429873,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170595,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,988507041,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7171078,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87964855,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13101728,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3746711814,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4119905830,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,443550113,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1170660701,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,271746032,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135754,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7485322246,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150206456,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13877379037,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71939973,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,380786,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57546365,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7724737963,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4623914580,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100561145,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4850616,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3360426922,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,916579,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85372,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129730,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,157597123,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1582297313,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,234319730,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4722405258,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2933530,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,574487,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,815930,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27659811,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150299196,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41098114,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,826811154,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5446112551,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,435988393,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42882411632,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1114241,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87541092,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,535182729,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201941372,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,462841,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8833489,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49548505,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27217260,,,0
+H2,2003,2003,2003,0,0,1,Import,826,United Kingdom,GBR,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2333241063,,,0

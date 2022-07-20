@@ -1,0 +1,85 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,395159616,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42637,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2952068,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,923187,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17166,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99733,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14882142,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,431770,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,628,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2302208,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,487808,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3285,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2893,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34389,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,976577,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65135,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,627864,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1031,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,118493,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,689501,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,360895,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,221,"Eastern Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1722,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5841,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68022,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127482896,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,552275,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12236,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9202673,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19604,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4031976,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1574,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1314830,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1538558,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7950,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17060230,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3608177,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1237,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10173544,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10638,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99454,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1212666,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136560,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87483,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,762,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,727452,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,357664,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2581771,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18045,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24597900,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,342681,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29730,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1252737,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4021399,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,263907,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33385,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32771,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,994007,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2231560,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7524,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,534141,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122855,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34279,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6036115,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,275218,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3034641,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1693316,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8151162,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12591,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3437250,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,906882,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,702557,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,564422,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,375609,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71209,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10183,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,247227,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8624,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,231380,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12636594,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38347,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39510664,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,158465,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11194,,,0
+H0,1994,1994,1994,0,0,1,Import,178,Congo,COG,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77211824,,,0

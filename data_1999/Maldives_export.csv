@@ -1,0 +1,24 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,1999,1999,1999,0,0,2,Export,462,Maldives,MDV,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63951212,,,0
+H1,1999,1999,1999,0,0,2,Export,462,Maldives,MDV,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41270,,,0
+H1,1999,1999,1999,0,0,2,Export,462,Maldives,MDV,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31330,,,0
+H1,1999,1999,1999,0,0,2,Export,462,Maldives,MDV,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12321374,,,0
+H1,1999,1999,1999,0,0,2,Export,462,Maldives,MDV,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2511,,,0
+H1,1999,1999,1999,0,0,2,Export,462,Maldives,MDV,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4709,,,0
+H1,1999,1999,1999,0,0,2,Export,462,Maldives,MDV,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5970983,,,0
+H1,1999,1999,1999,0,0,2,Export,462,Maldives,MDV,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1713048,,,0
+H1,1999,1999,1999,0,0,2,Export,462,Maldives,MDV,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,292760,,,0
+H1,1999,1999,1999,0,0,2,Export,462,Maldives,MDV,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2043696,,,0
+H1,1999,1999,1999,0,0,2,Export,462,Maldives,MDV,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16692,,,0
+H1,1999,1999,1999,0,0,2,Export,462,Maldives,MDV,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1800221,,,0
+H1,1999,1999,1999,0,0,2,Export,462,Maldives,MDV,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,224839,,,0
+H1,1999,1999,1999,0,0,2,Export,462,Maldives,MDV,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4853,,,0
+H1,1999,1999,1999,0,0,2,Export,462,Maldives,MDV,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6076,,,0
+H1,1999,1999,1999,0,0,2,Export,462,Maldives,MDV,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7953,,,0
+H1,1999,1999,1999,0,0,2,Export,462,Maldives,MDV,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,186756,,,0
+H1,1999,1999,1999,0,0,2,Export,462,Maldives,MDV,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1088012,,,0
+H1,1999,1999,1999,0,0,2,Export,462,Maldives,MDV,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10905156,,,0
+H1,1999,1999,1999,0,0,2,Export,462,Maldives,MDV,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33140,,,0
+H1,1999,1999,1999,0,0,2,Export,462,Maldives,MDV,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4605677,,,0
+H1,1999,1999,1999,0,0,2,Export,462,Maldives,MDV,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22648310,,,0
+H1,1999,1999,1999,0,0,2,Export,462,Maldives,MDV,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1845,,,0

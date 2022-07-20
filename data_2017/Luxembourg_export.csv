@@ -1,0 +1,53 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11517510520,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,544074,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,596,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,257314227,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1618414216,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23876797,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,677366,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4717106,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3021986,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8895781,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6393569,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,172979939,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104626929,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7511359,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55829984,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2065316001,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3766519531,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29489779,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,468022,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86440588,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50606079,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,543584629,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9912,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1534743,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125715,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6520707,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22955051,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1632845,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3856535,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48511,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,778587756,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,635395,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,241003038,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44922,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,335540667,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65744972,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72641,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61486918,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1929084,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,707673,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52889281,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4253860,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42661621,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,496444,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,332121954,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,198009100,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28746,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,163913,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,482727248,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,839,Special Categories,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65315394,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8714739,,,0
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,462551,,,0

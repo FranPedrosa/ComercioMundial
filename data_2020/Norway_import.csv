@@ -1,0 +1,193 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81623755550,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,392743,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3862464,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2327450,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9767,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1442874,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114737514,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3801196,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7020717,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36673005,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,167544780,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,630123940,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23551,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21365671,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,271608034,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,703823,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46932,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1314342112,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3033,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1368503,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25918011,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12633240,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1303614737,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7953,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16375,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10085,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92953097,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44355220,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,281199,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,166253969,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69726597,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24654202,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2021548602,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15191,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31501,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44988623,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,145,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157872528,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9740304391,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,164176495,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7662,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2120966,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1010,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55803502,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71194407,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1351859,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11211426,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,955353170,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26272,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4393327156,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6004,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13534619,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31033055,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1103160,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42473198,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14077574,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4222,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,571249579,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42061400,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17267,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,229,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30987,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1815142031,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2543553995,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,113885,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,116261568,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1818381,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4119,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,802762,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9261006950,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3545705,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44353,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91873060,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32985595,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55190,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1438,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17760588,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,771347,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,476583,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109855,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4168743,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,103778046,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,478478559,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,215764158,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,176501630,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6243717,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11319,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,516667597,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140424932,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2439073906,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3679030,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35605,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1603452965,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5530330,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2115735,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56780253,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1597247435,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124587,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53115,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3634238,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3697430,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,338123989,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,240345,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2926,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1115695429,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85727490,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,903797,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4217559,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,226831,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,329549568,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1528851,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,283533,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8308135,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48324732,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2250892,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,290234156,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,542345193,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,362371,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8088624,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,305526,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110051521,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5308651,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21639044,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18763612,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95599,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1840109,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2762541938,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149166,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10016,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1373,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,370,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51237691,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3219975,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,338322316,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49252351,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104975172,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25468517,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,207842,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,435495,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,199169237,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49161347,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3032473123,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,324117831,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,202144,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,801,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46437209,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,464933899,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1458369328,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,459412,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,237,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118817,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10584945,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61199818,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41551967,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,665,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,571832302,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,503321505,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,387520537,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,864304544,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,161167146,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5410,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,245479723,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1540711,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1954349072,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124677,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99612,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2421384,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8646245721,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,869417416,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1166407,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13599,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,377071345,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,174014,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14976693,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69891878,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41065145,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,934871450,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1935,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,695,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2053609,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61337370,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9388204,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42857227,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4432557863,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,914198,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5520577823,,,4
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,103770,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50484341,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42136,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,291679,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41316,,,0
+H5,2020,2020,2020,0,0,1,Import,579,Norway,NOR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,481781,,,0

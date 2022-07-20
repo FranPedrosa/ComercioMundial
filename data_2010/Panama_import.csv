@@ -1,0 +1,106 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16737103355,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,66224,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,132126,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,80179988,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7029863,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10584314,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1935530,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5286149,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,166442,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,430348,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,119829910,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15225,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,387207,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,333873056,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,638207,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,510,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,150927,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9083841,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,65949785,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2178257,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,86579229,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4172705668,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,380645691,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,475179262,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13215974,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2215242,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32043610,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10748,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30785814,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,72286516,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,88319445,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,163656,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14863940,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,209909824,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,261035983,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1339775,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12766,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,203500560,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,655758,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,171540,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21619785,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,756388655,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1031633,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,106593444,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28136113,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8171552,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,178045581,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12301844,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,496368122,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1346318,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,290500,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,425668263,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,415086,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5101666,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16139,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,112428,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,94495764,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34188,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,473,"LAIA, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,142,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2363314,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,716307881,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,423890043,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,677238,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3287,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,101109435,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,530,Neth. Antilles,ANT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2708350,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5514660,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26919161,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11333179,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27362,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4718297,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9753000,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,65784,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6082235,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,64678035,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6161709,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1279675,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4558326,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,776805,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,145478,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2985091,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23898,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,316,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,92672588,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1733900402,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,163155360,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,719042,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2358876,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,274026947,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1681627,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,60556533,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,189982222,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,610096,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,237106449,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7883824,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3868549,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,96002,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,62826724,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,149840,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7509477,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,204081949,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3422947523,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32130332,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27029625,,,0
+H3,2010,2010,2010,0,0,1,Import,591,Panama,PAN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30680,,,0

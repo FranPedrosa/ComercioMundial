@@ -1,0 +1,46 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8920474,,,4
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,417,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1052,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,788901,,,4
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,60557,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,90564,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1168,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17686,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2781,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,854,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,210,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4528618,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,81912,,,4
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,24642,,,4
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,366169,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,28667,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,422,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,37092,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1388,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,79553,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,208,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5903,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1871,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10659,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,600,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1224,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,46131,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9742,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2568,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,809,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,89221,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5319,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,426,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,90092,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,75916,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1019,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,501,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,458955,,,4
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4260,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4655,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,967,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,208,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,899,,,0
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1955062,,,4
+H0,2001,2001,2001,0,0,2,Export,270,Gambia,GMB,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,40586,,,0

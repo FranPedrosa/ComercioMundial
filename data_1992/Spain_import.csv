@@ -1,0 +1,201 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99756941312,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1155585,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,748647,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1023367424,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11417329,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106847104,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67467,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,267981,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,632388288,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,249916256,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,747821248,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7027753,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143088,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45551424,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68006,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,826120,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3176058112,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1828478,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33133,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3610323,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3340304,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,972309824,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2575877,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4722,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,178155,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101468,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36034384,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2367107,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1382472,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25335976,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,511221,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,329729664,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,568981056,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86255,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1050946,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13369435,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23858480,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2718454,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,459731424,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1618687744,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43875,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,191084448,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60711,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156450688,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20133300,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19689206,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10933918,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83929936,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15731973,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,200,Czechoslovakia,CSK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,176337872,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4210040,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,836148224,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,320186,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21236448,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142555792,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5247773,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17904652,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,230,Fmr Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1298630,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2941226,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20347788,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1892297,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4888,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,740656192,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15829707776,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8360204,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36507,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134339,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44370168,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113942,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5231548,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16361324544,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37556944,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3197682,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3621,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,248068496,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,724547,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,217745,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15807,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11878384,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70268536,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2457045,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1443598,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40260460,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,314149760,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123214128,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82381520,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,393041024,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,357453984,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,887648000,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,252733024,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9806413824,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151300592,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5870819,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4649607680,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1024502,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1543332,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27258752,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44822632,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,793328320,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13194591,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10354,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,989918,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1596941,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7517748,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136269600,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1242943744,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4056290,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17391094,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8847611,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11118049,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,294076928,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131359,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2200679,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11157169,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40230,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53964092,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34526080,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1353097600,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1152373632,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128915,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,357585,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,472663872,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40568556,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1805301,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74341,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1984383,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3460395008,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16612536,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2993017,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24509716,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1777360,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73889760,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6435992,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,255913,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1303867776,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,475497312,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150694640,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46553624,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,849263,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24904774,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68883720,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92412704,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,182897040,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2696354048,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1129453,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,281443,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,185590,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67930392,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,826228544,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1792864,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63778,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110046,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18037,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4035364,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3037036,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181843,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1081229824,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30271006,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58204,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31790500,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,312976992,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,322462464,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11942406,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20261912,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24221,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,525314976,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41991676,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4787496,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5209197,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1329035136,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1539036160,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125021080,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109451,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,490737600,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11006378,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40389212,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153630512,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,141635088,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,416897792,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3840899,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61892,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21694080,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20077784,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,396577408,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7282332672,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2230864,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,162327,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21430,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146839,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7380786176,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5916,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1839497,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40823400,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12373381,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117312768,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5385,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,210913,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60815768,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,649046,,,0
+H0,1992,1992,1992,0,0,1,Import,724,Spain,ESP,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,283470112,,,0

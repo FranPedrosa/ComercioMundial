@@ -1,0 +1,71 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1688025472,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60562636,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,242359984,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,308716,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,869453,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65248,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2979951,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2377825,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,369476416,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44576,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7700176,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22768,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47638168,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1027358,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1050,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,802,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34000,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1716692,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1713532,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,887522,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129200,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97646,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23718720,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57775572,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49018,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115384,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13986,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23293958,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,203872,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,758398,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16065,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,323401,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1199155,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21178164,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60249,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,204129248,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67032036,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25804,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3604266,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15337997,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112888224,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20817432,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19052,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2360,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109637,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12985,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27809644,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2119878,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128753,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,339483,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139111,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138731,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2752366,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168052,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5088271,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6851708,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4371173,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9594276,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4834217,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10823386,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90612,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1416384,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40636,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8217,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55135964,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,237674576,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20711586,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4692444,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120893,,,0
+H0,1993,1993,1993,0,0,1,Import,600,Paraguay,PRY,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,276422,,,0

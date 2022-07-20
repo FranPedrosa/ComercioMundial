@@ -1,0 +1,214 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,219514372881,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27298825,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33589025,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,567383592,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23856,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12124,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4228350,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72857,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,410710278,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,557477906,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,406697901,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1465021397,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7414302,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,177923470,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,569883464,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3351656,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18721,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3716087602,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3315,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,921365,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,167162261,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,203069119,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5386,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3228353167,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2284,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14050,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2124159868,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48429578,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107270,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,176005320,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63784328,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43775261,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1078395608,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9400,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17985,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1774099,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89890236,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70731860,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,294600240,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23040812005,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,375,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,662,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1013175518,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4646037,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8704220,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,939083,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65992566,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,241349409,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13016679,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80082202,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2746267558,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5465154,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,843890946,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62617,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17015594,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,155856772,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1903814,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25421,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40527249,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4193,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,166325383,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1191719,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45019,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1009074050,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6988091885,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14312,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53916,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20375646,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,348883558,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1459508,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35993161,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21732800358,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,294084642,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,624956,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1463,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1320976014,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12323,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1514,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17807335,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,162016667,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1401355,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,709359,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22949,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5841975,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,254348610,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1470670343,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25963697,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1184801460,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1192718379,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8201654878,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,916993568,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1496260181,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9199669923,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,322637878,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,160432,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3742695307,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1180549089,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,94201054,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24065901,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,93304,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5734338558,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53385230,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91158666,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3832003,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51548704,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12879,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,155479376,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100209136,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1674296534,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,459100200,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,139745830,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33751,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14626878,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19806916,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1990601824,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24077,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3806556,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107129468,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27038655,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2702360,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,833479676,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1443470801,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2107394,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,181389042,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18019859,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40001,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,642097447,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71046172,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,329576574,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129229,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41671,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14389199,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3628592954,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1999,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,718,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,295,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35599207,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,932248,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,165914,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128978082,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81037,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,682064362,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,243057,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37919537,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9032865,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,268750632,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40216561,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,365051,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4186648,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,288599912,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129980976,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3005108239,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,960100537,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1180499,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68308,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,301504577,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2769255134,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17829236218,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54052029,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1046,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1980611,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,361,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1194171,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1759501,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25843,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1719668491,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19028784,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,445909289,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9045632,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1788379,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4830121454,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,299748800,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,978370377,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1368554962,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,390164453,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4938346,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,887895814,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13636960,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5039416479,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,677,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105465059,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80996,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9360,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1763749337,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7771743175,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,245610480,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149040301,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1210573939,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10881142,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13946,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22895458,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5603801304,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,150604647,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,319386759,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9324,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,98833,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9100430,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2590374549,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,130732944,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1722943812,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5582390871,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49680738,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,839,Special Categories,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13662686374,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11525369733,,,4
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7510177,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,225294373,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,969983695,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61778066,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13831,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7665651,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4135236,,,0
+H5,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23177049,,,0

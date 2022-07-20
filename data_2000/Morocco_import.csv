@@ -1,0 +1,146 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11533382656,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,190525456,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100437240,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24683976,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18786272,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136651,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2711316,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,970758,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,799,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9308,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,183733136,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,595640,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29714,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1594131,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171390128,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4111,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12253882,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8817573,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,554,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9857924,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226308064,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40988,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,513307,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2258477,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2881798,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10109314,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,267955920,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7594790,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2958,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8663535,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15686,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7258618,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1778133,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,413067,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12397506,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12834745,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8957143,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56164628,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1893223,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,164549,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18154152,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1030332,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1496232,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3793506,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14522,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113668496,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2771348224,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17428176,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74865,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,562785792,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,924796,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,531193,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19527712,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25411080,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14005757,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31566,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,487682,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34232628,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7304173,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,435260,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37804600,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,357368192,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,475208704,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29418096,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,546309504,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18015752,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1687,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,194803136,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4388640,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2257438,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,394695,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,118772448,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9623452,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7203338,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15320,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7152,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60273280,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,320346,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1150247,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140404,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24701684,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3175715,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1017542,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27733,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,620446,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6869077,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59873648,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9732726,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30543,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,194635040,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,660956,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18249924,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,263411,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38756,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5205352,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24685004,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6090807,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,363215,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45434,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3462310,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1878890,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52657204,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75174992,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4368903,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27523052,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250730208,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115681,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,573127936,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,689927,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13022,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40528,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53654344,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9786962,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3629138,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4906057,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2545347,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88343488,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1869464,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1138417280,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151289,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1271,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90561,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,255947216,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113788816,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10300659,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1232489,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17408390,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2869709,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19399796,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33717400,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99748536,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,908936,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72290,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99465472,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42622004,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,711638784,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2548316,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,643524992,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4326409,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4785832,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1684334,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5749070,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140087,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79351,,,0
+H0,2000,2000,2000,0,0,1,Import,504,Morocco,MAR,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1051038,,,0

@@ -1,0 +1,151 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,17767574788,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,581612,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30878,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1996,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,231707,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17014,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,622514,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6368025,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1796405,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,168100980,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19332,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1443058,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3051044,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2418,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,314869603,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,198268,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,720482,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,425,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13030605,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18677,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37017744,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,701833,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,358574072,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74920,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,669443683,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,191,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7234534,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4261436,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,570675968,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1018119,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,337182,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46556,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12747208,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32026,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8327848,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,270587907,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,355702018,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2934,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83484,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,354856,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23607,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58349,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1504770129,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4237072,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,751967157,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,327015150,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,156,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7275944,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1941954506,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,758017,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,797,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20734372,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14430,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3201,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19668,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13855735,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,181219158,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9909994,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6411975,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1478440,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,867,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106747057,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15990271,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,584772833,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,753770,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,393,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31332215,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12294075,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,176910,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60013,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28422020,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5412242,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1283236,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,564,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,313357,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3133363891,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8679470,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,907,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73700,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9752705,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2790,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20410,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1024276,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36346,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,131917,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19610561,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76346744,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8341490,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70446,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1256927,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3648,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36373,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,702799696,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1361954,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,341,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2872126,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51257,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,196953,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,301608,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73051729,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,324,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25975,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6446276,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17856,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75415,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2473,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1080536,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1879717,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1673042578,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33369256,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55010,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80508773,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1209071643,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,453,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2146,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,376189,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,167363,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7527868,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,872783,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65192275,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7781791,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157886518,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,183642813,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42192841,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5725543,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,240516,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,265645579,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4861,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,586068897,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96259867,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,151,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17423614,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9094521,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,475714,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,123510427,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67715,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,595572,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,207084570,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3674333,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3995324,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,390111243,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,169246657,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,487290,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54674,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9602415,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,303,,,0

@@ -1,0 +1,184 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,17917997364,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,420830,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,160155,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,495,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,935078,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,824,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1869,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,311633341,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10673361,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60991078,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109347713,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3888178,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12748166,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1291,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,93861,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,120232044,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,262128422,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,176695,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,662990496,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,284547,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,151916,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72439,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5457,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26526,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7750046,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2363397,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,309,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42175244,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6865104,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,741,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,330755166,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,260185,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23010,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13950550,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,449022134,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3946417642,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,932,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1489704980,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42337570,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1598761,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,463448,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54617,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32903131,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28461384,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57194,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17946534,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5362272,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1112,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34769,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6516,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26365470,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1022,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25063499,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,167534384,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3379,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1589,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2678027,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,260,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,485162945,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3714,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115038,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3588117,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11751817,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1221,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11346,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51331383,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,602694,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26728,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1383092,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56655362,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19273144,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128231,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80317532,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,267470,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5025,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21806941,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24781329,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,248155239,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3281470,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,156998,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,378555798,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76344,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,624006,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,758045,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,189156,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,396979123,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12785,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10936,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,130915,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,337517,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,854,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28723725,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9439,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36918386,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,998027,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,482950,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,170606,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49210214,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2704,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30205,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,240161,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,590759026,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,152571775,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15764,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18448,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84447,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3577042,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3678,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1998953,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4062,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7807,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2060,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,123511828,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1073302,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3370476,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5849968,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2724,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3721,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4343,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5825299,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,488861,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41837,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7443960,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158526737,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,282,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16661261,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,599949665,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12350357,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6831,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36067457,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18530453,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20573,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149620,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10321746,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,190606729,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18647,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75785,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1243,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1624,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108874,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,98,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14810387,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,203072,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1700904,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1333141,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19131,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,261912580,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70544199,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30196910,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,179006452,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7189393,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5149098,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,455672984,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11428,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60453,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,428740,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45173459,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89432277,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,358163,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,201112736,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44652,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4754398,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5647900,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6994597,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62044190,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34072,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,142,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9032298,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45823,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3479306,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,152846224,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,215,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3927757926,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55604161,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,794,,,0
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11612195,,,4
+H5,2020,2020,2020,0,0,1,Import,218,Ecuador,ECU,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,273327427,,,0

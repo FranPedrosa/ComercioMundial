@@ -1,0 +1,138 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1761552833,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,380,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,159248,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,380418,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1927574,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4116587,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,759134,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,526210,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16923,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24015660,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9546096,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89663,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18400,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,624,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25857756,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1468857,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2565348,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,223679,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,477,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26765753,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35693,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,302068,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,293460,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3476113,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157076943,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14462768,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3210,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,150,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14564247,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,186496,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3506637,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32922,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,557528,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3857272,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,142166,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9582579,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149698,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1838745,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,215742,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,542899,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2999094,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,781,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29896616,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24087,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,818,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8900,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,903,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1805039,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1250,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5510591,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3217,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,120890,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,20,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,123,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,707855,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11053785,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111196,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,276571,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2418064,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82452,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2526441,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1539595,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1191175,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4304086,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8788259,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50229116,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10031,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29038,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,441342,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24590181,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5676,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65836,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3932339,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,222426,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,192478,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2325,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88213,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4626044,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,171335,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20845326,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2595267,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,497,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31690,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64980,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31061477,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,981253,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,204237,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,329,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18688201,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13831,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81763,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1020569,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106833,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,416153,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22910977,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2815218,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22212,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4070291,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,528809,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1370,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35836,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,873386,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,156321,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26367,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5918710,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,253490,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1650639,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115788,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,183,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21571963,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6466778,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,167348,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1016970,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51853,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1012423,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1880958,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107394528,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2527168,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3330870,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8735409,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,94802,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5971912,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,484273291,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2471750,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12339,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15432616,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,138,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,746614,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,501705,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36862708,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,466170246,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3428456,,,0
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8685963,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7411,,,0

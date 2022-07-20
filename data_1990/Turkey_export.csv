@@ -1,0 +1,133 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12959381795,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1432276,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5679586,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201093848,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,410691,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75608,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,698291,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23271789,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,178454540,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68706,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3526159,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3308065,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,311728561,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20327,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21450,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11762899,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10358180,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42722,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,176710,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1005234,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63986641,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16179,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12171341,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1096780,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37184300,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8441095,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,489595,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45104,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,394023,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154771637,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,200,Czechoslovakia,CSK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64370917,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,785554,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86633970,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1534842,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,217161,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,230,Fmr Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,825125,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25421818,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,736782573,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55242,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55056,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28084,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,202239,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12897213,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3063715400,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,390094,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49246,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139367121,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140652,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112532,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14435,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59280,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35218062,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30587687,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,572314,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14991834,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,495479825,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,214478202,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24806236,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46493614,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1106256783,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,638240,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,167440,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,239225597,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80848092,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3128917,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25671523,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108848221,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92189021,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,872563,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50646258,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8328310,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,220484043,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67654,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9150,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11482134,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148191,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16204192,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28405,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3307111,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109617974,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24629840,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,158182,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4544471,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33440,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,435340332,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2040000,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5360158,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136078,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,447862,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7646743,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40005007,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47600177,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13610033,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,415836,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,310592,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7267347,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103418902,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44341482,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6106220,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27164,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83157096,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,338381098,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1547232,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115327,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61552226,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32850731,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50780866,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40867,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199094577,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21354916,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80238333,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,292771801,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,194485300,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30746068,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156347,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,646053,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75406331,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39746076,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1738221,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,810,Fmr USSR,SUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,531089361,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160095789,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,744766455,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1336431,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,967590294,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45046,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22253,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1204017,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,868619,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,886,Fmr Arab Rep. of Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26632113,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,890,Fmr Yugoslavia,YUG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145191463,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28888,,,0
+H0,1990,1990,1990,0,0,2,Export,792,Turkey,TUR,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26073250,,,0

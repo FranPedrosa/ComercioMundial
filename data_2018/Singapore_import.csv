@@ -1,0 +1,227 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,370503520526,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1713054,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1114528,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,205566,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,420639,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,332054,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73371402,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1530193,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2715781,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64512540,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5457410227,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,802158480,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41881809,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124321491,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,269023207,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1299259,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,934005,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1338933531,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158199,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1103441,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,696566,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4532018,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,358645519,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1554850394,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,192723,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4930113,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1924616,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64872,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,524691834,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,130116787,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,197340549,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,579390,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12333076,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,120074970,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47454266,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1542397586,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,307952,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3987555,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,261503,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,94511096,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,387909,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90785140,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49634339179,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,354121,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136834,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,457526547,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,919517,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,220463360,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,534970,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1565252,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83128943,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47736139,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7056151,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41585899,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,471945843,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,188502,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,547871325,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34322,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41310804,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14342749,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11692001,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,443128928,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6107380,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37944,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100604607,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,299498,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5073524,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,298107974,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11425489239,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1886075,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60913,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1961949,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38346355,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5031163,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13358,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10116608748,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,116788616,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,205067,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65697,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,535392012,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17454,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,709990,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16292173,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57570,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39320,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1150483,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136536,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2721366,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3638352361,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,296036086,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4294754,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15211823233,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8758228,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3622226972,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,974768340,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,627033702,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4343309645,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9436571,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,741126,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22149228137,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,228154959,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18764445,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10392001,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14192811020,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4073487740,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,289142,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8491491,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1514508,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2227057,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,291783984,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19873,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,664516720,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,406254143,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99284978,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14442941,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58445362,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1165334,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42774627726,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1479780,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62738,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,408902653,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,192220,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12372612,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2345685861,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31417968504,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,528002,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1360749,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,829241,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,375418,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,143392596,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6259685,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,378539367,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87493699,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,201468,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2836217,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,527,"Oceania, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,324654,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4296908353,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50940000,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95316,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1106234,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,465094,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,808387482,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1397489,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,733908,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107263204,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147168,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33081,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,470247,,,0
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6427,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,698873313,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91058,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,954470,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9364,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66189,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40684,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64361899,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50808067,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,245731504,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1659828,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13251839,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7815108492,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,94661,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,477267968,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,405785888,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1080,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44834234,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6784211570,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,637,"North America and Central America, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,269572,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107609294,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5760799084,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,274238,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,153574,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35667,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36341,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,560804,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,168,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,245213,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3070735,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12631328246,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2979534,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45459624,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,525425,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,760550,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7261704557,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96914676,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3466519467,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68360988,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,247583,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,665571619,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15982753,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1245120180,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9178,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,619715,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,150709,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2063580,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1138934204,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10144364509,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,520973,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25020,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8291493491,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,713974,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2332431,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11341,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42349747,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9694683582,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78413384,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,630787410,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,311409,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,309205,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18189,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12159738,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,216127696,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,810345,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,177897136,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7724122094,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15920787,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42103028657,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1180348,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17942267,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10147460,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,749271281,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36164,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5933,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2531725,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83830445,,,4

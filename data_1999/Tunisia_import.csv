@@ -1,0 +1,150 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8336881152,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3881,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52268968,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1434,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14250,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58867448,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9305209,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28645596,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,265421,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7634944,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4059901,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,316822048,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10108,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,266808,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55843260,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,960,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6851073,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100701,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39108,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4046495,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53020584,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6511,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121547,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12687318,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,390942,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2887244,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85570056,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,454318,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29822,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4458,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2016634,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,433009,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11327999,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1765726,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13972096,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80763,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18311192,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1012590,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,569193,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94875,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12322,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45105,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44704120,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2230871552,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45967,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1915749,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,862,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,929176704,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2309008,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60284,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27655036,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,662,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,564953,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,235102,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86579,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13307872,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20606108,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16957330,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6646173,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16566044,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15599301,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1537367808,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15880972,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2562,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,207932896,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19689,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6736663,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165200,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2001200,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81048600,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5649941,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17376,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3409535,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26704,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151830,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,233028224,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97253,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6227433,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5297,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1704865,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1226298,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22783512,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48890,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1985864,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14404706,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1413627,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112968,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2591932,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46120432,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8275,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42326468,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1450,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1049924,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181196,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143051,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180804656,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57374,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20642,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4229514,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9096,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154673888,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8101547,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,225036,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9851,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91942,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94879,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1343068,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12233167,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25556098,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3887578,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24464968,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122537776,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42378488,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2411564,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1679867,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1184,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38419424,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17313516,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3178660,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,886040,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2146906,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16157,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5067796,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2246634,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,335875104,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5241567,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1435,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81626832,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76125040,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5459375,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17620988,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82353,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9015767,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142151360,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4089,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,421724,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38795704,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48337280,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174039552,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,141250,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,252958,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,359600160,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,656050,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67197,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67079,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181364,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4481926,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34802,,,0
+H0,1999,1999,1999,0,0,1,Import,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69469080,,,0

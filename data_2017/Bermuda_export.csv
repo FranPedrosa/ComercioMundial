@@ -1,0 +1,46 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11742165,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4421,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133,,,0
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47,,,0
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,821,,,0
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1490,,,0
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10499,,,0
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,571702,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,178,,,0
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,344,,,0
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,707,,,0
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27890,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3248,,,0
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31936,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2528,,,0
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4684,,,0
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9022,,,0
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29116,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,310,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,170,,,0
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,710,,,0
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,310,,,0
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,293593,,,0
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80067,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,351,,,0
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144,,,0
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18214,,,0
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1907,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26321,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23774,,,0
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,445976,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1803,,,0
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,399,,,0
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1057,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3668,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111,,,0
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,385,,,0
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11115,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,740,,,0
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45594,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,938,,,0
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,512220,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9532280,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41210,,,0

@@ -1,0 +1,212 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,193184261936,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38612,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3881694,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2458433734,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59714,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3568946,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,505833696,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11276,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,210030,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,14941274988,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1504743664,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1476085585,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54294061,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44730623,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95131003,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,905736,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79068959,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1574632857,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86181,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2396106712,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4752380,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,194055,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,397014,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,194,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3435016,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,334621,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47792382,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1255945,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,484,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,738182726,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9176266,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66323412,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2940898226,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53964,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48952,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,232261,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25351978,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,926,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4363422410,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27829289501,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,995,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,260809,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1171504483,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5828,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10903914,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13444908,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,394086106,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24354651,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82852790,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,853009,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,495992640,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,561116835,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46989,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15727742,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60668376,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5712429,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,522413264,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38414,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9910,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29802802,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42098,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3273,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16509,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,866110265,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4981581501,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46687,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1819,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9206663,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,341163,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12988653511,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8479005,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,116426627,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30922,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71967271,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7608,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17232933,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,448,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76264,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,752787,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13424,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6098246,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,793554816,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,241194849,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7114652,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1617614655,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,132342088,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,755482557,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,583075493,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1068914507,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5041466012,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59069169,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,895679,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7291542963,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46922459,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1579597,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1036996,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126823816,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9039384543,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,260035411,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,207647,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,309702,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1734763,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104543,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30688805,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2419125,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104458304,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62986989,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,322031624,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7350000,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,229944,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3398898,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1831426601,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15609,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5510,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46328748,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5061,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1355596,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4041598317,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3275942301,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18847,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44834537,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1403,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,247,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,715170006,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2102745,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13312980,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,222064,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,391,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,840106,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1862013411,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,530,Neth. Antilles,ANT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78940630,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,513474,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3170,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12947,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47626013,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,287478,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16560,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6022999057,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7358,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,820,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,717396776,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3226,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44123,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6635,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87461,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7468,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64935699,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16035897,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10891,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2196696295,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,950166091,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,342708503,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3421,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,476920194,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,613461091,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21266,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,240427115,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,132961426,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2099433703,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1747885,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11582,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37862,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6140117,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2112480936,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,434983,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4786510,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1220842,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77339,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4468601768,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,883153170,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,164710454,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,520492352,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64862442,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2332,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,789040315,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1756036,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2936704725,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5089,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,736,Fmr Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44109,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,219689,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19838635,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1800445086,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2940277361,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48731511,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3615,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1957883504,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7434224,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,653861,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92665,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,423787404,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,204058506,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137131018,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,705421520,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,410196,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5629,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,338834,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,386121760,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1963353,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,183511146,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3266853681,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,284962,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28714539978,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51803,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1648013023,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1113956,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,913409757,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,665135,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2061,,,4
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2360865,,,0
+H3,2010,2010,2010,0,0,1,Import,76,Brazil,BRA,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,794299759,,,4

@@ -1,0 +1,69 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165379940,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,385,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12551,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,177207,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,164,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,454456,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2806,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2434295,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3698,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2199,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16409,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20364,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22550,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24131,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15293,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2118,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6284,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15230,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30946,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11775,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56496,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1369,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4997,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72324,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,524673,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23863761,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18740,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,159183,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9443741,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63426,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103515,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3991,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12718,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,340,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2225,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1963938,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,228951,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1787,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10294,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31669,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39600,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11370,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18740,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4790,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2348380,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,851649,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1411834,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4920,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1772330,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,399973,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15363,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11407,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16241,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58027,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16991,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11223,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9278,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113013163,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4532,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,215600,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2475231,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3123,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16241,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2543943,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,283766,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1106,,,0
+H2,2006,2006,2006,0,0,2,Export,20,Andorra,AND,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1,,,0

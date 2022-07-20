@@ -1,0 +1,155 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10054975488,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3053000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11907000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7376000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8179000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19021000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1079298048,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,423000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2066000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5550000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,235718000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,492000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16034000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37606000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,390000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,578000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46859000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3342000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2487000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14963000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1981000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,744000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8173000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23844000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,200,Czechoslovakia,CSK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,248355008,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53953000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,667000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3303000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,372000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,230,Fmr Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,381000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65273000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,334199008,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2880840960,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1653000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,329000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72794000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,163000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,410000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8874000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,495000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8760000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110686000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3794000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31997000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,897590016,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,655000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85763000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9275000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,954000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2910000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13011000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20004000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25458000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,333000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7294000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7212000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3812000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,415000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2653000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34524000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2210000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5740000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2894000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,179000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,230182000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,867000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,299000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,258000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4890000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20614000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22909000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,278000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1240000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4732000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127823000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5627000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2255000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,179828992,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1348553984,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25596000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,276000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1693000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19114000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6930000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6415000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9200000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,703000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115501000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,659000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121293000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,194079008,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26383000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17528000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15163000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9081000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121880000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,412000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35559000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,203372992,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,995000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,330409984,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,977000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1890000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6502000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,340492992,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92000,,,0
+H0,1992,1992,1992,0,0,2,Export,348,Hungary,HUN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9877000,,,0

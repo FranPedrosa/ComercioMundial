@@ -1,0 +1,16 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2002,2002,2002,0,0,2,Export,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10614631,,,0
+H1,2002,2002,2002,0,0,2,Export,132,Cabo Verde,CPV,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40334,,,0
+H1,2002,2002,2002,0,0,2,Export,132,Cabo Verde,CPV,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,855,,,0
+H1,2002,2002,2002,0,0,2,Export,132,Cabo Verde,CPV,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20349,,,0
+H1,2002,2002,2002,0,0,2,Export,132,Cabo Verde,CPV,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,248281,,,0
+H1,2002,2002,2002,0,0,2,Export,132,Cabo Verde,CPV,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17073,,,0
+H1,2002,2002,2002,0,0,2,Export,132,Cabo Verde,CPV,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153199,,,0
+H1,2002,2002,2002,0,0,2,Export,132,Cabo Verde,CPV,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62380,,,0
+H1,2002,2002,2002,0,0,2,Export,132,Cabo Verde,CPV,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,287906,,,0
+H1,2002,2002,2002,0,0,2,Export,132,Cabo Verde,CPV,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11877,,,0
+H1,2002,2002,2002,0,0,2,Export,132,Cabo Verde,CPV,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8054825,,,0
+H1,2002,2002,2002,0,0,2,Export,132,Cabo Verde,CPV,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127405,,,0
+H1,2002,2002,2002,0,0,2,Export,132,Cabo Verde,CPV,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87447,,,0
+H1,2002,2002,2002,0,0,2,Export,132,Cabo Verde,CPV,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1469382,,,0
+H1,2002,2002,2002,0,0,2,Export,132,Cabo Verde,CPV,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33318,,,0

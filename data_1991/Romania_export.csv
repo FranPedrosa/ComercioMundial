@@ -1,0 +1,110 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4265651456,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2640542,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2746182,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2958776,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5910378,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104603064,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,579461,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40426476,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18014324,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59789192,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,179283,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13989691,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1416000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2852,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6464000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38248,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,865000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139596608,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1382354,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9305000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,875105,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11409598,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,200,Czechoslovakia,CSK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70434112,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,519000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1887130,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3442818,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173256640,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,385934,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2590190,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,462877120,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,674000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,191246,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52524896,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1025810,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88899,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39072,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,255000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38669704,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79569664,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1177000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55132348,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2400349,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28588086,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,261897312,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109727,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98899432,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28014702,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1519000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3418288,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,612178,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,507593,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67299568,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2144645,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1690,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1451229,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1295323,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,541313,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,741059,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9058377,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1154000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1141000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,225965408,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,536,Neutral Zone,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7596,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,372268,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43598428,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4914880,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9126990,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1262071,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88456432,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1412263,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19700102,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20825308,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9371188,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104411,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51555232,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5339000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29123276,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67466152,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56914904,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12015000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4873868,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8350989,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152928368,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,814000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,810,Fmr USSR,SUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,970351936,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69134304,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155418864,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124988656,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,530000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2702466,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,994000,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,890,Fmr Yugoslavia,YUG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171167792,,,0
+H0,1991,1991,1991,0,0,2,Export,642,Romania,ROU,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76292720,,,0

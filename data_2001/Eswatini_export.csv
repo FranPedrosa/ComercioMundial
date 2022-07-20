@@ -1,0 +1,32 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,781588160,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109175,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7326411,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47349,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2960,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6822,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78375424,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161520347,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,743222,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46534,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11090,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,186728,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3495870,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,289419,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5905669,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,376392,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1283384,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,769642,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41677935,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8032,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19316090,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2309,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,429067844,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2267437,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73665,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8917474,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64393,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12796353,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6900150,,,0
+H1,2001,2001,2001,0,0,2,Export,748,Eswatini,SWZ,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1,,,0

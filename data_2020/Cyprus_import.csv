@@ -1,0 +1,161 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,8728558940,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3123,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,575336,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2667222,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3580,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,758,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6308289,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49011287,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4477814,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56946054,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,46730000,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,431595,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5695435,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15876,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23193,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,268367209,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,863570,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10398796,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,686629,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,422466035,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89332557,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,416271,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,291804,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1204800,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,439112,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,11165405,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,253289046,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1018688,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4105526,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,513755214,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,635,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,366,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1833625,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,940,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,175,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75468,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7479837,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41221074,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42910318,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,97926397,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,278573,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2669043,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,678912,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7928359,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53894,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,693,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20849612,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,172523737,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32359,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40795,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,263141,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,306,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7008,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,572660316,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23723,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1773,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1889214929,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1865,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39872,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16252240,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43526022,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158670,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,19446095,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,498305,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3225,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29469898,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,308363647,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,718057824,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,664152,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,96917323,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5131394,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1487946,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2736313,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,36074707,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1097716,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25155398,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5763923,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,96919111,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1508,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11749094,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4643184,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15230,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75694,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,156,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10739736,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68134,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,10311337,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,397301,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55147,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8218621,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23061295,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15555013,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82491,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2257886,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,729,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,576378,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2464134,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28118,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,419696963,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3631993,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,537,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,571,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6376628,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149701,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10357,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1078615,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27700562,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,58774835,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,210,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,34151240,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5212005,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3203736,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,198826,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,822567,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6685732,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68316764,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25391210,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,132399,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1040042,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95376788,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,40624377,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7560,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114545,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11185428,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,951782,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25470967,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1201738,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86960589,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,61127243,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,21826513,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40475029,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15702181,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6825026,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13100,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,273813988,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,190,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17468,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,476,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,59249039,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57094149,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1167572,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22092071,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,351,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,38088053,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2236673,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53368222,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,412277,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25894658,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2060257,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28923997,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,736475827,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75000,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72945689,,,4
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1149958,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14471,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40553,,,0
+H5,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,175566356,,,4

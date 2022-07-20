@@ -1,0 +1,54 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,965338816,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10176562,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12835,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,464927,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4162638,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64108,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3392,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8855,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31230,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1110841,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18449,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21412,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,669188,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79491672,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88925,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2634103,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24466,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,329872,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7387,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24758,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12813937,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226298976,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8479,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14349731,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,162385,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34744,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11504,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171061,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52195728,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,817943,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16549811,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9280,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106942,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1097084,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1587349,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4724495,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1187,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7123,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5936,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46934,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,402834,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54673,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17271444,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12319106,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12197,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6077,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,235100,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103371,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1110825,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51497,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5450,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,503408416,,,0
+H0,1993,1993,1993,0,0,2,Export,178,Congo,COG,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11622,,,0

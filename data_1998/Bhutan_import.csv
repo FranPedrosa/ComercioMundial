@@ -1,0 +1,39 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134496432,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,889323,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,824139,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19362,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,968109,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1316133,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28090,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1047022,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1004783,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1859,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2130818,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18057,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129773,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1756396,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,801630,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,868064,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2976,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61586,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10005051,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,975,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,801537,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,274183,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1205900,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1042877,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,355531,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4226,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,427716,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,996,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88296368,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9716138,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33275,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46380,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2128174,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1352976,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5015543,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,808995,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1042073,,,0
+H0,1998,1998,1998,0,0,1,Import,64,Bhutan,BTN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69388,,,0

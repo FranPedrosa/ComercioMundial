@@ -1,0 +1,52 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42155840,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17552,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,214,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10088587,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6256,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111480,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,172173,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3623,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,863,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,608553,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2886796,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,759,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3374,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20896,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,766,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27015,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3362,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4609904,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,219,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1832,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,609,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,207,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3613283,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1038,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3794,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3794,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,662,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2521279,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1967,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,696,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,361,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4037,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,843,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96172,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8331,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10227856,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3897,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1659,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1361,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,723198,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3224197,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2812228,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46352,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2054,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1198,,,0
+H0,2001,2001,2001,0,0,2,Export,108,Burundi,BDI,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,290364,,,0

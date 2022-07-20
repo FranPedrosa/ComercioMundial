@@ -1,0 +1,168 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6724161707,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,185072,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,914611,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,43456542,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19500,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8350860,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1500,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,176082,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,574617843,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2249997,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,286360,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,643595,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,163997,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6512615,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10104,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1790342,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20614587,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,112363,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22038539,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,88375,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,42728,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1419266379,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,280456,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6757603,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,429878,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,160360,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,390943,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4408651,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35797140,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6653489,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,225715,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,120409143,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,363841171,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18557907,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,243910,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,175,Mayotte,MYT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2522547,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3336339,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2645184,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2366692,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,46422890,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6258614,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3572711,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,744612,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4771627,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,83539,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7052145,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14340527,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1021118,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,895203,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,210067,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1477297,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6600,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4768874,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31798901,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5545193,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3255546,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,299097,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,293572,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,237767601,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2618312,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4552392,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,79704,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2325387,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,903238,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2024709,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1240287,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1478910,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,56976083,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,81662,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7418821,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,42306129,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26355198,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7785141,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,77963918,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,144195613,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3082508,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,539226,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8821752,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,164428,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21747989,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,364643,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,534735,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22376016,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1635773,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12337851,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,347773,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,586786,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1807248,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1823657,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,131096,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,107707,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,106345,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6817456,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17752,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,155000,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,46735,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,824875,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,41614,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,124049172,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3444536,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,177325,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12744,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12288911,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,163215,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1611791,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,662988,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,126031085,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,530,Neth. Antilles,ANT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14752587,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5714077,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39631,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,657161,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1390438,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,232500,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,41091365,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,46836920,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,187866,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2566277,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4088059,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,159750195,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,66316724,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12345556,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5524058,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,75632967,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2137175,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2236366,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3582451,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,351575164,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39148,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24683,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18796,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,110016,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,265000,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16016065,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23304152,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,468877,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1303739,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13272293,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20322140,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18330,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38989875,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,170054,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31821198,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,76487,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,178667488,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,736,Fmr Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1665000,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,47883,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17850482,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,87462290,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10991599,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32337372,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1263264,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38030,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8214317,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6504753,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14771520,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,125585726,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4223978,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,42634,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11472512,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,108590375,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,79958,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,838,Free Zones,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,952660480,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,199114959,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,213976,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,246664569,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,434098,,,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,64965,,,0

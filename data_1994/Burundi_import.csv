@@ -1,0 +1,69 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,203344832,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4462,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165560,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,699170,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6467,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1722527,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28055364,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,318638,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72698,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27568,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,708,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,728668,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2132,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8042932,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2692804,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11540,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,287990,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1224215,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8600,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4424,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35992,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23799552,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13993631,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,239351,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4716,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,932313,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23445,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,301047,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15359935,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,254221,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68088,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5670127,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,202928,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15088690,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9479590,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1929621,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,691518,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58237,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2962045,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,327182,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132281,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9324076,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1161855,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,219237,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27440,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44260,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53936,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12390,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,299898,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12370564,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1554342,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3333942,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5581437,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3410320,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,547397,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,206700,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2418230,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,206672,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13146,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1429726,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,216634,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,720366,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174149,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4337023,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5771173,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6993715,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7066331,,,0
+H0,1994,1994,1994,0,0,1,Import,108,Burundi,BDI,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,218900,,,0

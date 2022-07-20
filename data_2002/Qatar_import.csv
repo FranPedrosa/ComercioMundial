@@ -1,0 +1,113 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4052046336,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24240,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20641,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59032,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9763707,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59436236,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15916014,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33638212,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2335484,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28514,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46877016,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60990,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39714328,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26221,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,408760,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,355412,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155163,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25982,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31783156,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2462016,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3426854,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128346232,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83519,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84470,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27075,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2562619,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3487374,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18042272,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59335,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139524,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33869,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9749866,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168718864,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168677,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,283589248,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45505,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5729599,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1022319,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36726868,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2538494,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66539,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42934516,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18809392,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16553725,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,366184864,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,167638,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,426532800,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15723,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19807186,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,376438,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145091584,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28862046,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9941157,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15806,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2663803,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85787,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,881742,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31197,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59111008,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93905,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,670208,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65710,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11989999,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31133738,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,603733,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25230284,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,932593,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66750,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92892248,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4845438,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19792,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5554305,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28694924,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,267837,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13454,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3131,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7573603,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2534359,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3165448,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3569954,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4331643,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,252079440,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120949752,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30798922,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,783044,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1492532,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,694749,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,453754,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11290177,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50673288,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1488896,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47179,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23056206,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51969828,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33017508,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13298,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34863716,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107645,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,285527680,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,801647,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24917260,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21935,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1793106,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15618548,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,308687872,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91636,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,528257664,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,203474,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1484213,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25060,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4885,,,0
+H1,2002,2002,2002,0,0,1,Import,634,Qatar,QAT,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,771802,,,0

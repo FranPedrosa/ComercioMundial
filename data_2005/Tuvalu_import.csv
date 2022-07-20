@@ -1,0 +1,30 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12901871,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4351775,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13012,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1135,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,663120,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,388156,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2543399,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30348,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,162,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,502,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43078,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168156,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,472883,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119167,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83234,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70311,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12754,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1281728,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7982,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,190565,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19534,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2260214,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,229,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132206,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21478,,,0
+H0,2005,2005,2005,0,0,1,Import,798,Tuvalu,TUV,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26365,,,0

@@ -1,0 +1,54 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95034872067,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,378337,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115528,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2100000,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58540640,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3495,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89712812,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10425,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110103421,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37383197,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61350995,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15401787,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2327473,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17504,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7899328,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54233203,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2210048,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15693209,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1860,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,536524,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,342644,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67508878,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5502,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6634,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3000,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,473,"LAIA, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25073593583,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65549360,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21959357438,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116672851,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40295731,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1441957,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8566170,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2754901206,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3665660,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3627321,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17133542,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,501188,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,637,"North America and Central America, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19124604023,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251761,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21021,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29350,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14645639,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23612531,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15482445,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,642900,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40315000,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9649888,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43249234,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,253251,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,527054824,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7170240,,,0
+H2,2012,2012,2012,0,0,2,Export,862,Venezuela,VEN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24656697499,,,0

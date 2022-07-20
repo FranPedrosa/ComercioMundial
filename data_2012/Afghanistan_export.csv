@@ -1,0 +1,9 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2012,2012,2012,0,0,2,Export,4,Afghanistan,AFG,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,428902710,,,0
+H2,2012,2012,2012,0,0,2,Export,4,Afghanistan,AFG,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4796438,,,0
+H2,2012,2012,2012,0,0,2,Export,4,Afghanistan,AFG,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1580389,,,0
+H2,2012,2012,2012,0,0,2,Export,4,Afghanistan,AFG,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26605877,,,0
+H2,2012,2012,2012,0,0,2,Export,4,Afghanistan,AFG,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201392865,,,0
+H2,2012,2012,2012,0,0,2,Export,4,Afghanistan,AFG,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1706068,,,0
+H2,2012,2012,2012,0,0,2,Export,4,Afghanistan,AFG,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69713498,,,0
+H2,2012,2012,2012,0,0,2,Export,4,Afghanistan,AFG,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123107575,,,0

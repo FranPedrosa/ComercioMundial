@@ -1,0 +1,61 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,460307099,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4405645,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5555254,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18147,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1486234,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56838,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3220317,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109305,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1338493,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1233701,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40125650,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1939274,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166265,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,164297,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,196903,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138964,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1667634,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8498,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,333,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1369546,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4736008,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137611,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54925,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1003332,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36749930,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21733,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15990,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1068503,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8659296,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62450,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7152,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1103557,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98548,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2862263,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36285,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32184,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,269356,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,353825,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2622559,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79388914,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98666,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,824567,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226351,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,640218,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10000,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29200,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40557,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96372533,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,328243,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10193916,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3707,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68816776,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16402039,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2404254,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4211739,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,550787,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28899519,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27740960,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2294,,,0
+H1,2002,2002,2002,0,0,2,Export,417,Kyrgyzstan,KGZ,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25054,,,0

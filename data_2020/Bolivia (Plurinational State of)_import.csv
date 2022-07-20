@@ -1,0 +1,184 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7115199566,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3584,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24297,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,152243,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18914,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15562,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,719486665,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4280866,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35403919,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,920,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,439,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2276961,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1490,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22744730,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,174,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55568,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1198947206,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1870,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1596596,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,612018,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19395805,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1801802,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31152,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28095416,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28100,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1052,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,638,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2286032,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7968,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,313767135,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1583822531,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147326973,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,438,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,344,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1716586,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137986,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1752789,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21536,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7906902,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8337414,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3692,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2833828,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43148753,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,524433,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4218812,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4497124,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65730138,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59702,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1600,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12242,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,155777777,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,174181,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2177,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1129670,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2642590,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,211,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4702,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13585,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,138,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,103983,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12084486,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17656539,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23775,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38080787,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39930,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3385551,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3921029,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65043077,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,276,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,186480731,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18292,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,678122,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5443,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,389221,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47372286,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39212,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72719,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1234,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,497493,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,409912,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,536274,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10130,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114773,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28208454,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2428,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6573,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63805,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,177,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48891,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,177691022,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26204704,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,220,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1029,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1202,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,838143,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6378,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28120182,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42078,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1344,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45763679,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,264,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,417,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,444,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1522410,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1887892,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6074,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,539,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1760012,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,791,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1715420,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28849661,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49440828,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,560191877,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4838689,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6107907,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6176551,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3541,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21008,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2116947,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115895642,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1214,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2031,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1173,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1072353,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,683,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,662524,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,269,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9468,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,184592118,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55167541,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1326015,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26687139,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,794744,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6812984,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1441,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147755449,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11418,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3650,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8786,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64458694,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25120223,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31792,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1207281,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50246523,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7136,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,155,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,94601,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3543061,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,447684,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32449826,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,228587,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1143,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,523735,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,163452,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,641147,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29536438,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,838,Free Zones,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,883337,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,571535626,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9002,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60710824,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1769,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,924777,,,4
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,304,,,0
+H5,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,179849,,,0

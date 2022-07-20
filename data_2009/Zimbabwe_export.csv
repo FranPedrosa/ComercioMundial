@@ -1,0 +1,131 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1795153722,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,177520,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13875,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5750,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25000,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3209627,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,0,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23064,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4082509,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,288809,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2665374,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5195,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17920,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61019970,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2550,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10000,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36733842,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,388028,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,119808,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3519362,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,0,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90349,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71848,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,901217,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56987,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7704,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54203794,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1270914,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,9835709,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,14524405,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14650,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4789,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8101,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23765,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3600312,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,0,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3330,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5930,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,197856,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15205,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101526,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6377644,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4800,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,155,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8614801,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,175591,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3390,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,434673,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7725,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13800,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,113454,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8275492,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,670434,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12380714,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3178832,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9602612,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,345437,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45150837,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92600,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4992,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4939458,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2025822,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2675987,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11836,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,163188,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5762,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1150,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25616983,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75240,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3835,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,0,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13230,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40160,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28649170,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7725,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1824471,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108393,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5872889,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97711063,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30980,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,18431147,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2910,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,187809735,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,530,Neth. Antilles,ANT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9400,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2631929,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,0,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,400431,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12375,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1644790,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1827477,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,0,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,168,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,328537,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4430174,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7243827,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1118568,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7711009,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25540,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3300,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91035,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108156,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114029,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2180272,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22617928,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3850,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1330540,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,721024557,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2143217,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,736,Fmr Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,311606,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13357055,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110789,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,169566887,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7285480,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16675,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18167330,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9880,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1513415,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129259,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1401042,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82268,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56664241,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,656181,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9456238,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25563,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,0,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,682704,,,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69995946,,,4
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4283,,,0

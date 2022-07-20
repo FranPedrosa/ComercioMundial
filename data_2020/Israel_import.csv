@@ -1,0 +1,170 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,69260696000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1983000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1243000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13790000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,204234000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,165716000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,609255000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1450000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37086000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4748000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3066066000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,230000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2208000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9341000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1000,,,0
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,219652000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1108000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111357000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1658000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13844000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4364000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,276072000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1427000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91425000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110502000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7669910000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19258000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5166000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32932000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,393000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,223995000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,670235000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,323196000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5162000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6564000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72370000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39040000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1000,,,0
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,356565000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2136759000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,259000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,347000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20039000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5229868000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2715000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1499000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,375395000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5269000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,250000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2009825000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,244807000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3359000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53916000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1216253000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2683626000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,314000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2000,,,0
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1239301000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,783000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,210340000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5114000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1690818000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2000,,,0
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,286000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64411000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81876000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,189678000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10852000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1947000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,12000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8543000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110452000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8694000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74577000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,944026000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3299000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,484000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10150000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,714000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,121000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,527,"Oceania, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2900444000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14193000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,354000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4712000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2245000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,208422000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19770000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2100000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17407000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104513000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9693000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43850000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,479223000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,297251000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,637,"North America and Central America, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27202000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,258046000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,418367000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,358000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2769000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31867000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7566000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1513616000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1073290000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,132605000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,386809000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68533000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73513000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,479000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1526439000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36160000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,706281000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5226698000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,376000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,394442000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,49000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115035000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,242000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3498073000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,914000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7185000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,153410000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4468000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80576000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2969035000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7504000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8048471000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1000,,,0
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,138922000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1531000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,782000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1313000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105000,,,4
+H5,2020,2020,2020,0,0,1,Import,376,Israel,ISR,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5227744000,,,4

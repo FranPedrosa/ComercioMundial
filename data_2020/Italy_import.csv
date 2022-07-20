@@ -1,0 +1,218 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,426475840328,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6887319,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1104007547,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3588599114,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4623,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,625151,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,282787004,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,200878,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3677615699,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,975936161,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,388490319,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9749986469,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1565227,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157736376,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1385084439,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41987030,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,676239,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20792045655,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15871,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5290175,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124388491,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,688168118,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111791,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3436614993,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1092777,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1484,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50367877,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6418923,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,775428,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2308357133,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,285655988,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,885048,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73450170,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,337921935,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,272182401,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2007850546,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8052086,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39492638,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12249117,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,428650333,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17534,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,647384000,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36842102191,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1106804699,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56651,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,250259366,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,281540774,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96023,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,229517736,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1915326212,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18932060,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75810092,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7243559735,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2782214,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2521490410,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13392,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70330285,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,488941934,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38319374,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58365523,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77478050,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1613427,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,162422495,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,446437,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,695127,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11144894,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1707957014,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35737238292,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,673620,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,154833,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50612186,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36954347,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2523582,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1849245,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70023566015,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,163137193,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,784897,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,397278,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2957186099,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2222,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51702,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,301274,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,186705291,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3770683,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9082445,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1516604,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58593,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111803862,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,347144355,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5771230452,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13519208,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2046089155,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,121869039,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2541658270,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5908581179,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,834471124,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,292997185,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3138743,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4162361772,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1441392630,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38263595,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28416668,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62746,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3581054555,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15643258,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,897676,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20813944,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59183222,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2683,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,182574409,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14659460,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1970300836,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,652280687,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,609932571,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8361373,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24514694,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4394780,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1317091308,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9382275,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1078162,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,254571240,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146047453,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100773240,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1106612448,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1852171190,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28460015,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,251069065,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17130323,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11176,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1191994120,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,346739406,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57373600,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97384158,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6430820,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25470727797,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82872,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1681402,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24597,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,199326249,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46418084,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125377,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1071877224,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20674892,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77978,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46236,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1369160251,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97243,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14848548,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,714081061,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33797193,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109320535,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85536279,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,504575170,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,307815497,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10944180943,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2445624166,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,672281,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83788,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1170585442,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7014137753,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10336950379,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6320741,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,283851,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46571,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50030,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,255615,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2174170,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12543,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3383127596,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56383634,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1422062896,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37900705,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,229872,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4790369752,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,536645582,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3270143032,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3269732259,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3452290838,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,875556,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1493907987,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84787215,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23303415522,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24305014,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,163751096,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5694192,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16706044,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4373992941,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11098577034,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5065574,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45860352,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1499544685,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9383318,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34980,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21626,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14119807,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5196924837,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2384907677,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8517827793,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117904692,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31473,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27795,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144132319,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2151147680,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,174395191,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1832023647,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10102279149,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25772958,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16883157718,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22827210,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,285387750,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16313646,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,207579417,,,4
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3605,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4396,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6296190,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27196349,,,0
+H5,2020,2020,2020,0,0,1,Import,381,Italy,ITA,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1384960111,,,4

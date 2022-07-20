@@ -1,0 +1,12 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2020,2020,2020,0,0,2,Export,533,Aruba,ABW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65929725,,,4
+H4,2020,2020,2020,0,0,2,Export,533,Aruba,ABW,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9544519,,,0
+H4,2020,2020,2020,0,0,2,Export,533,Aruba,ABW,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,324770,,,0
+H4,2020,2020,2020,0,0,2,Export,533,Aruba,ABW,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5450682,,,0
+H4,2020,2020,2020,0,0,2,Export,533,Aruba,ABW,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15322131,,,4
+H4,2020,2020,2020,0,0,2,Export,533,Aruba,ABW,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1757653,,,0
+H4,2020,2020,2020,0,0,2,Export,533,Aruba,ABW,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,299368,,,0
+H4,2020,2020,2020,0,0,2,Export,533,Aruba,ABW,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19659185,,,4
+H4,2020,2020,2020,0,0,2,Export,533,Aruba,ABW,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1431575,,,0
+H4,2020,2020,2020,0,0,2,Export,533,Aruba,ABW,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7077517,,,0
+H4,2020,2020,2020,0,0,2,Export,533,Aruba,ABW,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5062320,,,0

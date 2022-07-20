@@ -1,0 +1,171 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7303908864,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,722852,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,911827,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44012740,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132104,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,259960,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,353026,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,296674,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7408680,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13629429,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,755460288,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6448,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,524359,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88792424,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97917,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,144811,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7810934,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5178663,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43749072,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149839,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1036907,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28636190,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,399590,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11684,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4229378,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8531,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84959,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34795884,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2669,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,406001,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2451384,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154347,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1924608,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37167744,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8513,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5337325,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4584,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6818,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1367326,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,569865,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,498170208,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4456760,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5555356,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,177723600,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32404798,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18565,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,410488,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10089593,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17947,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,306497,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125290,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78291,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4478,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,314964,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14600,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45473868,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,612617344,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,204397,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18729,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56136,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1734199296,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,940665,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1877,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6521311,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22980,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27627,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99944,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10965633,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,236693,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,118753,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13358988,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192572640,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,447496,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11952205,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1083168,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49364,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17985636,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20643632,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1258178432,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,182029,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28385,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126154584,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,334403,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1096431,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,765588,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,313935,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47070352,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62345,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5484,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57176,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76527,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,802270,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,460491,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53355,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,326776,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,435158,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8043196,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4274,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9056,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10933443,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47202,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45100,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,681699,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38383316,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,658368,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,845308,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10471,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20138,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3842,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32084,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,167463088,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32251,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,731173,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5533,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149764,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15238,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30577648,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3128952,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143781,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3038,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,334376,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2812560,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,603154,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1135,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22453662,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4213584,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14876,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3789,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86371,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20633168,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147413952,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13182,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10806,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8537,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76921,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10798263,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6594759,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58042416,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,875541,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33657,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5736357,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2305183,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115374960,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,425602,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67128,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83498016,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,157100992,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142304,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2399982,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13291880,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33518,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35886,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,289938,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1131950,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21691926,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,622630,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2572402,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6864379,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80378584,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13469353,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129575384,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,534876,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197132336,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,615532,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5975416,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41209,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36656,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,183246,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134537,,,0
+H0,1994,1994,1994,0,0,1,Import,705,Slovenia,SVN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1313984,,,0

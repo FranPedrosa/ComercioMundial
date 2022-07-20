@@ -1,0 +1,163 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2658986872,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,190,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19162,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,184981,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,66547,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,274,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4618958,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,157,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9738919,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18262507,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1379374,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3371,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,158312551,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,745910,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,399,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26776886,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,969,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4846,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8972,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24767945,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,285,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,170515,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,583481,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10354514,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48271,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,95623,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,352338,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16289408,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1645,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,67,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,205518,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,234791,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,379978419,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4658,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,950,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,88184,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,197681,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,175,Mayotte,MYT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,150440,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1228,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,56739,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,47115,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,671929,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,44880,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,147820,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1818678,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2054507,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4570,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34075,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,197622,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,357,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3067,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,172,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,700410,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1183,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4743666,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,160355673,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19232,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16668,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1893,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,62699722,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1177,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1041127,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,70742,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1210,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14039,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,408,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,147421,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3129275,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1797546,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31620,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34503283,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1022412,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1149849,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,537585,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36143794,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,356010,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2492,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45754281,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4886442,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,155951,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36224249,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,153975,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16530,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,122733,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23947,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2552,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1442385,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,43420,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,666921,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,436464,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1656,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,111771,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30426912,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,77170,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,253036,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13407,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,77283452,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3876719,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13238409,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5070775,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2223953,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25874194,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1305,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10633835,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,155544,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,446653,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5030,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3372594,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,199886501,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,645817,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,65426049,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,122184,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,231,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,51220,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1046118,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3638548,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4227802,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29149681,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1603779,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1332510,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11854,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,163,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,991,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9505946,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,242380,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2738,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9770300,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,40734,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,129795620,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38245503,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3305895,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8135887,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,493883,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,152233541,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23384,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,41446411,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,79010,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,649,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7156430,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5929743,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5423154,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16841,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50455093,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,299,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,389542801,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1782902,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58225276,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,297,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4580,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,119130,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1307394,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,46812593,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26007848,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7162966,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,99144170,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,454,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,398145,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,106946,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,100398,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,631420,,,0
+H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27975487,,,0

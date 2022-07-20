@@ -1,0 +1,221 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31236842607,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50895,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2380053,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3024,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,114902700,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15874,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,103844,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,75,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1825,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16865,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,86952637,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14584855,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2445130019,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,118716,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,826171,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,68408483,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1256714,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,178902,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,461203481,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5954,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,575786,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,526568607,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,82768,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,205302372,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26943,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,85621,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,61610,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,317537,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,189718946,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,541577,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2260,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14174482,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7538528,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10657901,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50050473,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33025,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9899389,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,57915,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28555848,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1601294289,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,597,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6204662,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10489,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,175,Mayotte,MYT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,602,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,261232,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,962542,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12484688,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1277740501,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,974812,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,96247944,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,774406721,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,264524,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,88476165,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,550,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1443137,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37072406,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,349157,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,273,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,877348,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4910,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8483062,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1934066,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1731805,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,103335,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,47850,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,124663601,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1393414885,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5145,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,114,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2248,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,345412,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1219,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39346,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5051716334,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,333165,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31051,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2695,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,221237438,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,579,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8366,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23595,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1676898,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17434,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19868,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5649,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18400,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1337423,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13365103,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,920182938,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3835197,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,139667140,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45974559,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26051,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,86522053,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36770813,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5157746849,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5880409,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33031792,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,274282025,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23970338,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,584216,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,600342,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1386614,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,383935560,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34326460,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,276213,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,590865,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5457154,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4965133,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11000903,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,263463,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11672202,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,73196846,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2837101,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,344139,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3618,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,66198173,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5085,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31324,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3022146,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5522,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2614222,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,42239551,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,133690611,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3561,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2781788,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37441385,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16152964,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,72938060,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,684280,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,142844,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,87151,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,150612,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,626891397,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1335,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,175065,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1175,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1518852,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,160166,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,242223,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30649,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,681481601,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7711,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,49299932,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,320594,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,156,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,145,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15427316,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,617344,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,806731,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,89630439,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3521465,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14101199,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10068,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,668238996,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,63387955,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1418,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,633,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19991260,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,308097252,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,629687298,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,419,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,164485,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,145,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2160,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,429,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,168,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,142,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9988199,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24833,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50581368,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,212962,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,594775599,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,265463,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,387515,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,326242873,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23864721,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,397049088,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58364036,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,86437949,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26475016,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2070982,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,750682429,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,736,Fmr Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10020,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2930582,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2533393,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,200194589,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,483936590,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1307938,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1313514,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,56550591,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,59,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13148,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16262962,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35873286,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,375683073,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,132321,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,808,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1592,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,256661,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,53688958,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,55367654,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24866753,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,477084796,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,532120,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,839,Special Categories,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,77571266,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,979356684,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,668436,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2263395,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,928915,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1533316,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,158,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,249224,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2273013,,,0
+H3,2011,2011,2011,0,0,1,Import,705,Slovenia,SVN,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,284658695,,,0

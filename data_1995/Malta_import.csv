@@ -1,0 +1,116 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2941744384,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68021,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,382581,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7555,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5062961,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4468599,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14501758,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10167,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88198,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128644,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36477716,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60234,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11963098,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151070,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,882952,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1037,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3677560,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7195,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,203051,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1461823,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30149724,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1529840,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,643451,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1020091,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,343348,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76397,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1031723,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7149728,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21895324,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16167,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4149,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,750029,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7930,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1825,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3122667,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,245557040,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8304,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,357847424,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124483,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20522698,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101096,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,468521,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14015,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5284,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14250122,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4017631,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,310996,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2019205,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,485687,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24679968,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4129298,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,807447360,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1148119,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74695144,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14848,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,277803,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40072088,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4784,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,190706,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20030,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5806,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88196936,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48194,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,287298,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17441,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,381300,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10781129,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22121,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128320,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,292386,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22222632,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60375,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1843535,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3991,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28662,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67470392,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3554232,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78361,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59991,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2684984,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2277217,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71323,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,802287,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2095833,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9971672,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2451214,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11495411,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134041,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82489,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102312,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13143239,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166754016,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,757568,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,264500,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3012686,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3630849,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3303,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59824464,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13605,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10835797,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29499844,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24031,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8468569,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9486,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110103,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3627699,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22709256,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2990643,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5160602,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,457668256,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,176780688,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103240,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1605160,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67544,,,0
+H0,1995,1995,1995,0,0,1,Import,470,Malta,MLT,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1268208,,,0

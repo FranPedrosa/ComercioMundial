@@ -1,0 +1,125 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6389126910,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,323575,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74876,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5948588,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19922817,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5836730,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,418147,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15574,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1089775,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28585290,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24728777,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6325302,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6752,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1308,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,197724104,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15727514,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,209705,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1188111,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109813,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105793602,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,938397,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1639918,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17203473,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,491801598,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,326942872,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60498931,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11080,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2822333,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,138987,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,441735,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5391948,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1394495,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72150777,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,113411023,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9902640,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,162396,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70295,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110659,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2184940,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47967003,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,98186613,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9346,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1458064,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,344491,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32366799,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34239643,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4737453,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8036716,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34672899,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13709173,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21135515,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8279078,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5042050,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28539185,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66074,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,297889121,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5548,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34339744,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40809,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,183259,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,190027,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,203595,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,974703,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44394,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66037,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4026,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13368134,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1683009,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6624,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,120801296,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14743509,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7644,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,333292,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,418140,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,232,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65570131,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2714745,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51047,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48589,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,431466,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27472093,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,218115,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88890835,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20956192,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1368742,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74941288,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,528678,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15296322,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,762164,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4159146,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3648659,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,120894,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,376996,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10380,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1774,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1251931,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86718,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,243859,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4138,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,283,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60958689,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16187628,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80234,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19784021,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1077600,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4996328,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92776030,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47857667,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46806271,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23780697,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81342734,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,173388801,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4528443,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2154,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104713927,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67069,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38372,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1705252,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,98829696,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2920202436,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34938859,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,565315,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,444,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,889,,,0

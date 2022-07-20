@@ -1,0 +1,45 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161680154,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146952,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14107,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2006,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1049266,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30753,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6935983,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18502,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23000,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,846,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6542,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66873,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108412,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32287,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17070,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10000,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3300052,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8416417,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,429905,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31271,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33467,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112794,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68347,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2041727,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2029903,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,163378,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70612,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4526132,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13711,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,501491,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,861437,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12347,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94901,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2764,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41500,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38893,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99055,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57662,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,547926,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2073592,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68468733,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59085181,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53183,,,0
+H0,1995,1995,1995,0,0,2,Export,84,Belize,BLZ,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41174,,,0

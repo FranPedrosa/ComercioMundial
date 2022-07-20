@@ -1,0 +1,20 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1994,1994,1994,0,0,2,Export,60,Bermuda,BMU,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65535056,,,0
+H0,1994,1994,1994,0,0,2,Export,60,Bermuda,BMU,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147476,,,0
+H0,1994,1994,1994,0,0,2,Export,60,Bermuda,BMU,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5556,,,0
+H0,1994,1994,1994,0,0,2,Export,60,Bermuda,BMU,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168823,,,0
+H0,1994,1994,1994,0,0,2,Export,60,Bermuda,BMU,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2165073,,,0
+H0,1994,1994,1994,0,0,2,Export,60,Bermuda,BMU,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2252,,,0
+H0,1994,1994,1994,0,0,2,Export,60,Bermuda,BMU,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57833,,,0
+H0,1994,1994,1994,0,0,2,Export,60,Bermuda,BMU,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4240,,,0
+H0,1994,1994,1994,0,0,2,Export,60,Bermuda,BMU,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1798,,,0
+H0,1994,1994,1994,0,0,2,Export,60,Bermuda,BMU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5000,,,0
+H0,1994,1994,1994,0,0,2,Export,60,Bermuda,BMU,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40546,,,0
+H0,1994,1994,1994,0,0,2,Export,60,Bermuda,BMU,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180000,,,0
+H0,1994,1994,1994,0,0,2,Export,60,Bermuda,BMU,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87166,,,0
+H0,1994,1994,1994,0,0,2,Export,60,Bermuda,BMU,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85993,,,0
+H0,1994,1994,1994,0,0,2,Export,60,Bermuda,BMU,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3003,,,0
+H0,1994,1994,1994,0,0,2,Export,60,Bermuda,BMU,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119714,,,0
+H0,1994,1994,1994,0,0,2,Export,60,Bermuda,BMU,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9361637,,,0
+H0,1994,1994,1994,0,0,2,Export,60,Bermuda,BMU,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52659096,,,0
+H0,1994,1994,1994,0,0,2,Export,60,Bermuda,BMU,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,439847,,,0

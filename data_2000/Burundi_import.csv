@@ -1,0 +1,90 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150219354,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39180,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105135,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14359,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61544,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18356474,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,418744,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5449,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,354,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1589,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1177825,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,462,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5605863,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12972,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125071,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,754525,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4961,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85104,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3556,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1979662,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23315,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,576069,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21659,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19655998,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,534219,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5051136,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,232,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15783,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100963,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4555,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,684327,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,678,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,545639,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,240630,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31470,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,270414,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14361,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3108251,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14609,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2228,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4084607,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,325,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7668162,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,865329,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120115,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,558,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80884,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2551,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11950,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,524105,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6297,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,590931,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100099,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8458,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12749,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9395,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2274044,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,856287,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12007,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,367477,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50359,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71804,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28075,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,543646,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,959342,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1664,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15870145,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1353,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4215178,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,322966,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,742883,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4419166,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1213381,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,360827,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,797,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1025231,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1009169,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,308575,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4753851,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,336009,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,663203,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44992,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,416127,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1956101,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23026830,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3573575,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6814266,,,0
+H0,2000,2000,2000,0,0,1,Import,108,Burundi,BDI,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,244067,,,0

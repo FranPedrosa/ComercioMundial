@@ -1,0 +1,178 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,67973971893,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14348,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,504686,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5170,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30350,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6482,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,148,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1295,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,46536816,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,281888043,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,298069310,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5536254,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5044384,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8761329,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,473616,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,435397066,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1697,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1297330896,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,993550,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1703,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17676646842,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2026,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1599,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9657721,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7432763,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1339,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,69856356,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12227921,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,142513,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,510610672,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,249,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8979925,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,138341,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1005804515,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9900611962,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,355246786,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30859,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,75410,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,105975,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,51348074,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2509391,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10885502,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,288307,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,154763937,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,149997631,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13674,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3773751,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,235956200,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,314500,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,311992,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,251370,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1380,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3196610,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,54873,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,211957657,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1591401018,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1622567,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,197562,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2711,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3698229283,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19006,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14370170,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3984581,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5690,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15569,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,54794,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,323015,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31101167,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,129139023,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,519572,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,343713950,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1395980,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5021,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,228196703,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,131782578,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1452381764,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1997387,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9888,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1498452016,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,400216,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,928795,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,84252,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1137225667,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30746308,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3207,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,114811,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,532857,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30045153,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,87,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,96,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50604892,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12850093,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,112777,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,547424,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6390181,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,447505905,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22286,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,504,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7390725,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26483,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,125233,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2250814806,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,506915902,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11053,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38785,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1367,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,111507020,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3583073,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,653971,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13144,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,417445,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1129724965,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,154739707,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21334210,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,210932,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8054,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,57082355,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,180920223,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,113,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,52213292,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,228211,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45379,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,450631721,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,161023963,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,87877735,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,173237219,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,93042917,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,448592035,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,57765245,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1123997305,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32145,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1708,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,197,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,229449,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,75268783,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,161797,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1133413,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,68696,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3915,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,652782423,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,147411284,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58788878,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,155511472,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17439979,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3794,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,238116181,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1156827,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1317203197,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,119757,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5558745,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11787,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,284194204,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,552984043,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2889310,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,62,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,861456811,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2633,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18224,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1905165981,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32941623,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9961680,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,298965827,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1442,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20461213,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5144041,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,49686302,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,614831498,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,43322,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,838,Free Zones,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,156984073,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8476097897,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16668,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,517394876,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,600417,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24929869,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,653,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30759,,,0
+H4,2012,2012,2012,0,0,1,Import,32,Argentina,ARG,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,803157152,,,0

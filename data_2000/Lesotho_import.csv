@@ -1,0 +1,53 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,613297962,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,289,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,788713,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3720,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5924,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8931,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126546,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1701,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1515082,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,861,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9799073,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78983,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,798,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79859,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,167632,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3844,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7382916,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1014111,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10887,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2342879,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7031464,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2222,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8010500,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106864,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16083,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,281338,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37740667,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1014,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77433,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4715,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1929,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,514509,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2791435,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117975,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,486972093,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,235789,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1155311,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20803,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67844,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7482,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5028,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,393092,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56554,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,389135,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59405,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,366293,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8103,,,0
+H0,2000,2000,2000,0,0,1,Import,426,Lesotho,LSO,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43529985,,,0

@@ -1,0 +1,87 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1024037778,,,4
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,188380,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,179811,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14561712,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11509596,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5778601,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7203,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14749,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2043608,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10892625,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,939275,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2125419,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6933,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8745260,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5402,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2562935,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1403962,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,192950901,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35527,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,759877,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,700251,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57621840,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38849,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4455048,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,402324,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6637215,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69251883,,,4
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102966,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62195,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4605659,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108093,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114239,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5024467,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2550098,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77806004,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70915,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1735996,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3161155,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,335416,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6124908,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1712818,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4322,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75718,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45322630,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55148250,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,103985,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4862,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1214875,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1672867,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114001,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3284,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6164829,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5078,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42364,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80155260,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48168491,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2147181,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8748,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4552657,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,311723,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62333,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,172740,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9408603,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,576231,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71807108,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3034139,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11989655,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13079,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,455694,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60245,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4122259,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2701,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32801,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2161,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1065921,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,419054,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13160613,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,226085,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,711472,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,801084,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,578049,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17720,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1369656,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5639089,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,154841310,,,0
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,912693,,,0

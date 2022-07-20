@@ -1,0 +1,148 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12485359226,,,4
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,536927,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41755283,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1558697,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5939,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,166100,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6391765,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68343229,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2991962,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20449,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1875779,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26366488,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13053,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9147709,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13297,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27761549,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77999,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5585,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55760,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,999,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,686501,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10446,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4712673,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2925,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3668829,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,368965,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,218567,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,323039047,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7909022,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,209230,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2250828,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,761856,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,447110,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,151137,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92031,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1905277,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77360,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2008650,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6727362,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10829,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,369242,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,689255,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22722510,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27985618,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,164896,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2968,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1632853,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19053682,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49037,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1730902,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3723,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40551,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50290,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,247015,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35637561,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2435876,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23273969,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,990415,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31111595,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1406782,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90212150,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,764071,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10599,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21070063,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46988630,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5528546,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74382035,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,206776345,,,4
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29277790,,,4
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,797,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,390433,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1056611,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,899629,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11995,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31625,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,797,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17117082,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24312,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10638,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,245503,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,202291,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2675877,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4621811,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71345051,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,440713,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90517312,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,614478,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,489118830,,,4
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88133,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81244262,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,295972,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9137282,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2698710,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27567084,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101584,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31935610,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,250315,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,217372,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109320,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49596443,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5703980,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11460,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,309082962,,,4
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,277884,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9858951,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60894,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1851205069,,,4
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2583009,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117560,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117548,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,218761617,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66656617,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79693,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5237671,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,672053,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,538282,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40076816,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,632164,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8390537,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2040682,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1197,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3373800,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12401235,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127824,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33174,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60573256,,,4
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,261345,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40093,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,829678676,,,4
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26578656,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,252171225,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1209173,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2925,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20012,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,217762,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31899,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,177570783,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28729139,,,4
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6368315,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8964811,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,838,Free Zones,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3193170,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,946878849,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40799,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147843,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,160858,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14240823,,,0
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5520711999,,,4

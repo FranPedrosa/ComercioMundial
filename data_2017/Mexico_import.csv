@@ -1,0 +1,212 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,420394590810,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2887172,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4143794,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,15154026,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1746374,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49696,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,288690,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44422,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,815276259,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,344117396,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1546425449,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,123747,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,42590156,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,266746302,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,201418,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,333260,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1182424335,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23198723,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,17915078,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,113764,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5440419518,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1048586,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2031,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22778,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,960563,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,342,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,86209685,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19559734,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107289,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4649150,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129300164,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2729628,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9766367332,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7928,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,515050,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,372858,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,202844929,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53477,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1536273002,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74150192456,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7982,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,384234,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1671271371,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31066,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,298502,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10549,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28675,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,372863178,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23880924,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5167352,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3333658,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1368002927,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,594826853,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,135023,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,143371427,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,128340132,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,148950721,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,289272,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37612,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,170636677,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37773,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2807232,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,529542026,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4072523929,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29650,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5298,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14294443,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2713249,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,298198,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16422076485,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1158703,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1990,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4681,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,182367072,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17194,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,508948373,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14683,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,36966026,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20043919,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129283,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,392379313,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,331428893,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1411844582,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17457158,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1494273806,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89420078,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1679637474,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,708282843,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6159991521,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,94490441,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1528556,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18185989885,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12152731,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28144603,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1979735,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5860098,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15756440254,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18198436,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88749,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2275346,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,638540,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2760403,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16616662,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31896260,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,120497573,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,468428,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3857583,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,375707,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7886931386,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1261303,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3157572,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66676476,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,182119,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6076197,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7441918716,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12935,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,662680,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,276552,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10194143,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,298981212,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100535,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25971796,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,90241086,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3063,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1698976,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2386964235,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,341376,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1413418,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1323167,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8455,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,357446491,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,309283847,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1123699,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40983945,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,115707406,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,522,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,176215162,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25904,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,119441,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27023,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105989,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,186223894,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106568042,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21516,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75746756,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,507503931,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2361407569,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,195169,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,851505875,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,606094167,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27296312,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,454505301,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1459152158,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72288,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115464,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2179759,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73510,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16946,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17214,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,264059,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1291461,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39319,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,61310976,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18455788,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21409992,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,253302,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28971616,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5019675012,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1400928711,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,263987668,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4615636985,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,136312843,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,210416,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,280740825,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,442420,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5004351501,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2069555,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79413,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,213338,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13576380,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,986889250,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1688371706,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,782217,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70733,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5931486730,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,610,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12320,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4401,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,260116047,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,396910332,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,94968942,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,798116120,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,615101,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68877,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72303,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1586063,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,185147302,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,13749220,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66718343,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2426907276,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,385540,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,194978436628,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3752,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,360821884,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62439,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,107550650,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1805,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85212,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63084,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4278,,,0
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,759986806,,,0

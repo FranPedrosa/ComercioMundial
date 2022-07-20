@@ -1,0 +1,122 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6259609088,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155935,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2425720,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2554,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4923,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,344920,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55890680,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30599922,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,190508464,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38564,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48858,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,359310,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72885624,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7901462,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12600,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22118174,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33465008,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10406,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84132384,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3593806,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90012,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33979664,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1795853,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17186,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73548304,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1146169,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51756,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1303984,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1968577,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5162311,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21811862,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,200,Czechoslovakia,CSK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77963480,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20760296,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1428098,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,230,Fmr Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,795565,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7656,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5438389,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,474432192,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,860290,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,675000,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12123,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,826191424,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1775695,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,219408,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74651568,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,413406,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,781867,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15435,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13079498,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,178278016,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5688346,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,466551200,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9642150,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40362296,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,487149248,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,710025,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12355,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75924424,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4426196,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7610995,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93070,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8863659,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23385780,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93472,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52098,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23851404,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,485885,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,794919,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71911296,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,865069,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44078,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5562112,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8240,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4851441,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12048906,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,210514,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120432104,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20910612,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30163,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151651344,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,536,Neutral Zone,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,562173,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103000,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9360,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21240,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2300624,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6798283,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2161331,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,535197,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,979216,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1448439,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35936700,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1355155,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,505827,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,687328704,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98172352,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2910686,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42680620,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2656675,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4319934,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23173136,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11485,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24230248,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,592455,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56345560,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126684864,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30767434,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,855440,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17054160,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9402092,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2671082,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,176382800,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3452270,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148098480,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160486736,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,187617552,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,222256000,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,196000,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6528525,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3226946,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135044848,,,0
+H0,1992,1992,1992,0,0,1,Import,642,Romania,ROU,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166367472,,,0

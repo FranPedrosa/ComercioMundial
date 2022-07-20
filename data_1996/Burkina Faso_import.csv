@@ -1,0 +1,100 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,580572736,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123197,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,644456,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,939756,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,823345,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,968,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18666868,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3407779,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,337797,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2407,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2001,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5207426,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3356584,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,129,"Caribbean, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1071952,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5322,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1288,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,954,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7389354,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6273,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1179,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56587,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,534089,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,537135,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3995870,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195036,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,241842,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160095712,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24527860,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5219710,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76183,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5656,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,493432,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74197,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168865,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,316112,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126309,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2577907,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129817,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25621152,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100072808,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1264,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25345776,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,384101,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149332,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2123687,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2300,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,523032,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1025,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21580,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22760,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5162,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,710745,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1338362,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15557,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,493997,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120105,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,371222,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5225022,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,784479,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12005964,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,253257,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,472879,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29706206,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62389,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6567259,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18783,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,495032,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41749,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1054523,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,907691,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,595,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1419,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,443632,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,613229,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134070,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4547228,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,719,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26861644,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,270523,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12594223,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2755140,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,851,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10464271,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,435867,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2977966,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,817500,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5870069,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,612203,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28297,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,936406,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1307752,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155721,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11180402,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14125637,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25691580,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29961,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33636,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14110,,,0
+H0,1996,1996,1996,0,0,1,Import,854,Burkina Faso,BFA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1387642,,,0

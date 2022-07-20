@@ -1,0 +1,98 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1914475648,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19207,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,382339968,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,914733,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1342974,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,221538,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136477,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48628,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14078479,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1937062,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,493446304,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,500417,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14660666,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41339800,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115044896,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12478641,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102660,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,388825,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,719470,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,215380,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99433,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,605608,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,856894,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3477246,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18513,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3786316,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,187399,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1615509,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24980936,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45324,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134917,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121325688,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1759670,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100356,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,220717,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4489361,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33171268,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,598187,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,267909,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2523443,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,187521,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55375612,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60282276,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3169,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,164268,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20764998,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,328209,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38958,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7787862,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166360,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,202136,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3459,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,223541,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,465736,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121389,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65641,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41858,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46585976,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9884738,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69822,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48180648,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1418977,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56651,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3209059,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,977039,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,289756,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24131996,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22517296,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,336035,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,762523,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3087033,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,286476,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9238969,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39434,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18678908,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2053300,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2253989,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3541043,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173964,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,234151,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1021198,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33227378,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78137,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12612434,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7548610,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2183350,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89398,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1173199,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,668952,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4281706,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,771805,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123783,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71940040,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1520698,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132445472,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2323210,,,0
+H0,1994,1994,1994,0,0,2,Export,858,Uruguay,URY,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18034730,,,0

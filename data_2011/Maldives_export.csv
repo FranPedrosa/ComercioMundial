@@ -1,0 +1,40 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,121993061,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,99472,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,143,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,144095,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37080,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13187811,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28321,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,347,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,671918,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20368876,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3143138,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2110,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1317185,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2642714,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4014316,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12213735,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1765,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3738953,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,52580,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,294,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1166953,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5633,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,286,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6831937,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3686,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,394,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3326060,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,601,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2470523,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,89179,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,288193,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2920117,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20316,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,509474,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32482511,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,269909,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,142212,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8665194,,,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1135029,,,0

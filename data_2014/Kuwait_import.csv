@@ -1,0 +1,200 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31488655172,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,91964,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1823072,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,116020,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4166,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24078,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7855,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6259,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23154,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58823214,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,651777707,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,173252852,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50241,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,269213094,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,70096626,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1603328,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6284,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,153036673,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,141926,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5850,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,437231,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5725687,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,103777,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,305066452,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,90151,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12369,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24410734,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4509307,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1443985,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21006256,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,444745,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,266584480,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1993,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,101131,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,41511054,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1004,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11240727,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4452185929,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5824033,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,150765,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,408673,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,310,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4710890,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2833723,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,513771,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26247671,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,94746436,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36767,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,99868204,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,186951,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6900034,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5756644,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,257576,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21238,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5736348,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6263,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10377045,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,931738,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1749,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1172196,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,47721711,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,815771091,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2904459,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1475966,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1219619,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2927,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6207004,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2099379914,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1116987,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,64,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26111283,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,202,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10246801,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,73973,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,169384,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,764294,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1651,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,994386,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24094333,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,89897577,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,113044,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,235730142,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,238354402,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19632,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,195501482,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1171395978,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,206525,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6832,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2235582871,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,103540,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,122332087,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11648079,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58398,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1288002590,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,73563,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,422045,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,181043294,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,82456,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6806769,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11889,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6184017,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10380745,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,804661,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3295789,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,164366,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,261374571,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22045,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,180414,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4194855,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24840,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3183823,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,171401788,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,263145124,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,69705,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1482948,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,57,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34361827,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7230545,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,494609019,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,72806,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5490,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,220796,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,527,"Oceania, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14978,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,494085716,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1024681,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3217,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,62619961,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,213082,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,729354,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3607456,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3419,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3685,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,84,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18690153,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,171176408,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1581,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3137,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18970316,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4640283,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,127301007,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,139413993,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,71673092,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2595,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3520,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,113673056,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,94278498,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,189736814,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10718,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,61494,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1583,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,624,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,536873,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1570291950,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,121882,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2814668,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,215655,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,171323,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1307828611,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,92894455,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,71320749,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,398451888,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16794043,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,316616,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,140084347,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,446460,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,309265354,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14081688,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,47753,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,267750,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,116628629,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,606249389,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23169055,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2277,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,566608225,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2445,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8509,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1828,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4580,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2952588527,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17739711,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,559946391,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,395080,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20829,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,826215,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29618916,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1534685,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,378442648,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,815994899,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,922226,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,838,Free Zones,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11011201,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3076841068,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1642,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6267746,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,66071,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,68379,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,515,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5383518,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13932456,,,0
+H4,2014,2014,2014,0,0,1,Import,414,Kuwait,KWT,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6751068,,,0

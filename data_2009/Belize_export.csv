@@ -1,0 +1,41 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,249659895,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14163,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6456,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1193624,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9765,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9862,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1118016,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115077,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,361290,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2560408,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,838272,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,408400,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113753,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6901552,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,794436,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10365,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2825,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6666,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60586,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4408286,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6246226,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,202,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100286,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5826150,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,450,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7807476,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3370,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16831,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1441026,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,191150,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18561,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17897,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2715600,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4035,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6870558,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,410065,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59179,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79459011,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119458306,,,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79712,,,0

@@ -1,0 +1,116 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,9061828536,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1056184599,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1249440,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7300964,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10629921,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32131,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19016,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5833864,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,547,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55575880,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5466,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2426739894,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,153414,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3271031,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19877,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44712,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15485822,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57218,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,604610,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105712514,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2473801118,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7986514,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1669,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,740634,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6572,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,808108,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1177297,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3449337,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34500,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84951,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2675022,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,192788,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7081,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5749,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34675,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7275617,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52672548,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,247,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137869810,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2962,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140628,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5272,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47216,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27781,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50853,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17793391,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1720685,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12493284,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3952,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4046,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1336131,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19778622,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40818774,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65854,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,978,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,448009926,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7054,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149760803,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,197255,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,193,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15988511,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2737,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157344,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70889,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28636,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63317317,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2592,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,411,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30459,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70452710,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49607523,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2406,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,527,"Oceania, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,719,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61186865,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,558218,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21975,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,403361,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1378,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2487793,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3566182,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5027713,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1948310,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6334747,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1105831,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2353139,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,371316,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4745244,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21214,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62436,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31762,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52337781,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36946909,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3530867,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7176157,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,782760,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4959043,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46121692,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12283309,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78719776,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,447478697,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1152679,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39719971,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12435,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4691809,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3415422,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,167606,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,408853,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,273186,,,0
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32813856,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,432439131,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108218086,,,4
+H3,2008,2008,2008,0,0,1,Import,600,Paraguay,PRY,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,388277825,,,4

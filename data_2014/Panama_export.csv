@@ -1,0 +1,115 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12959956513,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1404,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,68731,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,491114,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6306059,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,76383975,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,527094,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,767,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30472923,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8678,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3411,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,40181363,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4352131,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9614659,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34467517,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,142058678,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39403666,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,93548,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,40528,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,244612,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,491824,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11952409,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5318,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,273004134,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1328695,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1842527091,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17560,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,644995744,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,314521,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,241482424,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,922905,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,149418,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,41257,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1379746,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,523772407,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,494985110,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,283105132,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1385049,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,70562,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,213002,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12672850,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,42500,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2524461,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,825265,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1356791,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3224994,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,468018694,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45629211,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,73758398,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,359733372,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4425517,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,415332,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,320957,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2517234,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1442491,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,127553616,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,711441,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3628181,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2737,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10494342,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1266351,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,139514,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,856475,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,859644,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,473,"LAIA, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12639091,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5100,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,232212621,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,308354,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,87098,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1038,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,68290635,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,70459019,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,111623859,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3137515,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,67837,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,289201583,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,844996,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,87868270,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,216828411,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,429980,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,132802,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,132821,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,598172,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,850,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2716483,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6694069,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2316583,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,329473,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,173818,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,178510,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3192485,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3994146,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,75487,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,393429,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,79853,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4483950,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35065757,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3051706,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33854415,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37060,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1560381,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,197400,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,204895316,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13686150,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1812542,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,67580,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,80956,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3979512,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,180417252,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,838,Free Zones,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,117429887,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2610010040,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,94960676,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1454530213,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1255535798,,,0

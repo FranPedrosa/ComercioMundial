@@ -1,0 +1,61 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37745611,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46711,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11335,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1988045,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,470046,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20446,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,993190,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3001,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121912,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170456,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,439,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32589,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,141,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16866,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140230,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1853899,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4405360,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,394,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,276,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,450725,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1304,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55759,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,939665,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,212773,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1330,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1217,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2730176,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4971,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1137267,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1458,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148973,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,448,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1202363,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4031004,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2594481,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2424328,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4550166,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2831,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,480,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9035,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,559637,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1679794,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16445,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,753,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70698,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1624,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24491,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24017,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77501,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66588,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4137,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,614833,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1804386,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127994,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4359,,,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1891707,,,0

@@ -1,0 +1,95 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,196288951,,,4
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,103,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,884,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10883,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2792,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3057,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,650637,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6212,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,493336,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64989,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1015541,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,224467,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61373,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51801,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58774,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,139399,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118670,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16114096,,,4
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114551,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5798,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22127,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,231323,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,268678,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11894,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126282,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,843,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36695531,,,4
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,337,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5153,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,744782,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58762,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58149,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95387,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1764686,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,234437,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58391,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,112321,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,203946,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4307677,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1200004,,,4
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,160285,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79582,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,175784,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22554,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20091,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2569630,,,4
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4198564,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5527448,,,4
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,259798,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,164,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1084029,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43390,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,411044,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14736,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,738053,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16126,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11596,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31113661,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37153,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45822,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,240451,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2081,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107763,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,280540,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,878677,,,4
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11417,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9184151,,,4
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,827142,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1117,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3982270,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4855870,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,973703,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25171,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,538,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9340,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45225,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1348749,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20036,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52662756,,,4
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,259887,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3223061,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,405206,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,980019,,,4
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,419026,,,4
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3003956,,,4
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,660200,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10982,,,0
+H4,2016,2016,2016,0,0,1,Import,174,Comoros,COM,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1665,,,0

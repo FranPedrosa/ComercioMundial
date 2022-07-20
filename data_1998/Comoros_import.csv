@@ -1,0 +1,47 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46949896,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6708,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,632244,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20839,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10273,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1698,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10949,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29726,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17935384,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2489,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1100803,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36265,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96882,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1641,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,720999,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64095,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1776073,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3509803,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3397,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9328,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,781784,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19671,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,481514,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154067,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,873,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,986587,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,536,Neutral Zone,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13590,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17836,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5696613,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75673,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2250,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127695,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,422719,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1842228,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,895405,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4247388,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37686,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,432077,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3524,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,869,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3564625,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,763509,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105460,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106279,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5734,,,0
+H0,1998,1998,1998,0,0,1,Import,174,Comoros,COM,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,194643,,,0

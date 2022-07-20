@@ -1,0 +1,84 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,292420992,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2777,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12143,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,326817,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32017,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89061,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14279423,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44692,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13186,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39913,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7677,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,346783,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1771654,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2292268,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32766,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127789,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1707,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,183804,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,837,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,230,Fmr Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3981,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6539,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51961,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84535296,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,712,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15233,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15933,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,926,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,278,Fmr Dem. Rep. of Germany,DDR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,590974,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24922196,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,357000,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53851,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5024,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,594285,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,997552,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53342,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7796392,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5828,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20098690,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,709321,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,256954,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7886,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67304,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30952,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,493762,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7002899,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52598,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,330442,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5775196,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16641,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,992,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6202271,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7277,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13369,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,582,Fmr Pacific Isds,PCI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20625,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,185683,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,411050,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1098168,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3691725,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15051377,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73224,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4874,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,158413,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1597817,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17836106,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,994600,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,400312,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4166285,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1004,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1660621,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3127635,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15865,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13842,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6532,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12236,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65354,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18557,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,810,Fmr USSR,SUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2249314,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12753,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4658146,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1556029,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52028736,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,890,Fmr Yugoslavia,YUG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,439412,,,0
+H0,1990,1990,1990,0,0,2,Export,450,Madagascar,MDG,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,185813,,,0

@@ -1,0 +1,95 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,601388529,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2002040,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14163,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96589,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,100941,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109580259,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23334,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,362272,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4599,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,708316,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,163131,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,275,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,822843,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,284,,,0
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,297,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,623938,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,260451,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89413281,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27797,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,732,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83,,,0
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,370,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4422,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1133937,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1461,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14468573,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49552,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,226374,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,342972,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1042,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,218,,,0
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,531,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14653621,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29,,,0
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18306851,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11505,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44119,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,387249,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9414,,,0
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26524339,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6825,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29763,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,522010,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3394262,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1997,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77787648,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1449,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,682,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,189809,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43100252,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12514,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1259,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6415,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1936,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30864,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,879982,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80812,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,877071,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25643017,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2662,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45069,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,454273,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4289,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11400201,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2311784,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,991,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14417,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,907,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5321,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46343,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2542,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,310,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2012710,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97816600,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2485,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27031363,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28028,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,741670,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8769,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,493832,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47710,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12715048,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,446,,,0
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133642,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23199,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,515,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78139,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2972854,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9962998,,,4
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88255,,,4

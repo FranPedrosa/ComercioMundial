@@ -1,0 +1,214 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,415096262104,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,300752,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,637976179,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8425143879,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5223,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,824450,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36828769,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3648925,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4529856501,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1563529242,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,952139936,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10027293333,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3137390,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49777148,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,625411577,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7881780,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1729464,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16675222037,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59036,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,538445,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42762731,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,500731888,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38899,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3369226278,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,281990,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11994730,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3552703,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,148056,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1551893346,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6906002,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2887802,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115483141,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42969793,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,507296572,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1638702296,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104766,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14121103,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3232910,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,446114994,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20122,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1489599895,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26966352083,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,615013144,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2061040,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,175,Mayotte,MYT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1471909,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43203732,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13488721,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140765880,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1905614107,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31564548,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60161537,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4647269552,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1917055,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3129731678,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,223534,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24747854,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,495276471,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12989498,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,454127503,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61278795,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3711701,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108919127,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13415,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48474,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,186672,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2016441870,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36756081211,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1659924,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,161743,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2035099,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55219648,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47154671,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17044,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,961494,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69321342747,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70551257,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20987699,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2074392398,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20646,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72641,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69650405,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7158837,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7344956,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,770929,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88649,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34480474,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,433044983,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4246576115,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23577261,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2233388113,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2745512460,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3535186070,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4385607561,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1375488651,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,334939288,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,258024,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5438854920,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1853558465,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59934499,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41188347,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,820239,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3011703910,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105799477,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,241018,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7155092,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25861118,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89393402,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4307962,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14287220950,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,306642803,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1437206809,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14110836,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39449269,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3075494,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,939851295,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16805432,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2742644,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,312577685,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,183497373,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106062930,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,697962585,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1960015874,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24688289,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,199816975,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62001075,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4157,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,587624829,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,224170237,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58295297,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48216599,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17437,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9329102,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23596492461,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,530,Neth. Antilles,ANT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86679442,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5200122,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18205676,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10087,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,273387975,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11313392,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66047,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1086662700,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15288,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,548548,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2969185118,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59193,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124489,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6330548,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,587965442,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76741301,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108892568,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,141386618,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,644364760,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,301504913,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6067,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9257947914,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1573327572,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,273177,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,462625123,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5218318275,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16934758019,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,970500,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32322,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2740,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19461,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4811997,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,178728,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2729350722,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74713629,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,916979794,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38405076,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2936473,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4051055237,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,258385742,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3058232838,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,978824583,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2478194399,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69263,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2283136250,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40106680,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18328916446,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,736,Fmr Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11366696,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,592331,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26919807,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3972091825,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14597761827,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,587654054,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33983394,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1399103049,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10616236,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2079208,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118838,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42014231,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,491761942,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2840981048,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6168835727,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61302293,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42598,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18531,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76602271,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1508566403,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,252152143,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2011556526,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13691475703,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50068203,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,839,Special Categories,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97472,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13215324028,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2675660,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140312790,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25451605,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,389265588,,,4
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7472200,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66486176,,,0
+H3,2009,2009,2009,0,0,1,Import,381,Italy,ITA,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,833906475,,,4

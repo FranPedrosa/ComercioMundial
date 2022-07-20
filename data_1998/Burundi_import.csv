@@ -1,0 +1,73 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,162234928,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138473,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,349909,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12655,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,426661,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31315034,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155614,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37333,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14565,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,426010,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6375675,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,393654,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,428731,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67877,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16341,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,158992,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1653750,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1791,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,951,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,428713,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57559,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14823726,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16219,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9248562,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1843,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75692,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13897,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,245708,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,340137,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251387,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,664263,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45658,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4894496,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,196410,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1589,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5872178,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8989928,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1132481,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17805,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2961,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1776711,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73562,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30253,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4945124,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1480,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151738,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,758334,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69398,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,565655,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,897,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1282880,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20168804,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2537,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3078942,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1827761,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,610310,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5952214,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1605593,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,276819,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,604393,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1869241,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82493,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4734237,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171719,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,579011,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152274,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2279946,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3180868,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2669597,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1122,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13042080,,,0
+H0,1998,1998,1998,0,0,1,Import,108,Burundi,BDI,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,393702,,,0

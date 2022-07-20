@@ -1,0 +1,155 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7850325933,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7113,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61538,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21323083,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7530885,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18523,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9034477,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18631986,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29659564,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,588788,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25106,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3892,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160735461,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86615,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160091,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6128,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142261623,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,583,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29160,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11164371,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6780271,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31419243,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,386612,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,281601,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,684360,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,820152,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,767453,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25998403,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2116982,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1100379,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9584446,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4848576,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,305414,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23236906,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18321,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,267629,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3467699,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4133284,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5515222,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,814002,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146955,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2879895,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5999710,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8928844,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29136,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10735,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,831,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7006973,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2645946366,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75406,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,285768,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9832784,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50708,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6350813,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,327491555,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8640290,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13506735,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37218897,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18757,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8890656,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243164,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,205081,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2623252,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1372051,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11850403,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26393265,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13533235,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26150735,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,424958085,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15743542,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,279858174,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6964,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7167292,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1794151,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29477314,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1987004,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79526,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8976939,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2745464,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68290873,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10400566,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27695,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1856934,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2806,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,417766,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13431095,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3672336,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23519873,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2352257,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51301175,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5757557,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98005,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49668,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1994323,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,591,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50161,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168673222,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,724,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,515408,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44095079,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28315,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1413696,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18161846,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15322078,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27188158,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262072,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3655135,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101620,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19913009,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62105718,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1354251,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,331319,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5531591,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61614163,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90522,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6349,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46608167,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20788660,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36769,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1406802,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,259074870,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8044954,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1844145,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65011,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1170739,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5572373,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16762,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1228599444,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67407,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61521,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5493378,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61133901,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16454485,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33581550,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5224984,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7005270,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49163686,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56019734,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6329,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,671139,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19853983,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,620998088,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195119,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36019872,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27799575,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,241367964,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4521537,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2549122,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39990,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7380526,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4333966,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,583048,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21870,,,0
+H2,2002,2002,2002,0,0,2,Export,504,Morocco,MAR,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,607840,,,0

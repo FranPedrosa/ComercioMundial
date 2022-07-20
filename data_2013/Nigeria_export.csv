@@ -1,0 +1,150 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,90554484841,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2758811,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13564,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14801503,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,62860,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2542566,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2145347725,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34378,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7665,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,191096,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15471991,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,125278,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,144552967,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21650020,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,151785,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8576195511,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,117457,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4155890,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1231,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3751317,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1495961445,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1642464466,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31443057,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2372358,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,65540372,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28127641,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1110437363,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,577834,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,106657,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,86523275,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1562063,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,539620,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,57548397,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2543,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8056426,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,163134,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,76664678,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,886487193,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3361761,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3993661,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3541561,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13952526,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3766202,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3284838,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5313471976,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,151290,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6130429,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3986447,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5028432,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2069447950,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1392343278,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,40885883,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,42102,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,980932,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16796075,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19723,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,162402031,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,508477,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12670107,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2110759240,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,374664,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,317109,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,367280369,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,130285191,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6317958214,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2353283203,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1806,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,451862575,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2540381,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3948356,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24050397,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30278308,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1239666,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,302270458,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,49855,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7583746,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1096075,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12388442,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,87300,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,206102,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,113239432,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,405924075,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14778481,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16210816,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1558490,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,77278650,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,105849346,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37460465,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,60899,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2970,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9520383140,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15186125,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,125787,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,182619267,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,375249591,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22274552,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2599913,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15842,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,218005811,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1988017,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,251932423,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,871915480,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1816811,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,945953,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,85048502,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11191037,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34839,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29939200,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,634850718,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2230,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,115486,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15893774,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11453440738,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,665481688,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,171075642,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4376218522,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35426,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6325528352,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4024474,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6031651,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1266238836,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,86053341,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8391400,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,368543692,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,114595325,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,218099684,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,155083801,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1021559,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,675363180,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,102629,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,142579745,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9059493,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4653351022,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10097112,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7669904010,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15105454,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,338734252,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1890207,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3202568,,,0
+H3,2013,2013,2013,0,0,2,Export,566,Nigeria,NGA,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1199593559,,,0

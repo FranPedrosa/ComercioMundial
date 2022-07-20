@@ -1,0 +1,136 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10592383579,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8728,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10112,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1356,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,972526,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1556063,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,705920,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96914915,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17078,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32690,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,282025,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4926,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3654924533,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10741593,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54613,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40302040,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49068,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4590768,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,928,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,204343,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32675409,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,265524,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110685,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42412561,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40225,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,228,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1985608,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9600,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53927,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49408672,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47160394,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,247,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4386,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197200,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75404,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14575537,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1320560660,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26050,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2451890052,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34502,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3483324,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66249,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18761,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,785,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35660827,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17198521,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,932886,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21544968,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11427922,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38663006,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4423142,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197772934,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2908183,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116482611,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,370860,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52945,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2630,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115596,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9377885,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61567,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4481,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16280,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92674,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1402375,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27627,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,230743,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21128,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145518,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11899144,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20910,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12410,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142376,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44976826,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21663,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130654,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,438,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1102518,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6955,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146823,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,500441314,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7293,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101866,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113707,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3453,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156088,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,282412653,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12230750,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,233179,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3800,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9905,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105710,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,222247,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22019549,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18200665,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54935,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,395145,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17756937,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14926,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20976,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,222060,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,211573,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15117,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,445,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11409,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8051680,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8149040,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10720125,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63227,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3667673,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1867060,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,218,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74159242,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33133359,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,264963053,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6853278,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1120029,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5629636,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7094912,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,294206,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3237,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69689,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,306580542,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,492,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,691849324,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1425,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128875,,,0
+H1,2000,2000,2000,0,0,1,Import,442,Luxembourg,LUX,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19188458,,,0

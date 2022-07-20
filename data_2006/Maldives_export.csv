@@ -1,0 +1,36 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135603308,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,703,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,602,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5649,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74966,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17413003,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,588126,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65002,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,904,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188875,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6886717,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5181686,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83356,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,947771,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2362811,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3302,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4986218,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20405931,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3936648,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124364,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7382018,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,852234,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2596845,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13976,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,654497,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1260299,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4675619,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,238666,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4304,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35321965,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5067177,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13192597,,,0
+H2,2006,2006,2006,0,0,2,Export,462,Maldives,MDV,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1086294,,,0

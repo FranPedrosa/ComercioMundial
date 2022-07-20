@@ -1,0 +1,65 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,228522401,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101270,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9303406,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24498,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10236,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,177160,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105281,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65194,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97411,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3601621,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6371,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10757,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2403,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69862,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96963,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6242616,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1580224,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1263409,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,467,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,966,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7190,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27926,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1025,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1132595,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17068426,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,591672,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32280856,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51781,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,848465,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,576,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44931,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25258,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5155205,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,314548,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8511268,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1969552,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129325,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29942503,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175751,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24443,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1470854,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3628364,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,501271,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,788214,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95348,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3333,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74304,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4088,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,802435,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15347,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15802118,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10267,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3548453,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73248451,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29781,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36809,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1938008,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12131,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,772,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3980572,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1267873,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199411,,,0
+H2,2006,2006,2006,0,0,2,Export,108,Burundi,BDI,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,646,,,0

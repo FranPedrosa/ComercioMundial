@@ -1,0 +1,226 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109879084449,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9446312,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20498055,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52560346,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,264004,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1188800,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12985194,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2088734,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14534380,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137792514,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,898286377,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,687662926,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22945581,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27889731,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68297892,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7406260,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3281076,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1862388327,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8751549,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,521399,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7570140,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18567809,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,540864,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,387636507,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3337862,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,145621,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35104,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,627904,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3037771,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111261292,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7008427,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2814014,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50976171,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,221422916,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4842284,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,500613105,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4456990,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1307673,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6350452,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35124861,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3182889,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,153549415,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3809096860,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50698842,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,658647,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5737138,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7565040,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4207,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12891116,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102122094,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16169397,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66296688,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,616592499,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3487930,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,577981,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71906080,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45561766,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10324012,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1061823,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19041856,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,565713,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,269333494,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,654443694,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28130,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1697181,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1938367430,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3229218270,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3341630,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1237542,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7389202,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11453216,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10131190,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3997396,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4890552,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14623829615,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50036772,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11485983,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1072475,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,512977793,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,523297723,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1674296,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3316517,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13607260,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9619022,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3742532,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1547973,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3833,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7313241,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,426100596,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,508497656,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,492242863,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,148131288,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53733073,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53023048,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,700320810,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,162052460,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2320181253,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9634722,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4691151,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1553900859,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31168890,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53704071,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30051596,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,714549326,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77778802,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5340023,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,707962,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83368798,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,440637,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,272954615,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4761158,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30590937,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,463193372,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79342933,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2266298,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3594174,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1741525,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,228127158,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5084057,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14580748,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88309679,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3268755,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11501851,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,357658673,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,323273173,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3171960,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14410727,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3813939,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7052,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,155783063,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3445041,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125586538,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12454818,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15784,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5041282,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5342185880,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3136590,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,835074,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1303529,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53387,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6830495,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27898,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125626993,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4196887,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4786565,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75793889,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,343479761,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1313278,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6398838405,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,212182,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1033,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,214686,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42786689,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78313,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63706447,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49030251,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8977106,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5897585,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47311727,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147145811,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,233,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3352556084,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,304648360,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,542237,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,609842,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,116602853,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,290796049,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,864862021,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1570491,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,532308,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1467171,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,171550,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,610857,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24806,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11894301,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,750694,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77229,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,521162659,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45198891,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,135536663,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6410200,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2281177,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,476823730,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,618231082,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,265737753,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,204962372,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105699274,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2421370,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,323849294,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6484908,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1911764661,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3850368,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12062667,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1825546,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,289871,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10724934285,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,823370781,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6718456,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,922954,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,446159400,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2647862,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30453,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18918,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10819981,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,446812434,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23695583,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,938664118,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1776712,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2487417,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9974784,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,319856778,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10417769,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,187046138,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6107015258,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7306034,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,839,Special Categories,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19382425750,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5211597769,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11113640,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32572644,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23273799,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3261585,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51296,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50200580,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3348792,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1078269957,,,0

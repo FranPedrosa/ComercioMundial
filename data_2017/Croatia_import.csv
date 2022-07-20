@@ -1,0 +1,162 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,24512646924,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7834,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6946231,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4359590,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,15990,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,250591118,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8811856,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4503153,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1849590083,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,38567,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14923300,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,131113,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,525096732,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,55758,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,767279199,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43536070,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,81,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1779503,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,152402014,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2144921,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,9037508,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20304067,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,449662,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18166650,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1640411,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,110,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2003842,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,777789766,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,631,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7970252,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,13,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,20922,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,49478,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2027,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,375276,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,26499691,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6835508,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,527645035,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,14,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,223581853,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,65,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,176243,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,13661228,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,10711,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,677951,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4588089,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,198,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36872733,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,600399515,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,182764,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3871410768,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4940,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,104913,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,94808866,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,158333,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1340,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,466,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,18567,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,615304,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13261657,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1852818153,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1410109,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26329124,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,62009886,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,246006838,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68997133,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15838949,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3165174941,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,508110,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30561031,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,163262756,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7280275,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,134808,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,132,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,214362857,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5475,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,76118,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,12045,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,480083,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10357925,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,31108,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,131615906,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29123023,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14899674,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,528650,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,42905,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,96006,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11277147,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,987,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5646586,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,291148,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6957139,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34488114,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2443998,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5724179,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16442580,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3421272,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,392989,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,373296,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,160408,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,949710091,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17190,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,90,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2622982,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,37713,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111339,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,38502,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23387576,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,14536155,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14138660,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,49709,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,243144,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,239,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,247872,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2328020,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,857864347,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30745931,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1037830,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,200745697,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,338616079,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,126162,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,117,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1017,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1585,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4244,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,889198,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87446431,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,668090948,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4882,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140630353,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5439497,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,451604913,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34515398,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2625720877,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,553,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9027411,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1557970,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,513526544,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,142427688,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,192821288,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5720,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34985241,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,461,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,338,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1010096,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3752232,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,315225221,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,21,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,15251,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26620826,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84813859,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12095401,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,298568007,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,26876,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158900222,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,33883,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4862603,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,162,,,0
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11,,,0
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,316,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,240289592,,,4

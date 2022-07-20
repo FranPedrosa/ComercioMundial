@@ -1,0 +1,48 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,631244864,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53500,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,234238,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3924348,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,366088,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2783750,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,538139,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3311482,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,543498,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60119,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,405327,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91557560,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3069144,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9773809,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62690,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226113856,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59660,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40699,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3600,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10055330,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15425292,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13000,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1139426,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35410,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,697138,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3231727,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36380,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3792770,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27100,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37559,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26609,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1633654,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111379160,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21440,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17240,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13509,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17992940,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1935767,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1705960,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3053885,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39046980,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34332476,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21854196,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13028227,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2177795,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5610697,,,0
+H0,1996,1996,1996,0,0,2,Export,31,Azerbaijan,AZE,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21676,,,0

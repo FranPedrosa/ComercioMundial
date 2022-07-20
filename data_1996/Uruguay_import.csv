@@ -1,0 +1,118 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3322374912,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8903,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,690655168,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4094150,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3273226,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13828,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,608875,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8243,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22063,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14814277,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54477,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5305,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2378623,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,679,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,745426752,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5877,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1816361,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1406,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36738,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,246861,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2198,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25262260,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1695858,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55359720,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49421160,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5353007,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,837503,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41823,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1103911,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,184175,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1839346,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13922483,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1909,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,178443,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,244501,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33088,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10804,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6187673,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117807680,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100372144,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68585,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4043967,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15936,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28813,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,349441,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11462,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11431,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38447432,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2437131,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5149095,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62656864,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3961838,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12492396,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171372144,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2253,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72041368,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9910,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,413567,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61716132,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35182,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1002,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6368015,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8467,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4086,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4655987,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9905,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,897,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54070,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48898936,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34850412,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17147,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5346757,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8821,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2518,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22275792,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1169734,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1552833,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3822091,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61720264,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5557130,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1341652,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15137057,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25251612,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4663483,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1602165,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3970048,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2050166,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1304463,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17730160,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10200,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91721,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1154267,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18534850,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7307839,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1314961,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,191818,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121782,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8785424,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,438663,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103285888,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28818566,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27876596,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3455683,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2576615,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29369,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1918893,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4351189,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1849665,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96345,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143213,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52355456,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23561810,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,405640224,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63677944,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5145,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,835,,,0
+H0,1996,1996,1996,0,0,1,Import,858,Uruguay,URY,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16807976,,,0

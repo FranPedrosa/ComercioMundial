@@ -1,0 +1,50 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,499265605,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,137717396,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,271773,,,0
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,68961,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11822,,,0
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,233746,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,177937,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,59798954,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,365,,,0
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,462317,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13466415,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,98597,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,235387,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1611030,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8924,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7253321,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22105619,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17242,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,110066,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,362081,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4469,,,0
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19720659,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2533202,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,41773317,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,34785,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1911627,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,991677,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,76713,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1263644,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,30401343,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,33130,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13557172,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2415988,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14927,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,331689,,,0
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3242516,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,120974895,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1016189,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,61349,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,47677,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,488027,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,41117,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6232617,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,168172,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,55160,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,992775,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6786195,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2738,,,4
+H2,2014,2014,2014,0,0,1,Import,90,Solomon Isds,SLB,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,79857,,,0

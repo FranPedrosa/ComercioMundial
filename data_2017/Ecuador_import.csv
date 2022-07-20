@@ -1,0 +1,194 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,19844243617,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49157,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,967946,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114289,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,153154,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1472495,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,420048217,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15779850,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52410880,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,239829,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4551926,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13366478,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1037,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87985,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104192583,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20188,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,228363304,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,223001,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,876308591,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6204,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4876,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,186014,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7878,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3994406,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,822234,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9027227,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6690786,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10560,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,261768008,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6108,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1584,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10297845,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,492895474,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3683818751,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,700,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3428,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1603024373,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2294,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8440,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46895165,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,631956,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4367736,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70492,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20923161,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,78830,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32430100,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57135,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27410598,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6577774,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21124,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3609307,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48663,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21001713,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,159480897,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,349,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4652,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,695007,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14962,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,530473446,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83694,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2939195,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14195,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40356667,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,165,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,702531,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11960,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7044281,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38024674,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31190901,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1377529,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89744075,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1078752,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25310302,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27414289,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,288726176,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82402,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,271299,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,523204267,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1305184,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,597882,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2478565,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,656583608,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7168,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4420,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5303,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,142739,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4998,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11496071,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,335,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,514,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4026243,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5852447,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12704,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,286872,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30343,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64758865,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31257,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31703,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28112,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,505355,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,741330815,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,164696971,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102032,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9012,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2118,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4771499,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1732,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,455337,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,457,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11015,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1485,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,444816413,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22060035,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,373,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101009,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3536703,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7006660,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4843,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28498328,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,310,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9386998,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,717919,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,329,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12098069,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,893063868,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3514331,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80272796,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,759249171,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20369840,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10691,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27417531,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21220332,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,897,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1490416,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18216275,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,170710393,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21082,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58824,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,236,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,260,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,204118,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10725,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16836016,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76832,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3013287,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,345757,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66218,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,351773949,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67966580,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8049348,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,162455138,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6975218,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7838007,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,594624745,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3820,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42447,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50795,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2247317,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,42017961,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,113497467,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,819407,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,255411015,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7696,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4043649,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13672928,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3520390,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51973315,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13549,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,113,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1310318,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28214,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6716664,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128884231,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3959835938,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1227,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53799542,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,816923,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17628081,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,547,,,0
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60946749,,,4

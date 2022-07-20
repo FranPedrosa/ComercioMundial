@@ -1,0 +1,66 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,215168272,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153551,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30114,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54891,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40550,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13599,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47445,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4762805,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80494,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4035,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33837916,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75769,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3004887,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6248089,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170732,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82212,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1746,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120689,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,600398,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131783,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48684,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88823128,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14272,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6457,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2963916,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2232,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22815,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,380258,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83607,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6443147,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,831225,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5092577,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73417,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43658,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2850,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9774,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2233659,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1564,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2667,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29308,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2979,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2837938,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10672,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25235738,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,532664,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7315,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5669,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,856855,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115986,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65592,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98923,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12642,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,570967,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3389682,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,464183,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226529,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,796417,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3186,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3730,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51800,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11912,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58788,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13927769,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7209,,,0
+H0,1995,1995,1995,0,0,1,Import,148,Chad,TCD,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9302207,,,0

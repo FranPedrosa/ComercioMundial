@@ -1,0 +1,47 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42680600,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11514,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28701,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1961,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,527340,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9730,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3241,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30408,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10376,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1464,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22377,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1029,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13938,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2121,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5165,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13100764,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,229945,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,305745,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60502,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,279396,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13918,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74166,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5400,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19078,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15542,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17358,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10945,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90690,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78021,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43725,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22090,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106667,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,639,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,597688,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32478,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15121,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25550679,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44850,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,827727,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11124,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76147,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47406,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,244555,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4475,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6617,,,0
+H1,1999,1999,1999,0,0,2,Export,20,Andorra,AND,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77777,,,0

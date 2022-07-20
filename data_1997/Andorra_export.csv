@@ -1,0 +1,27 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,1997,1997,1997,0,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48000384,,,0
+H1,1997,1997,1997,0,0,2,Export,20,Andorra,AND,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4370,,,0
+H1,1997,1997,1997,0,0,2,Export,20,Andorra,AND,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19533,,,0
+H1,1997,1997,1997,0,0,2,Export,20,Andorra,AND,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2049,,,0
+H1,1997,1997,1997,0,0,2,Export,20,Andorra,AND,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1627538,,,0
+H1,1997,1997,1997,0,0,2,Export,20,Andorra,AND,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,419125,,,0
+H1,1997,1997,1997,0,0,2,Export,20,Andorra,AND,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1577,,,0
+H1,1997,1997,1997,0,0,2,Export,20,Andorra,AND,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,553,,,0
+H1,1997,1997,1997,0,0,2,Export,20,Andorra,AND,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,281802,,,0
+H1,1997,1997,1997,0,0,2,Export,20,Andorra,AND,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19970332,,,0
+H1,1997,1997,1997,0,0,2,Export,20,Andorra,AND,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,467399,,,0
+H1,1997,1997,1997,0,0,2,Export,20,Andorra,AND,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5190,,,0
+H1,1997,1997,1997,0,0,2,Export,20,Andorra,AND,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3278,,,0
+H1,1997,1997,1997,0,0,2,Export,20,Andorra,AND,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,462911,,,0
+H1,1997,1997,1997,0,0,2,Export,20,Andorra,AND,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58237,,,0
+H1,1997,1997,1997,0,0,2,Export,20,Andorra,AND,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,669,,,0
+H1,1997,1997,1997,0,0,2,Export,20,Andorra,AND,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7875,,,0
+H1,1997,1997,1997,0,0,2,Export,20,Andorra,AND,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1233327,,,0
+H1,1997,1997,1997,0,0,2,Export,20,Andorra,AND,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1024,,,0
+H1,1997,1997,1997,0,0,2,Export,20,Andorra,AND,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,253799,,,0
+H1,1997,1997,1997,0,0,2,Export,20,Andorra,AND,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38124,,,0
+H1,1997,1997,1997,0,0,2,Export,20,Andorra,AND,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22739214,,,0
+H1,1997,1997,1997,0,0,2,Export,20,Andorra,AND,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,271371,,,0
+H1,1997,1997,1997,0,0,2,Export,20,Andorra,AND,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70025,,,0
+H1,1997,1997,1997,0,0,2,Export,20,Andorra,AND,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6541,,,0
+H1,1997,1997,1997,0,0,2,Export,20,Andorra,AND,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54524,,,0

@@ -1,0 +1,188 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,65257275661,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,261159,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,578436,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5090,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,569933,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9594139,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,656,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3902,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2921549523,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,345999325,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,281046168,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97956,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1985599,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83855268,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4789,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,658844,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,385314609,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,198747,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,121527515,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2182839,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1205,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5704539900,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28322,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146107,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1055,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10537559,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4638373,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17340,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,582619,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47554065,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76283,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,767870264,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,168110,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1152,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54440077,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3006,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13404108,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15509223265,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1182725653,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71575,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,950,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36178185,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2886863,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3739628,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1110711,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70937958,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,170395980,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84552,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14475446,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1471655439,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8763093,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16993940,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,350258,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7917113,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15169,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,282105628,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1279209134,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2320,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,271545,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,792,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,233034,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1332179,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,274012,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2650230376,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147151,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84862,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17510565,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1449,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,416,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91835471,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,384,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1304536,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6471217,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82122153,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84214324,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10159462,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,209315040,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,812920,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7723,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,122325452,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,122575383,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1194419066,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3746458,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,735094,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2125951610,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2211647,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3797721,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4820153,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1955714839,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2161,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4424,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77994,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69293,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,255398,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7232915,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84689,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8107565,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10828293,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,161158,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,297859,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,206327664,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1317,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10405,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,766131,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,181910,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,113530,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2133121424,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,278989767,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,130788,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1613812,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16834782,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95919,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,651373,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,130683,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,178892,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,491125671,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,146,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2205,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15013,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,292365,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,130209628,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3326433,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11068,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32838,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13152,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76442055,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,544,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6862,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70875797,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68198772,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,188183,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,657360028,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,939294463,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55223900,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129526522,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,142007740,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15067634,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50662069,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67678617,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26072,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1564,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28349,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69115,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18743200,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78983,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,375394,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,190516,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,807113494,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85947264,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18792039,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,888452453,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17330949,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60923463,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,384531,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1424187474,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11375,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,984,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,376849436,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,258526636,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13988,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69178,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,898998293,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,805567704,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42417604,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2605205,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,323830795,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44702,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,145,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2406,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125219,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5877395,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73675,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10719816,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,561692195,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,574576,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,838,Free Zones,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5882,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11751898133,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,812,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140009179,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,159932,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62736613,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55310,,,4
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8164,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1617009342,,,4

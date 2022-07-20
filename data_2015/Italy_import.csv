@@ -1,0 +1,214 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,410933397835,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2007909,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,899128746,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3349722433,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31732,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1690695,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,971600225,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,422302,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4804165549,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,946568445,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,560817603,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9412099852,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5155214,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87637687,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1427165525,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34211910,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,768091,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18988967914,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8010146,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3784940,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77349226,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,735313227,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11871959,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3552067551,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,245469,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8486,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44333765,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12692718,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36404,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2549582922,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62382520,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3544675,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125453766,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,330411709,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,230502880,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1619007479,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2426906,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34504800,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,413991,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,406224051,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52992638,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1234828219,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31315521586,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2394,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,816153165,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,238674,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1084724924,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86747271,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34850,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,268924982,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1563814302,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24614117,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87813534,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6143257910,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6367672,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2403234756,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62162,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35712037,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,345143160,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25122746,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,270943911,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64357353,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2808231,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,150139221,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75829,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6908,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13264237,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1477731718,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35686743379,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4950980,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5983,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1447959,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,517829775,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157185046,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1237073,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,680629,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63879387586,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,382223130,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50488996,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2819559836,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20572,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127223,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117086070,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5075397,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24110184,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2371832,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11505,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72148245,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,348272455,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4943471446,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38388957,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2210915757,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,520571479,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3732996633,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4565060983,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,979974762,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,336560765,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2683566,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3462343086,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2579020842,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55626672,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99154398,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,394344,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3547265848,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,204237548,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,969978,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15672905,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40791912,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39129,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117602151,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3254241,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3793778323,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,509346391,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1031227036,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2254668,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35263735,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21431029,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,988072583,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15430994,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10802909,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,318632733,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,154568146,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133746041,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1405521469,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1809607379,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52140028,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,235306989,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48639048,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1129,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,884204390,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,398928108,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85183112,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118869754,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,213040,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11030424,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22813517487,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9661,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2655391,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2551192,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,292504254,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40077209,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,207630,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,878560768,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,442300728,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102983,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1012324546,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70461,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,367729,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,641319436,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30089677,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108739078,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,336538698,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,602053337,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,270113536,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9523185342,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1672723211,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1129365,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11153,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1502198489,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7124052936,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15981505127,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2940692,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64282,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,536490,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7181,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,138630,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,457350,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3717769678,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92458885,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2039360912,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40304730,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,560254,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4436030982,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,279839025,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3432410993,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2950584444,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2917791808,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,380556,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1952407250,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83694389,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20612176333,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17581779,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,449283,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7597756,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3871413975,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11940472011,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24916300,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49586040,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1351127498,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10729839,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50020,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1197,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46807561,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,943685618,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2549857072,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7373851034,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,184626709,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157690,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,121447238,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2315395972,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,205615358,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2201991945,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12066806273,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43573333,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15744430719,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5877906,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,301673516,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5824314,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,148789057,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3327,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6658902,,,0
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,217678024,,,4
+H4,2015,2015,2015,0,0,1,Import,381,Italy,ITA,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,966765534,,,4

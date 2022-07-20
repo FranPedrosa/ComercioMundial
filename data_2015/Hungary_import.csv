@@ -1,0 +1,173 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,90760850877,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,75885,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15670389,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27737948,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,217,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,78663,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13905699,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38718354,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5997545589,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1847434,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,146843,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5012196,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,515361,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5773,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2125969383,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,56850,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27937,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,111757416,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5065,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,202014172,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,334194,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,815,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,59,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,375401929,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48441,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,84670344,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,330237,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,109669,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,123197932,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1599,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1292221,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20191813,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18014913,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4776876860,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,42409,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1142364,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,76852,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3565,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1361326,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,478741544,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,151985,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38550524,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4372657326,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,587781485,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,421020,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2450432,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6885,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1250,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1255674,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,51174769,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,272359073,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4575680282,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1033959,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,702328,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,250,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23774536609,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,56336,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34067,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,93188381,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,156726,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,169232,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,96,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4532635,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,579591726,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,40337884,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,141997110,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4783881,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,389591228,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,442318906,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,200994678,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4149149156,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,503391,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2199,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1256088701,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19220697,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,181067,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,235229,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,467576,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1434331052,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4634305,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,98389,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24444,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,367179,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38863564,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,200,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,393368,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,115469136,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,91073555,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6998517,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25973,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,259248,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,320958023,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,197702,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9392359,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,54222,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,208386414,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,660664962,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,122177,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4824108,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3131770,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8149341,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1604293,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17398094,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,66507,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,331171,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4116611973,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1182,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,80,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16203,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4355001,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35008,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,727,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20918,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,515,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20101197,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15104636,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,65935,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17040,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30563,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1356938,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,189065595,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5007158557,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,205781862,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,305,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,109612,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2818131883,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3642933658,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15572,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,413839,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1348394,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18421,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,597862905,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,238280,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28692,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,364927342,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,331428521,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4794848317,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,75670728,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1218417354,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1700,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28030613,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1343995,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1444680893,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2021,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30164,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,78,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,865005124,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,662250208,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,636784,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,261562,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,420125493,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32587,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16584657,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37098196,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,766606078,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,75122,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,940985,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1127934099,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18864422,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19936945,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1711448780,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,300701,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1872102390,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5350471,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,631586,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45121,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1156883,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,138156,,,0
+H4,2015,2015,2015,0,0,1,Import,348,Hungary,HUN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2164,,,0

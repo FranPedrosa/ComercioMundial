@@ -1,0 +1,203 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,92189842878,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20940040,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7362068,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,937,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,99708,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,130,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6717,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,990,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,119539,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,388347,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,68723626,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,931022141,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,826110961,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1988170,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22537367,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,86968790,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,336816,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35461,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2087619380,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,643136,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,220198,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3069294,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7771,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,910306951,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,65531,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1960,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4281,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,59,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,55356638,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,951136,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,780106,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,231319060,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16404567,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,703818,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,993262808,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12046,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,118179,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18650952,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3880,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,365897793,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6414912041,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,91748615,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12426,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,175,Mayotte,MYT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6815,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,427395,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,325967074,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,47492143,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24941593,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9609134,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4460235,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,900617884,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2138545074,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,681,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,134907580,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20921298,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4323506,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9376706,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2025726285,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,569041,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3305,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,108,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6843,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3098760709,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,49565,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,904,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8972,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1786,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,318242,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17375,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12881711423,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2206963,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5995,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,249054314,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,315289,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31535,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6471,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23632915,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4281,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,167620,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23578,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14203929,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,112428482,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,562838044,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17921562,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,271907065,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3395053,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3992,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,712964254,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,138132343,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2749054634,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8406049,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1192212,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1846086678,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,712804545,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2220701,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22637008,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,984247,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2296051259,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,60948,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6100,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,580019,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,792611,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,335945021,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,397669,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22695819,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,293755916,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,82662314,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3124479,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,478013,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1266239,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,432049001,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1164,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,135118,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,43886110,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8215892,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1182599,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,389756324,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,624926012,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6985,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1166547,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,225068,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2305,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,41523148,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27733536,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,69590,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,118640,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,444007,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3818912287,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,530,Neth. Antilles,ANT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11771833,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32769,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,111476,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,307,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37222379,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18237264,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22400,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,231131,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,112,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2441038385,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7294,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,73581,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,55211464,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24371399,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,190681,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,215013,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,220954868,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,67602337,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1463494910,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,418240377,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,485,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3473094,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,129476123,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15024900962,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,57810,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15091,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,588,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7662,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2564512,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28957421,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,629280,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14460139,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1089035,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1791646,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,323005476,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,142145734,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,944452214,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,143983971,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,118837464,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,228756891,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1115948,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1186736809,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,736,Fmr Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2014356,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,98563,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,96884,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9206737961,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,825886840,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,360457,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1513,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,454548109,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,55881,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,62,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7199461,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19722748,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24735706,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,490252212,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,189902,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,985,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,196254,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,95153647,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3472140,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,51441557,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3753411482,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4285696,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,839,Special Categories,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,644882094,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2729944993,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6815,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,55769345,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,69243869,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3347124,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,87308,,,0
+H3,2008,2008,2008,0,0,1,Import,246,Finland,FIN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22923916,,,0

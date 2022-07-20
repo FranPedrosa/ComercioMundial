@@ -1,0 +1,85 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4347151207,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11678836,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1100,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115200,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14053,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1565840,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4960,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6306876,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7000,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44000,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100859656,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1174772,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,305892,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99237681,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2140,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,176909711,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,406610,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3821558,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,786905,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70402,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1462910,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140163,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,406717296,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,208436099,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34801585,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5903790,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95673055,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,683652,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12647672,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,542,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166468035,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10371548,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3161,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195062736,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1315741977,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18302,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17166096,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,488500,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1835190,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4452816,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5373329,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,396756,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4941278,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5828204,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,245743,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41688041,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4157,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59800,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201981,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21890,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,760,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2802623,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3000,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,992008,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1605435,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,678870,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32040,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7364951,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8545687,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119120147,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,285416072,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62847,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,255,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1625483,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123094381,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,956104,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69558,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3764148,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75975213,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108713,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,282179,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1712406,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,287564,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78936974,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13066,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15429795,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,275959317,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,273584065,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35794455,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38886906,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4499960,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43157985,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2844274,,,0
+H2,2005,2005,2005,0,0,2,Export,31,Azerbaijan,AZE,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3394471,,,0

@@ -1,0 +1,70 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90155985,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23054,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12681,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68902,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10620,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51626,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10042,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20858,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2753949,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9212,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63856,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16302,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20380,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22557,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15333,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32108,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7171,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11888,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2935,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133535,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17180996,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6352,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43129,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11052509,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,273768,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1019,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28166,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18144,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,221727,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2572,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9213,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,733907,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,141403,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7829,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21183,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153151,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18297,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7178,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12407,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20548,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31276,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,526717,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23133,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5425,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4204,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,800683,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6824,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,340,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,906,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39659,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2791839,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1637,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,258883,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27019,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3140,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49190,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10813,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50548150,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,370590,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139276,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,382497,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52647,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3963,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,319684,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,404294,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46556,,,0
+H2,2003,2003,2003,0,0,2,Export,20,Andorra,AND,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66019,,,0

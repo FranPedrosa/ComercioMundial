@@ -1,0 +1,80 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133222512,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,782000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5089000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1057000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2736000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1278000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,208000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,869000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,193000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,626000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3423000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1760000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1134000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,400000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1051000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,391000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,396000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,520000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1957000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5834000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,463000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,205000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,398000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2024000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1721000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,206000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,404000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,613000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2414000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2712000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,213000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,396000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18553000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13879000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55882000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1957000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1000,,,0
+H0,1997,1997,1997,0,0,1,Import,212,Dominica,DMA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44514,,,0

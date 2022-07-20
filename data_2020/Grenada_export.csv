@@ -1,0 +1,42 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24620482,,,4
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,776870,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,301,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2012,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,120,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,593068,,,4
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,170485,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15076,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,305408,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17731,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2078,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11479,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,502,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146650,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80880,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,141190,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,201,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,212453,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,479993,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,272000,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71168,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6084,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34705,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,268124,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,409,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,625755,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1515303,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7407,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,186,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47833,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30187,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7144,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6540,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1938441,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,135920,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,301858,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4319182,,,4
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,201,,,0
+H4,2020,2020,2020,0,0,2,Export,308,Grenada,GRD,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12075470,,,0

@@ -1,0 +1,205 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,399984248389,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,854308,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1568619,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,695548,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,798,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,164086,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,277,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1047212879,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,549278326,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1060388751,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61771,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14054503,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,201395661,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48627,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,570700,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,924424539,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24753,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24451730,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7990724,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107021,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4470301762,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25520740,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1101,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,153454,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30015,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58448234,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7826008,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3717,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6569176,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109756129,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3141912,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10044577865,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7291,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84609,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,273554,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158289823,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24843,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1396687694,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66257292502,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5281,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13784,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,932636506,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,39773,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,901464,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89239,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2541075052,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30729113,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8887960,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7250631,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1077384275,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5661,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,542724203,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,176992,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,152314373,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,164425797,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,126105673,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146783,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16523,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147177013,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4320,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2263771,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,672562264,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3790614055,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13005,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,383436,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12194099,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,884453,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13762476332,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,524054,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63173,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19273,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,194128316,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63035,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,487466869,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13160,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12667589,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22021362,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,178359,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,458260958,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,290065049,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,982524204,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9461496,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1305433567,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2287597,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,153271,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1582310219,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,637883366,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5211749781,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111455162,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,208731,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17544720523,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,592864,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11353218,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,902559,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10345662,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13771102440,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10046,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44136,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,717453,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,482032,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1230901,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11553659,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1812,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41526131,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101336905,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2304084,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1935339,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,224948,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6560165180,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,240504,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108860,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90441907,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100487,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10080824,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6367985818,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,134270,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,585383,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72777,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97976,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,236559976,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13345,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2405793,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9088989,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25236,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1223097,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3683263319,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101961,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1238653,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,162749,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,346485087,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,634177850,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1007026,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,529628806,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67704875,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,153175700,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4466,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107386,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7019,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,132344,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,176490416,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19023311,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45106,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158128319,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1099837060,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1935636846,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,888445414,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,550837359,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1232,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,250758708,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,390469396,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1503305303,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5877,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,319241,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,844462,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137996,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11419,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1837120,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26145,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25089843,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1348948,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7232779,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,570073,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,841630,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3723863625,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1187180848,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,187217688,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2090830961,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115103361,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,36747,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,265625493,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,421271,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4753320782,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7092710,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44098,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,13754655,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1046380050,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2006080746,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,154386,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10730,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4341601591,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,189513,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1927,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50688286,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,164579398,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39346359,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,618857871,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2336276,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27989,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3410908,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,228301004,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3528134,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37193193,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2512877899,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,180769,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,195856156094,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,321785142,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47037,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63271556,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,530,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4252,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79822,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1840,,,0
+H4,2014,2014,2014,0,0,1,Import,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1479781936,,,0

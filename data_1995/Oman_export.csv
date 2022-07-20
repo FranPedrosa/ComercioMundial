@@ -1,0 +1,101 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5917388800,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108205,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52072,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,227059,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1154010,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1426176,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7021,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9303292,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77090,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,318282,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,993197,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16306,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96282,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165237,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,285117,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58746,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,286433,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1967485,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,573490880,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8139,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42140,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,310215,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,283104,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,317541,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,484524,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2600,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5806813,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,276296,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4681378,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6774,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1634224,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129019288,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68986,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2007547,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124830344,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151549,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3513523,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38340,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1688465664,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5579585,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2124288,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28465720,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,936338880,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18040100,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,339619,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1721440,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2196510,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2350704,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35367,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2080,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64034,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38480,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9931,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,275856992,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6312,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,317932,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5981,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4852943,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106971,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,191417,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,144194,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2294592,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1087288,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18901,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75784,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8523591,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46719,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5623317,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,198208,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55238756,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1300,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27271788,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161203344,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1050339,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23536,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129075,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13417,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1219368,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1709434,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,292232,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,360411,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3756713,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138513,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,506589856,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,604560320,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2172167,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,237581,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,541368,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48329,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,572523,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4783443,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29045064,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58706108,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9117000,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,163873792,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,644433,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,259375,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,167401776,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29171194,,,0
+H0,1995,1995,1995,0,0,2,Export,512,Oman,OMN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,238616272,,,0

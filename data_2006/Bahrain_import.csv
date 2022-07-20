@@ -1,0 +1,111 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8956853532,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,177077,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6702,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4808513,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,333684657,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33761337,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8979,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,771275,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40486318,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114457055,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,434,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,639177,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1227713,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6386,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15239187,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6497,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5970719,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2803958,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,330451666,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111072,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31199,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137407,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,634137,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1916898,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2519411,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14099024,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6582,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,159853,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1199,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3457,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16807735,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102968758,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,293952,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3641,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,258617619,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2323302,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,187603,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19625911,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2840993,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1643324,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30297332,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28551713,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,241393,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21401693,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136718313,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6702,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,482288014,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6995491,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,835788,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44949,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102020079,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28332115,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8720312,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,713,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,249686,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2808556,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1412115,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56880540,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,196218,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1175916,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22234,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170851,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3725605,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20729569,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,855041,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1755,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23363767,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63710443,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9736649,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1809,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4589109,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33868225,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,612,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52394,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9380314,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3743805,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4345695,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39471444,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3553178,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4899928,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,470626576,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,196643,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31112,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136621039,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24871823,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149114,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2174382,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1410516,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1779635,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11374601,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53526008,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,315901,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,527,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22965757,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53275448,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2842748,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58631082,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,221041536,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10465081,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33631949,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2071571,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66702,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19937161,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,190046372,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192907,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2456977,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,289474620,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,207,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,203103,,,0
+H2,2006,2006,2006,0,0,1,Import,48,Bahrain,BHR,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4901631643,,,0

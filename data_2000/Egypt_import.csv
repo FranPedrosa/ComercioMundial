@@ -1,0 +1,147 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13963711320,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1316668,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2041663,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28367854,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1464,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42458,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1288641,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,235605095,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,472214866,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61327149,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26948756,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3738339,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60045,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,176402988,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,555098,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14012687,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108787440,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1693679,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28255464,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,367744,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7640,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,738614,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,353411,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94299,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84165633,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17441330,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6326057,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,640388283,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,193568,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199094,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16976171,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,206371,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5763879,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45512199,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31528,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147448845,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31135943,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10734,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5462108,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11185542,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171596075,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,578172847,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14723,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115330,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1398075,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1233851169,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1530008,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1402624,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100349357,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,580902,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67293,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45628438,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24415996,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,756900,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143717444,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24692772,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1587175,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,212246558,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23845673,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,929902088,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151179,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1452,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,427726327,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5454310,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26792803,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94738741,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37216,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,245630278,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30418182,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36397568,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12989710,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52675456,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2079875,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,505992,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77401,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43768,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13836534,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,144593742,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3230,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7978297,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17214,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18163228,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119749330,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3888991,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6650974,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,775,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1606646,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,235508,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45862,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,342969638,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39196750,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13648,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128882345,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43119301,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7991074,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1027946,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,534901,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3811869,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6970890,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67545705,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7019768,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3208002,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,229371634,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,304162972,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151618,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3591,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1033432130,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3911,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,229435174,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54490561,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3876868,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5281283,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39654811,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,450499,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19817280,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1995645,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,214005382,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57783070,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6149,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,224898127,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,206102404,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46733020,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58098,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93381392,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47270,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78762921,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16466997,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199971577,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1175367,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,194003899,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8906380,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,359561492,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1555532,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,364303,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,617103273,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2088315691,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22943,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30466743,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7777,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8750787,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34385,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4248660,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,689743,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9708117,,,0
+H0,2000,2000,2000,0,0,1,Import,818,Egypt,EGY,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1128551,,,0

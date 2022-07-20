@@ -1,0 +1,75 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,214548672,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,608,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1021094,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2333,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41130,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195201,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14799463,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2745703,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11976,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,355580,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96315,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5944,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9795975,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,211728,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17293,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7266,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1650278,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1903,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28437582,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,341812,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11671606,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62225,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21745,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21143,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5423711,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58215,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41203,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13025716,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26943328,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10008718,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8250,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,330942,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,280139,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102269,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,837,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2427715,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31093,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68639,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100574,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20404,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1152805,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23673,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7133947,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5442,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,523475,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93137,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4290902,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,421049,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99457,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25123,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23501,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,477829,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,946441,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,553306,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10419911,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,179830,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5502602,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,254785,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3954762,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,159868,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1228,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7942240,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,595165,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,485640,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7433267,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36952,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67739,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121066,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3200,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21697472,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6451380,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2540759,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106718,,,0
+H0,1995,1995,1995,0,0,1,Import,270,Gambia,GMB,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,436341,,,0

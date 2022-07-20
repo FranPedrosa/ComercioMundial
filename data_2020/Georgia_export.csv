@@ -1,0 +1,129 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3343442919,,,4
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,139074,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87837,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,906041,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,441293190,,,4
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6464099,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1443983,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51513,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30620,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,187481487,,,4
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18004365,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137262,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1176877,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,364460,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,312735582,,,4
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,116573,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73610,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47304982,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19650,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1926324,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6699975,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7409,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12031624,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3422963,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,477256364,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3963376,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24263,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,504641,,,4
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,915545,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,470292,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9419428,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57702,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,937374,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18709,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24805,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16564,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5564573,,,4
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,642664,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32951363,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,483225,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,190920,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61387397,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,612201,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5865825,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4422723,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1405811,,,4
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,739369,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29082731,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18144621,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2020573,,,4
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21406834,,,4
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34648915,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,259200,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16742518,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47622933,,,4
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1183570,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,757138,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6259187,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2085705,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18212474,,,4
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,204726,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9473146,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108000,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,341886,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35690932,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,244048,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5630,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2100,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,437351,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14020,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,344249,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5467,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,779559,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3622876,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1313472,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11437652,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,306619,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3491946,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,601169,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21000,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24114469,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30926,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20500,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,223242,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144174,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,165150,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,673600,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15746095,,,4
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,192422,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28446582,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,244341,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1078742,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20439733,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,441105047,,,4
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57711,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19213778,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90400,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50201,,,4
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2758930,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19557794,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1206783,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4060023,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4137831,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58271,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,626794,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83751688,,,4
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,162240,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,423282,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,671699,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106802811,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,569752,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10887432,,,4
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,432146,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30417194,,,4
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3465573,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,190571797,,,4
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13222938,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4645,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,217524309,,,4
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,194884,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,119025,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19754813,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8679567,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80069481,,,4
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,687565,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,622104,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73223600,,,0
+H5,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73890,,,0

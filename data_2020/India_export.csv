@@ -1,0 +1,226 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,275488744927,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,855243595,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48502301,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,326,,,0
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,542734310,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,470653,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18154,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,241133471,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1440236,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45888456,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,739110844,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3471126903,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,442975478,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55878574,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,457030986,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7912820545,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45225580,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10410492,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4565324104,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3160219,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,623079424,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84954991,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14059212,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149346045,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3675781059,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9398857,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1539207,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,347866,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60050926,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149794644,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,837624365,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64240343,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58922065,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144042578,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,253899868,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2812148025,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3251665,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4696155,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21472489,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3224131508,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61825437,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,738078208,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19008266739,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,585,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,830307755,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17323302,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106553788,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,357943773,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67505,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,112225969,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137436629,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20140314,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85502451,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,495889763,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,440497785,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,698432649,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1287907,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,188929257,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,194983224,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75498066,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13894463,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,666704406,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8680603,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51091582,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,261644,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44344995,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,267027375,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4363547822,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4939771,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,337351143,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52334266,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,98673051,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,116358641,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,516370,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7656984753,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,749161824,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,263467627,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,540981,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,454287948,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1112190,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2056036,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,912519,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,299416015,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,454012740,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24282360,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89484757,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65846,,,0
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,139090511,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9537368599,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,456946968,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11847367,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4363741899,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2243732524,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1457956013,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,542886754,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2599261129,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4347915871,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,499083575,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57646647,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4043285122,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,225723705,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,613644371,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1985803414,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4336838,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4516495886,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1010608583,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36733900,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27873502,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,169267273,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40096013,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,98639954,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,216643428,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,142325312,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,134065589,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11941234,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14101005,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,312239489,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,151811532,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6194006085,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,196173886,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,168220056,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,315872944,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82130441,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,398506350,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3045678231,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1541161022,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15066038,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9084758,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21159718,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64554,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,555598297,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1444427346,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2308350603,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46799306,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72746,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5854597364,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6261190370,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19280710,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4836004,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1696,,,0
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11707074,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2060510,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,439100805,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73404902,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69629214,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2953858113,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3532,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,256221,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,310314698,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,257196,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,710156,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,628897,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6567091,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,212965,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,282383557,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,154847201,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55695933,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149241867,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,701949442,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1416026272,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129276,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1487495599,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,829211177,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11720776,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16338240,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1254718825,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,322053016,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2559257769,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124238192,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,170422,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1112418,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41511,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2770785,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,439610,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,185692,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1206600,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6154273355,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,578191603,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91253267,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78366656,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124667320,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8295020166,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,148951651,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4500548683,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,323286310,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,543964760,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3498285769,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,166827413,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3084818961,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22965675,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1046641247,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6798,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16043812,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26412270,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,701904822,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1247872918,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,123734446,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44829006,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3777064295,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1196367560,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,644542,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71169245,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17953335407,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,241549516,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3636047248,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44297958,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,156084,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2523,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,656895974,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,438250020,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20450615,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2149073052,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7767619502,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1411718205,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49320596192,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,189309310,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,98023278,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,260763157,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,758464616,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23069,,,0
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2077915,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,790748409,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,250765459,,,4
+H5,2020,2020,2020,0,0,2,Export,699,India,IND,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,675147270,,,4

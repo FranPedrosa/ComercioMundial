@@ -1,0 +1,230 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,31149443532,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28604,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8125293,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15092,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,481807,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10502,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49539,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,185643,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4500727,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57575296,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11366471,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2479612142,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,221033,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,376627,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102212397,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,450498,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67488,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,515039906,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23947,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,540010,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,462846,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,602281070,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,321,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,235297898,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,103095,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87818,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,410,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,341862,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44793,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146341242,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5834157,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,311032,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14804699,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25659317,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4889794,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126612524,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3334,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67146,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11699614,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54933,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20350245,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1966644300,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,183,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6662,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27493921,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4590,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50321,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,690106,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8489,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12518413,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1384857266,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,937065,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2130446,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,822304607,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5646,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,101203338,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39408,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4113099,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14049377,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,393633,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1054265,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44003,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11297512,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2150,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,200056,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1029,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24140,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86423857,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1356534754,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1040,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2994,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37665,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,210219,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1542767,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,754,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,856,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5320542680,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,542436,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1235,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,185776,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,163170685,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11470,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7962,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,270,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,942952,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52981,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1698292,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117687,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2222,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13229,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1970225,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8539082,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,855406106,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2692225,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100698736,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7946213,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33386,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,155245225,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86802836,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4503749419,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10506814,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46549,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,277249807,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15049554,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1094622,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2151315,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109783,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,488660642,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3119962,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,168775,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,281615,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,909779,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10289,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10698780,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17651095,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35067755,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37972578,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1564203,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4522307,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31461,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42215092,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1258,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,130335,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8838009,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12760,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1852938,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75754711,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133109612,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118479,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1355131,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13016615,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,219,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34366890,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66609107,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1976324,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2881545,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,135968,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,281906,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,610706858,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3508,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96047,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15584,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2292,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1705402,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,184448,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48606,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82966,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9060,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8941,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32388966,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,179,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1200,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32295519,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,214805,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,143923,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117249,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3995387,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17038902,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15679,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,876410667,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,112301456,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,919,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9448,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1712605,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,431950660,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,384076509,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8087,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7630,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,130183,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11373,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,347,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3495,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3129542,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,122083,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91930809,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,245957,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,587535248,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30350,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,302480,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,264204579,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19160730,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,432466280,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,141714609,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110198744,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,214330,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37306546,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2936900,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,666437220,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1722,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59794,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,112472,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102549,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,256026569,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,722503868,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27956,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102373,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83449639,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1072,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4808,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40023,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6582034,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35901175,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,718838189,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1044,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12183,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7994,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,604100,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47196029,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,119611353,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67442329,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,448597787,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,654204,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11638,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,839,Special Categories,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127169691,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,793267958,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96645,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4616305,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1290442,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81921,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,376,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3560551,,,0
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,176972880,,,0

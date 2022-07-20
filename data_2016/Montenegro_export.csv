@@ -1,0 +1,81 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,355060373,,,4
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,15919286,,,4
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,236507,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,246741,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1106,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102226,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2314038,,,4
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3220546,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,501006,,,4
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,786,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,29471752,,,4
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5227,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,614659,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4079,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,394611,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14934,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4868,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20947798,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2489795,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,226353,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,6673455,,,4
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,758913,,,4
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63194,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97959,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74035,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4111027,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2340,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14532616,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,753350,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2527936,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38646441,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,287477,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,150085,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19244262,,,4
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2363371,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73026,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15213,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10303,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7038,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7169,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,377200,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8046,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,215199,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,224427,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,721733,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,399086,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40948,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1274,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1108953,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62669,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6292,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,153387,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20626,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12660842,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13234,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,397461,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2472464,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1042105,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,90768421,,,4
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12779,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75989,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,491393,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16710616,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14122,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,283634,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5269,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2810944,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4784465,,,4
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88392,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1891042,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5660856,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,639316,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5007644,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2322906,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3558749,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1275734,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79160,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66764,,,0
+H4,2016,2016,2016,0,0,2,Export,499,Montenegro,MNE,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31470622,,,0

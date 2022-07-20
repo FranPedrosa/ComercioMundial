@@ -1,0 +1,61 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,123055817,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3949,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,998,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,159307,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,53041,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7295205,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,42073,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,222197,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5004,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1128833,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8880,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27470840,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12935,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,53937,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22707,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15147,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,926224,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7418933,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9014,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,146040,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19268,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8728,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33023,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,567260,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,697224,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,123652,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14440314,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,82824,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,69172,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4230,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7575,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15704,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5185,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,448579,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27082,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2839,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1589874,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,843417,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,153309,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,608,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,432500,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,128542,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5510408,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34329,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,189057,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2151208,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,159403,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,161806,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34393,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2521062,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3007,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,257,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21990820,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16062991,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3894074,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1173892,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1288214,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2387707,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,797020,,,0
+H4,2016,2016,2016,0,0,2,Export,108,Burundi,BDI,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0

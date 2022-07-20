@@ -1,0 +1,132 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6689690644,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27700,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4086136,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50092822,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45197045,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1093411,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6634691,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3326867,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,305042,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,105269888,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21011,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,244417,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8239725,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3183382,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,204755,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3815061,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,733459,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23262,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,118696583,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1629327,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6425397,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,338126554,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2619038,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4254360,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2541463,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,120461,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4060239,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,59279027,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,495578245,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,146064,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1134497,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35615,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,223781,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,49731553,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23824839,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,96097128,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,191094711,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,179077,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26359,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,807404622,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,477679,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2961564,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6211644,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6018,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,296270,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18539,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,196728,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23631077,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27620855,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7718936,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,484330,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,79933056,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8806593,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,227746580,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,109115,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24842289,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,315582747,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7658,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,396056,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,60410907,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,49151,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,116492,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,63278043,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,81664526,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10822700,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,711057,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,77527,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39622,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12646249,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10898,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,77764,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1661310,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33447,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,490379,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6414621,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34770993,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,85629,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,46832,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3416186,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,95066,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,84065,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,375865502,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3132858,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,430979,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20021,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,151438,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,308080654,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3161075,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2053077,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,70998,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58354,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1001473,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2356151,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,114350788,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15843537,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11064725,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,76625945,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,838804,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25170,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,403922,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26572711,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7227268,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10904086,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8195772,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15378608,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16724611,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,108374,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,89128833,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,736,Fmr Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,330936,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21323340,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,670691140,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,134582743,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13377,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23142004,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2263,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,582416,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6814858,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35689028,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14580,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,91357,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2061775,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,512847,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2681742,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,358057847,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21209,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,901311565,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15894,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,284548,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1860400,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30423,,,0
+H3,2007,2007,2007,0,0,1,Import,352,Iceland,ISL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19806,,,0

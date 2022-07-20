@@ -1,0 +1,70 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7624294773,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,185109,,,0
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,931599901,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,139019,,,0
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15856,,,0
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19464,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,179038,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,234,,,0
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,37655,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,57525,,,0
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1379746,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,125787,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,176537590,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1154,,,0
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,177025,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,42,,,0
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,224224,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12968,,,0
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,991170,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3843177,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7468,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1548285,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4111,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1513402893,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,44943,,,0
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2602,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,490,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,236843,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2333916527,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,20948,,,0
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,284644,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1148238033,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5150,,,0
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,116396,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8165,,,0
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,40094961,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,152500,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,132749,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1604,,,0
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,429780,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,292520,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2365934,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,226036168,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2208891,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,290465,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,135424,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7603,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,671218,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,714,,,0
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,51527,,,0
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,186,,,0
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3565215,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,127127,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,375682093,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,190694396,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,74543,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17019,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,985,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12600,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17941,,,0
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,143813143,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,849385,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7783,,,0
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9276,,,0
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,150371,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10041686,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1096,,,0
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,512918489,,,4
+H2,2006,2006,2006,0,0,2,Export,96,Brunei Darussalam,BRN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,75163,,,4

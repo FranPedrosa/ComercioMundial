@@ -1,0 +1,116 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,721660450,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,68,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25577,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,68602,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2064,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,44543,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4123866,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,77113,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3139634,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,130496,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50508517,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2707,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,853952,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13755,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36275,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,57695,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,195989,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2174,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24785,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2331635,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,56422,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,63133068,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3014,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10325,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32621,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3825008,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13483,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,41658,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,80860,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,86340,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8811911,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34625,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,92786,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,338,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,551156,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,150500,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16750613,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,340228,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4743,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21515364,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18650,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,877034,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,258,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1295594,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1007521,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,277412,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30414,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,85546,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12098169,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16689154,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,118004,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,53683,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58305338,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,128230,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1205543,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,295501,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,549978,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1276,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2307,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,74573,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4024,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,64062,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,788534,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,89869,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1431,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1389595,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,137563,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,595,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,280044,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30618,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3055430,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24156438,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5360,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,207,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6319,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12887,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,182753,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,421229,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39037,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,41194,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,86399,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,277173,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1154,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,51335,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2812660,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10392424,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2364,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,87322250,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,75374,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10726,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,77165388,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1835009,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,285014,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1799231,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20283647,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,209097,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,849840,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,584385,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6143327,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2283079,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,875,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29842735,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,202159,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4905330,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27871,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,43561042,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9983639,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17038315,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5518612,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58840641,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25578738,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13713,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,42,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12676431,,,0
+H3,2013,2013,2013,0,0,1,Import,108,Burundi,BDI,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4544,,,0

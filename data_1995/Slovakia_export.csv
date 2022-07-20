@@ -1,0 +1,164 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8374272512,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1209628,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,878956,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20160056,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83235,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,410522,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16701,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,490426,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11630205,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4441664,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,414523456,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10448,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,422184,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15549,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,299335,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82552424,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140664,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5200027,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8855780,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68819,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52819,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17299836,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37755,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61415,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33458856,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,473215,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147939,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20002426,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30089,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25153,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3433810,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4225546,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16953844,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72202,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89352,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3864634,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,560363,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3214402,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70695744,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2041599,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10056315,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2944395520,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33393,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27025712,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142437,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,457084,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12642162,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,319310,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,640250,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3685850,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3913,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37993028,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170181776,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85300,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,322990,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1582964352,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,977929,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83362,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26066406,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11089,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17214,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3605304,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,798389,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7346,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,278865,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1919976,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,383386176,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,911946,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10682655,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6819037,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,225635,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4770590,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14782389,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,402823552,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,788158,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,654587,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14211854,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11047952,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3624746,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3225727,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49863,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7004454,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,530445,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,359574,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14740506,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4858557,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199352,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,545593,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22518964,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12898,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20023780,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251298,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,577195,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9962,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122168,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2943237,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3863323,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,335497,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1961365,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2784669,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1869430,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23564,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146616512,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53498,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6575,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174738,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9723999,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4031,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60039,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13201270,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6474231,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2186112,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19981,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149170,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2236214,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3515117,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,359771392,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9429227,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47778,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13427,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42434136,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,326084192,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,241379,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4665,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3894,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29956,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20320388,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93800,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,301466,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66915176,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10067556,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8289995,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93244376,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8339803,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61599368,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1287721,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,860,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58077188,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67272768,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17187268,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,850236,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19023254,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1209917,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11152256,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2936692,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40828520,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2862845,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,451692,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,189701280,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18292032,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21094662,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110870344,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,448304,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101915920,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2539,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103886,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,734912,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7292796,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,489192,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,225399,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3958990,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1973,,,0
+H0,1995,1995,1995,0,0,2,Export,703,Slovakia,SVK,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7938578,,,0

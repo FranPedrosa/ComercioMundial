@@ -1,0 +1,102 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,167667600,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,926725,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173699,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50442,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45567,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4442,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4686,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80357,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5276202,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171365,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3669,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1059506,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,772,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,647,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1454,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4580604,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8302,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1485,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,589,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63583,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1190700,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,568066,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13619,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76433,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19395,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54476,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,981138,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,362237,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,248213,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11775,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21600,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1267,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,501230,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,891604,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1085394,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3929,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107643,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4075,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1746287,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7258,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2539627,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,323452,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54689,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6961,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105549,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,640686,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13673,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,718131,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1385654,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8509306,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46985,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1541442,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,685,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11585,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148599,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6766,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,730908,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,936777,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1292,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16238,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,724,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1628306,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1075220,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1211,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1102011,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1668,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2762,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,948801,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2980,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,207315,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19941,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19829,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48781,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47090,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160182,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12204,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,909033,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1285043,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24222,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2896,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110450,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69133,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1213,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92600,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33214,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,204261,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129089,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138462,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,241734,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4491,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,288248,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34602112,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55997,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146047,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,865,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15466628,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67539736,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24900,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2353679,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5767,,,0
+H0,1997,1997,1997,0,0,1,Import,308,Grenada,GRD,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,569319,,,0

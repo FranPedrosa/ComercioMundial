@@ -1,0 +1,228 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,221307621302,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7884566,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58014954,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,418265,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,360410526,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34826,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3183066,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21095215,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,169823728,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72100607,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,163058961,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,714422579,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4225043116,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,305337613,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49145809,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46691075,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44009795,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19987310,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4798352299,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,511103,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2822,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9721545,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,274038737,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1308125,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,409139950,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2158260,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,243,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,151068,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5427320,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1783843,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1084814774,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8897997,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,151201,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1482001258,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29341425,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14930934,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1295242792,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1627691,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9491043,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,528097,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47998091,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5369548,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118212752,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2304984564,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70532002,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2449705,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24011704,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19470328,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1791439,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14387369,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,769488500,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42517344,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,154019354,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14051808077,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27463533,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3942271296,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1212040,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14163781,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21110625,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3152657,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4195764,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21547175,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,289511,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1234454641,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39938268,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,121,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,256943,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1735675064,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12342727538,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1196685,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1118979,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5925790,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12642278,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140522286,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7678389,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12389581,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60209648682,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50398337,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62783330,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,878323417,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45431305,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32028,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115291,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13041205,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28879165,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2348643,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16736219,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83206,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5295560,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,446902004,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5800800675,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,172605645,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115705854,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,135995000,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,94206229,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,876226019,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,607546752,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10856023169,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31579618,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3379150,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,558448019,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,477930104,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76494305,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56549815,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,245413,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,544399644,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83468507,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22660541,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4208789,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81595270,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,528,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1399807777,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34188807,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28963962,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3041087975,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,349471184,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22615198,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3302211,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1709644,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,139350065,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7553701,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19632121,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46572131,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16529538,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9175093,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,675529337,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,173927581,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48996753,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,195247470,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52107323,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,283,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,255581544,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44085811,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126925927,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3287857,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5105819,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9585825502,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1592822,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1145503,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,887407,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,425146,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4428036,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,176722,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,148418038,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1655588,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5567365,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114838440,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17958471,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3493918,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2648833700,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,977,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70233,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,881,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6374104,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,238,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115241757,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45773364,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,755640,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13482978,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64619833,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60514185,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,954513621,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2907329,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46212,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78899423,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4084856580,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6946616544,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1365173,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16262,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46917,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3600925,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,238183,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4459,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2509127,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28513363,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144985,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,654125165,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84499065,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,972825482,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2669149,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5337358,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,736254446,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,241845846,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5471197727,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,276642604,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,863517082,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3111845,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,639744778,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5422192,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6074736876,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41662,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23793418,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2352,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6201787,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,709,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6038312120,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2175145390,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18363850,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10794257,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,265514878,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19583678,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,233,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5039587,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,549823851,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,138440560,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3271586562,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38009992,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,262,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50552,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15763746,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4784483781,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,139351453,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,276377712,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14071242382,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81286119,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84674332,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,839,Special Categories,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14061274,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6140474511,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5226775,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20376449,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78518963,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23695989,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12730,,,0
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12572011,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4429671,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67977299,,,4

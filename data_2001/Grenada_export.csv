@@ -1,0 +1,40 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58638839,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1133572,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,772365,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1743299,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1040639,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192929,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6841,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,653651,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20200,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,272127,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19094,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1851517,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195680,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,848841,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4046276,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1510,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188176,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7000000,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,246471,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,692444,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115352,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,954,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29100,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7089239,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7559,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1436970,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2576233,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,438050,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1404,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62476,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49210,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10213,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6744,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2607655,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,645718,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22573697,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34842,,,0
+H1,2001,2001,2001,0,0,2,Export,308,Grenada,GRD,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27679,,,0

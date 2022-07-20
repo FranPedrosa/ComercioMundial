@@ -1,0 +1,151 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4664338469,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39432,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21042,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,758726,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3538195,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6479851,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16680024,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1432973,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5990,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34838678,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3168,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,134868,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50325483,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3467,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,573775,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,122,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1462903,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,418295,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1086628,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,64,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,173529,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16707601,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,119,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,473,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2892353,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,483510,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,414658240,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5134607,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7278359,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4167,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,214098,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,599901,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1179154,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1177540,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37878,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18927566,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,119070,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,94124,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,974783,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,178075,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21473,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5158747,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,64505217,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20018,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,115433,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,262289,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,547,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,128577727,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6048812,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,877506,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50004,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,66421,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2100,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18677,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35554820,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4116866,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,500,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,113541089,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5079466,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37166,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20327369,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7786534,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,69132491,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,840214,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,66007,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,305532629,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1020829,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,511530650,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,816638,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,80659685,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,62523084,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14727,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5716227,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21205,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,285766,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,89971,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14302,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11698316,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,255786,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,105772,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,964402,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,100507440,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,109127,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,215520,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,340405,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9669059,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,963660,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8120227,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12376,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32418,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,615688,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11815907,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,292053,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,120,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,133197554,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,293511,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,69018,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,69784,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,406464,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4521,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2654864,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26499944,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,492071,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2131360,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,84361,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,596316,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28843946,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,348378,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,282,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6387683,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1767582,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,49398817,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7389021,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,102,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,239295491,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21704,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1428940,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,332,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29527,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,684410159,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,89946583,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,611232,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12774506,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3835897,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,250383588,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,508301,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9674810,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,736,Fmr Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3827556,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,372,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20714398,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45508059,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19077320,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,357666,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,49003323,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37185,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,288,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,391039504,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,78626,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23097657,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48345438,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,44951849,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,134469124,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,56528109,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,105530057,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,40608,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2683572,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,87881,,,0
+H3,2010,2010,2010,0,0,1,Import,800,Uganda,UGA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,612911,,,0

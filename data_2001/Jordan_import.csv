@@ -1,0 +1,121 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4871335641,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,299295,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,390276,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102920669,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74675424,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19053586,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7880398,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1255924,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42656,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43046959,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2903,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15000,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37528413,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6347,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5966355,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26598,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13928,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47475,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17095796,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15089529,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1138452,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,237837817,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,450036,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69960,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1956925,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122374,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5944020,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11421721,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24083564,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1078487,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131896,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2008228,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18894845,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,185935803,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28209,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13251935,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,447243160,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35656240,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1681964,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31975,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30847007,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7838152,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59649559,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11805317,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,684909462,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24485918,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111426638,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160773763,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67693,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2047,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175046167,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2595566,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1085016,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140485784,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18339078,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44380260,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,330663,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,803450,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195409,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,829160,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2708,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1868151,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48098505,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,327981,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1826472,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84846786,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,554439,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11227845,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10329343,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,605753,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67410728,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12564265,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17045,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8546,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,162306427,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3706909,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22150863,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,338551,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1037471,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1149443,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3590665,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7615022,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15673298,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31377360,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59982439,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156489593,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64765,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73422303,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5819508,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3017699,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1363522,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1791336,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,957964,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17484395,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7352992,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84149738,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16380802,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79816775,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56554839,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66466114,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1714,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31763154,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58748338,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1316434,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121890335,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,767400,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90558,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81832891,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,433899,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51616492,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175363896,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,445591,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8911902,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,395946372,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165905,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,118672,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,235108,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1868539,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,650913,,,0
+H1,2001,2001,2001,0,0,1,Import,400,Jordan,JOR,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29196915,,,0

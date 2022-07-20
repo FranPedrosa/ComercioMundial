@@ -1,0 +1,131 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7877528576,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5754,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115211496,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132815920,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17189448,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20962048,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,881541,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,268169,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165926304,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,532038,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13835,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29866,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,206009856,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7935864,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19680,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5750635,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6629934,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168720896,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,592617,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,841003,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2283271,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4386208,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,185016048,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2951656,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5978034,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1011946,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8858211,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5300766,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93697,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1443525,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5597284,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22165680,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37410000,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6531099,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70396,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3017386,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,357376,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,225220,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33765312,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1633812864,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22737304,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17123,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,392906304,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2553021,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41347,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16300033,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35856468,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15322314,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22306,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140372,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,568618,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22313508,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12841232,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1288564,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25045118,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22614812,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95186400,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20865356,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,481201248,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28048646,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,208146832,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2935060,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3143673,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53454,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70544528,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6323920,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5788514,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,833157,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32535352,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,493478,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,977080,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2617301,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20083100,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5111742,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,497717,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,657851,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12073211,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51362864,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12016272,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1997922,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,172152464,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28272496,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5711883,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,206632352,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11183080,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4279416,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3574032,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,375664,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5316317,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1776818,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77341744,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71895856,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14776,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38733948,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,186162592,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,541631936,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2101215,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11923,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1782011,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37620560,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18698810,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2727190,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2724927,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1212861,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87410880,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3683207,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,711340416,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22381,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54123,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120500800,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84781896,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26995804,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13702372,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1748071,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8713411,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38167320,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56945928,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,162024,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87032504,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16092410,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,222506176,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,553181,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,187619,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,513401792,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3118940,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5918262,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3842717,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3117633,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64395,,,0
+H0,1997,1997,1997,0,0,1,Import,504,Morocco,MAR,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,853588,,,0

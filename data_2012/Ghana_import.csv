@@ -1,0 +1,169 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13578112617,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,278,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6617085,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12594,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1198117,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38512,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,926902,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25957639,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,211739679,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5244426,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,82158,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,826791,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1515456,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,927428110,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23513,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18297,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,189256,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,218873655,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1481,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11327357,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17076,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,489,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1783042,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8324335,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,229472653,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2270246,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2527,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5239932,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2572,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29430260,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2407441615,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2195103,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4244,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2704553,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,47953,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,398031,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1815842,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13530,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,569754,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6523118,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3121732,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,73986864,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,86837,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,331599,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7986087,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,955856,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10268961,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5172,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34306479,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,240593174,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,72112,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4348009,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,257078,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,178785,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,485381084,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,888,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25356117,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,41113,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4384280,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18096,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,46344,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,165249,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,109857708,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27954551,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1703825,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,130775610,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1170697,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,70855,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,68300467,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27135506,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,289757412,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,160286128,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7828351,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,271949585,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,288069,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8908784,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5852764,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,460886,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,321406991,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6618799,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,47820876,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,954,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10725115,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9526186,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,432412,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21031107,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3381896,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,370,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,228280,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4257359,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,124468860,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1508,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4060662,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,311927,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,73532073,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3256605,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11061093,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,137881523,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,896,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,99034397,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,682897,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19083001,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15424436,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5790,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,416043557,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,328902,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2413,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36652875,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2673132,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8574964,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,424518062,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,42860340,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6365432,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1479313,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,774949,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,183535,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1350697,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14999959,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30461523,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16132511,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,158804,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5266641,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8460023,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,49557013,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,103215,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1846870,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,811,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,73596522,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,42694851,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1011,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,549461,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10523228,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,595994858,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,65006391,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,205565,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,138964585,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4988404,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,44046,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,488334948,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45356,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,265133964,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38628,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14428054,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10541,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,201300324,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,46319199,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1081788,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,248695686,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,143922846,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6926,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,82027,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,362113009,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13239975,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,209396803,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2033,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2469884,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,146354673,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,82143434,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,729373768,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1095380,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1566864662,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17407904,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1308783,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,279,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5590231,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,427275,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33934,,,0
+H3,2012,2012,2012,0,0,1,Import,288,Ghana,GHA,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,818534,,,0

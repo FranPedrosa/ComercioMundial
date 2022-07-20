@@ -1,0 +1,93 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3292444928,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5520,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85652,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35417,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21462656,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,570893,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3685804,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262851,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8084,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,446160,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,964660,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32431888,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38514,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85839,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6524,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50805880,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1009420,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,389333,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2364,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50291512,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,634780,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,705162,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11011708,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3585116,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32086770,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69256704,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1011338,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1561284,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8359512,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,645952,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29852348,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161167696,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12000,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1892354,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21245310,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,254,French Guiana,GUF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6905,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,225464,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116051680,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,221638,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11074,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53218224,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22900476,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85482,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2021108,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13356,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9423084,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5199235,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36835596,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102673,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121128080,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25611,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,882482,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34807308,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1890739,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,308167616,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49944524,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30208762,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,989949,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101951328,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103523,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8941372,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7674385,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4631109,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,560544,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86391344,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,725660,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9217161,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,210857,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1084978,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,516101,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4121723,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24709552,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125656,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2984300,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2693565,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,509937,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2626713,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32202034,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13315,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11134826,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15213434,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,939589,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1243723,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14358,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,792232,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11961,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39483708,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1478397696,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,524034,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151730336,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,221921,,,0
+H0,1995,1995,1995,0,0,1,Import,320,Guatemala,GTM,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,763891,,,0

@@ -1,0 +1,133 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1334620075,,,0
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,556,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,265,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1214,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24136,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136296,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,296787,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,199623,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2198,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5181,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,778695,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,261120,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,210825,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1467785,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,351550,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3764,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1770,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2436,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,348,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9687045,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1128,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,658,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5386,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,262478,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8937621,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2399,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3115685,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,469389,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4768,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,561173,,,0
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1086,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50304,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,610729,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,353852,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8203885,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25389,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6042,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,826,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,113,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74626,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1950611,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,277,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7492154,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1495,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126755,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4208,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35306,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42439,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6397,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2413553,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2517471,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48823,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1128,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,846419,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106061,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,80667,,,0
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3420054,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47942936,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14344183,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,134,,,0
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8035,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,901,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,294160,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2927993,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1548,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2501,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7175,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2746,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1293,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,296,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,522543,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,426,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,142,,,0
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1331,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16929906,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,204360,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,179,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1085,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1400877,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,279831,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12727,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,25869,,,0
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,442,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,213039,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9165,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4242,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32016,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95875,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48108,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4980143,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,263780,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57075,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78771,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11072,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2756,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,579,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,744,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,32926,,,0
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3903,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96819,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,478,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13299,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1670,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3722466,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,927265,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9359,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63276,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,844553,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,180,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3441904,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,760936,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5394374,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2653919,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5328032,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,180689,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3043150,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129374,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1924,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,69833,,,0
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63369135,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,839,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1098590010,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,14681,,,0
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149,,,4
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,306,,,0
+H5,2020,2020,2020,0,0,1,Import,136,Cayman Isds,CYM,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,153,,,0

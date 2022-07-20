@@ -1,0 +1,96 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250598290,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,242374,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192659,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9218878,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24554,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2357399,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1248926,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,504008,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,619280,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35341,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,179036,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36102,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127662,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52384,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109419,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1305799,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8408,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2547100,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88767,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,403686,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151091,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69260,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33135456,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,702391,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25114,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1083,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2337053,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2569,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,439594,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20437,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1168821,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53790985,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4248730,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8877,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11547,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,508975,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7130,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,605421,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16513,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2898282,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8281,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,189942,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4458192,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1532945,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10630,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42297,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23922,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,523220,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1367,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62786,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5683,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18244,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5030920,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25254,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3311161,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51973,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,702381,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15787648,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12912,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2656397,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42868,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4942507,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8486353,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11583135,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5034681,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,836288,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,164255,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119150,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5863518,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,718211,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,534407,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4619,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30891,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,665486,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108063,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5003231,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,650337,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,767254,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5897441,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1531084,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13521,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24838,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102561,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1004100,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4278138,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188503,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1048226,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10739,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,235939,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,617404,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,939633,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32559924,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,878751,,,0
+H1,2002,2002,2002,0,0,2,Export,768,Togo,TGO,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1804967,,,0

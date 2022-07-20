@@ -1,0 +1,101 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4084641916,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,872587,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10881045,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5773281,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,534023,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,306081,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,963231,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2024779,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,95605962,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,242475,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3330126,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8952666,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6310628,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22611266,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,72788,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3014705,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18540834,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17426188,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,94940546,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,210,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13462594,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2035570,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4324482,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45644,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45810797,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11156711,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,271410470,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25338,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13362815,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,53511156,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,55229,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,308923495,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3855392,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,219763106,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7707418,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2542356,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,412290,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10499694,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,77616,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3399838,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5053016,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,60527723,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9094650,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12566431,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,62569,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5814,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6301680,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22833968,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,237270,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14274,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,376040,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11882,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,105971860,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24739288,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,199309,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,229330455,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,228419,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1394788,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,476996,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,194996480,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29401,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,916832,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,193423,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35566489,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,207527,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14951197,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,195596,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3006784,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3985635,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,124819,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14103850,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2249958,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29539,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25443,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,402600,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5565878,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,674527,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1641144,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4400690,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,841418,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,848616,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36509770,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,690,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,289098,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28846958,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3744763,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,118929,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,736242,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5827482,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1855428,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,61471,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2041365,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,660425,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,60996,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,76105457,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32686,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1789374660,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1711492,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11928193,,,0
+H4,2016,2016,2016,0,0,2,Export,340,Honduras,HND,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,95566101,,,0

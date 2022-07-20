@@ -1,0 +1,69 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,482986400,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112325,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,275852,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,221727,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6421058,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3374557,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47670,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14244264,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,324345,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2109607,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58372,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,833001,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19967,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,941307,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53066,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4911798,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,230,Fmr Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14977,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,657852,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15498858,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,184672,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71453240,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5130,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,379481,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156854,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192428,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3536,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131741,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,264288,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,208628,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,649909,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16235,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56705200,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,258038,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67128,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4814,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,451195,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3901560,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6215612,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1527988,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43260380,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1194806,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,172728,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1198765,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4012783,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110733,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,198550,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1362841,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2385884,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,453779,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65106,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1025,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97118,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2088,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1294455,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43404036,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3419807,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15014126,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7337,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3222774,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30969864,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65122,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3778686,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54150632,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2144279,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3616372,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71092592,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3228367,,,0
+H0,1991,1991,1991,0,0,2,Export,454,Malawi,MWI,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,163078,,,0

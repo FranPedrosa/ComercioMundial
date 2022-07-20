@@ -1,0 +1,145 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22740257836,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2706834,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,239542,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7321392,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8182,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,323353781,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,198830683,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,81502941,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,79374301,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20675883,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,43414,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,271557375,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2680,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1251281,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,270600288,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18177,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21219207,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,625197,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1005904,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1138750,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,558794,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,60350869,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35309410,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6814131,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2392062207,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8624655,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,779599,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1881099,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2026838,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,100387,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17531591,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34503479,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,180893545,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2619372,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3738981,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3044616,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34428334,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2816727,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,49651351,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,464570389,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,132455,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1445,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9389615,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,56183541,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,897313736,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1587064,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45163280,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5252452,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,144904,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28785,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15759,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10134043,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34445206,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,386476,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,124424908,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17151132,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6254190,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,109915347,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,57188357,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,697393106,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1242535,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10000,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,555008528,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,68737,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1391428,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,763368104,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,144267451,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,204917,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,117556181,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2486370,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,915,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,884507,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2816098,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2079838,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,112311,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1698288,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,225552987,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,59214,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2595182,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8656,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33576,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,54313561,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,374348477,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,423,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1341143,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21428447,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,84645,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27649096,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,953480,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28139,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,272669712,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8629127,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,82529527,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2293,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5373,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2290239,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8013300,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50382763,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9114,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,152499,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,126938,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2016361,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6459652,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,74502890,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33227563,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50391705,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,374635238,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,663541980,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4453730903,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,236045,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6928442,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5007,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1243761026,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,92368104,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8224836,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,125354400,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9190668,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,106118,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32457973,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21395697,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,337475641,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,47463883,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,94271680,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,534819604,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,152204474,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,43823,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,234507663,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,493,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1092608949,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11174232,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,849224318,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2218500,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,378763930,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,258451,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,548312635,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,356657543,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1074945,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,838,Free Zones,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,108316775,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1319844383,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,74648,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24306232,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,888682,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17292161,,,0
+H4,2014,2014,2014,0,0,1,Import,400,Jordan,JOR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,47227472,,,0

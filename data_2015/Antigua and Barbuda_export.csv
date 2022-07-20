@@ -1,0 +1,48 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26045541,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24730,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11111,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,394158,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,310414,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,367297,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,62280,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,767,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21517,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,260313,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,778,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,503,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,70092,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,413641,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,52640,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1125448,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,78336,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17827,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28926,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58822,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,56568,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34675,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,62420,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48148,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7407,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48148,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,496580,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,224448,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,69402,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,101,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11904,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11111,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,332319,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20125,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,681895,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,79211,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,566659,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,994530,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1688964,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4497,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58038,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,122222,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,412791,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,40741,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6796994,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7828545,,,0
+H3,2015,2015,2015,0,0,2,Export,28,Antigua and Barbuda,ATG,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2047499,,,0

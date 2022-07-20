@@ -1,0 +1,168 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7525360716,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,439036,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1046,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,61420690,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3397,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,297,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,357408,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16345162,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1593717,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16342026,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28308872,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,132248,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,928553,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,180,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4168,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,120968524,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6563,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,99,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,898769,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,114,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18277591,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,200968,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12841494,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,595,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17042532,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,72461,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,53261061,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,560411,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,62055031,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,137567079,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,84781230,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,522963,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2383613,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,180967013,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,52123,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34458,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,112898,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,86427,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,99778279,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,135707,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8976222,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12667929,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27977648,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,427,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,66188,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1296903,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,316,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4866,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,265,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1217734,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1023314,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3816973,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,375196442,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,67412,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33922,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58589,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,424776400,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,126527,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2161685,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,178843866,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,278,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,187,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3564,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23006725,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8918649,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4109607,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28650289,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,94863,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,432,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25574743,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,290611765,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1861122243,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8966345,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1488,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,64927180,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,85,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,501007,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,242258,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,382,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,102928210,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38434,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1314,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,176,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2409851,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1833453,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,149888327,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,794215,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,851438,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18120,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2420,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23393514,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8590,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,390,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8081,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1378525,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1634347,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,60420722,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,93,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2898037,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1046525,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,74,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7125197,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,279604,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2236519,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,175,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18895,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,268078317,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16184,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29853,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7369198,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38399,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,179220,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,148483,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,130814697,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2522246,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2453760,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,165083,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10495,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,73525,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34234685,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31343922,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14190574,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,152786,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29220222,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,380498146,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8057,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1191898,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,122,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,64773,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12854874,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,743791,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,883975,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,681275,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,115243316,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,107145427,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9830436,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2928975,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6083198,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17654618,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,222680069,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,886,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,212399391,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,66461202,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,135506,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20194874,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,499,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,69545,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21269409,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9488211,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,348734194,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,70,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,264888,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28223001,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,150397,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17167455,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,407707050,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,128915,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26047945,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,839,Special Categories,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29650,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,249112133,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,56852,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7740,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3067,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,101,,,0
+H4,2013,2013,2013,0,0,1,Import,470,Malta,MLT,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,85427309,,,0

@@ -1,0 +1,221 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1187301533128,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16461074,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110248300,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,648013,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2718915998,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1962220,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,623773363,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,820269,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3255950131,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2235989796,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2951684798,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,47878973684,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53369601,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75139885,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4739681824,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96648420,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2449409,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49629349993,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,329407,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6743431,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136058482,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,695832771,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6435727,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5444,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11723894127,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1451985,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18018490,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,216072577,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2457957,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3621525133,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73260500,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10199321,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,641137599,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1145210060,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,153352635,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5483815113,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,673481,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,277227039,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1808687,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,600740027,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3533501,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2103741609,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100312728392,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56960,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2011953009,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4872985,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,175,Mayotte,MYT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6303,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39282602,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,135352044,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,625488634,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1221649036,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73044585,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,156251204,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,43831826561,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10523274,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,14887656641,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102723,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,229255518,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,651524571,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84563125,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107994998,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,204600272,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54737,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,662927378,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31975227,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,711927,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2163158,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8038187473,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,84192282928,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3990365,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15764,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85741212,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,169998989,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,740752,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,697934,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,441714147,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1090723,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20412,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2371952284,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37033718,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7254389,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,297359,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117179891,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111616468,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13284632,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6133450,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,712396,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,308698541,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2054546734,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25855564576,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,764406859,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4833415668,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,378479006,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,591080686,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11660523025,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2185097985,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61960340550,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1274537428,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101260766,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27492037452,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5933934643,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39403883,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,152961584,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12331459,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10753920463,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,492334525,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15957172,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,98151860,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65985179,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2296815,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,843923122,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60757263,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6216478186,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2320983512,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3937878041,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39149549,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,151380597,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72759285,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7485323669,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14641680,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3623769,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,641093211,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146451671,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48754481,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5243191991,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8654666238,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16372931,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,164985564,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47656926,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1032002525,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,205650648,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65501157,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,145472064,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6254,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37758299,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106236197328,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,763183,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,181489,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,261964,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,396063,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,569233,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,143347,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,796484900,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32682968,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,408364,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5492982185,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2041,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137510,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11886708129,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61361,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61167,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,150404,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1416334157,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71401204,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,326059548,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,312895893,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1298739979,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3177905114,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9303,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47804573365,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6781727952,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,154,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5177886,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,306655313,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12178934975,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39698776433,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8666881,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1893253,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4266996,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85576,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,303741,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9989514,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,862291,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2240874638,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18527070,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1645123947,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2843454,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11577505,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9392277172,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6459573964,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16270576026,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7541006236,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6092906036,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,673357,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5620477511,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66125385,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31389321136,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14406,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20048657,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5415314,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10569059,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,18474036197,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,52077146364,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21875413,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5020860,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5794034319,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23898717,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,155762827,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1096879474,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1986482768,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16350054720,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12761209,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23531,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5419,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118197454,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2093082312,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1578512824,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1978528043,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,51782587790,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,167003182,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,839,Special Categories,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44527148114,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66571065473,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14222819,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,504221246,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30790590,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,424829311,,,4
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,191233,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5367610,,,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40588492,,,4

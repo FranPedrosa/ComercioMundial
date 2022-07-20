@@ -1,0 +1,140 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16978677827,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,93889,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,300401,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,615136,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,79984188,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5176255,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7995492,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1382469,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,676395,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6448142,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,183820749,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,311703,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,215107178,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6015086,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23392,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6383911,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1710,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10638,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,127294,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,90694626,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5001246,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,100853802,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1846661364,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,375015077,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,44,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1295,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,595498001,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,62796,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,981569,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,139487,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1356213,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13552318,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9688,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21635937,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,51193725,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,902040120,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,110694,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4965164,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,60,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8722806,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,74771061,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8499,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,420357,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,666689,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,279715170,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,521750,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3228135,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3623,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3037171,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,51,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,53921,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11178,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,694837,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,331507375,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,202323390,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1038151,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,41554160,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,237446,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16634419,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29612423,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,132391532,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2162958,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,306631927,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,516770,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15578,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,108346,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,321074153,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2161,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,76134,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,996,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25346584,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11632950,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9739691,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26539,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1000,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36233474,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,145197,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1940613715,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,119706394,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,75,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,349520,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,47574,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1124245,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2248,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3023,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,94080603,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,817000,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4218,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20502526,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,121339835,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,438862,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14444797,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3801508,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,565204157,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3091316,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,85088516,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1592203,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,123113,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5109559,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11034926,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1712599,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1462515,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31356389,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,475,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,105697,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39389184,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,873820,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58821,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,266837966,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21672469,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,553261,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,43869275,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11636,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4159023,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,264468870,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,297355,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,147234,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,252,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26654808,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22022807,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37295,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,120,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,146975776,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16544089,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6673476,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,88183,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37006428,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,952643,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4302893,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38981790,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10296,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6537799701,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1075,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,92033604,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17975074,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,103,,,0
+H4,2016,2016,2016,0,0,1,Import,320,Guatemala,GTM,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4952,,,0

@@ -1,0 +1,31 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4600450,,,4
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,68420,,,0
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3819,,,0
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,130,,,0
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,32989,,,0
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,58,,,0
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36451,,,0
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1409,,,0
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2136834,,,0
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,99260,,,0
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,42871,,,0
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,42973,,,0
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,46784,,,0
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1772,,,0
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,688,,,0
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3935,,,0
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,153788,,,0
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,421090,,,0
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,227,,,0
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11093,,,0
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,529,,,0
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,326457,,,4
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5356,,,0
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3642,,,0
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,43519,,,0
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,67085,,,0
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10,,,0
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,26,,,0
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,977340,,,4
+H1,2005,2005,2005,0,0,2,Export,270,Gambia,GMB,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,71878,,,0

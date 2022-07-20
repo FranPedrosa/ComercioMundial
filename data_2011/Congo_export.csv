@@ -1,0 +1,101 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13823647482,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88636,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43203,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1197014091,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32222,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,225424,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,587387950,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13884,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6438089,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,523237,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114609068,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18228,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9435,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79309053,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,396028069,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,450312,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4706091,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3850537592,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,374682,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2105128,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14888605,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1061,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19929,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151268,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52777287,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75924933,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11025941,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15348,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108443136,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1018305186,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,416247065,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13609430,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2797382,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5580145,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25124390,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47966,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51688,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82899083,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127286588,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9879,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40359,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,178413,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41238,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,284550783,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161594258,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,182899,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7292,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2653575,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1831420,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23629,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3806,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4723,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6787808,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4688,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95156638,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20417,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3305304,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29616386,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,804319377,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10085269,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2375476,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,886198,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48534271,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,692737023,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21264,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133213351,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13268845,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142764,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,489,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6400,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21288564,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,215606756,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11150,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61554,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,583820,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28716,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,474956,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4848,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,167420853,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76791192,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,529595,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3714307,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,348151869,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11969007,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6685626,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4174,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1764528,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1329359,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2121138,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195743,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,577942,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2200862,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14965,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,841996,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,413897015,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4967261,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,172447529,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1883155472,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63447,,,0
+H2,2011,2011,2011,0,0,2,Export,178,Congo,COG,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28165,,,0

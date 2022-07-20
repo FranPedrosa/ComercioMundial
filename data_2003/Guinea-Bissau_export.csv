@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2003,2003,2003,0,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61366793,,,0
+H1,2003,2003,2003,0,0,2,Export,624,Guinea-Bissau,GNB,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29102,,,0
+H1,2003,2003,2003,0,0,2,Export,624,Guinea-Bissau,GNB,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,988631,,,0
+H1,2003,2003,2003,0,0,2,Export,624,Guinea-Bissau,GNB,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,364679,,,0
+H1,2003,2003,2003,0,0,2,Export,624,Guinea-Bissau,GNB,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1326105,,,0
+H1,2003,2003,2003,0,0,2,Export,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1636878,,,0
+H1,2003,2003,2003,0,0,2,Export,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1138030,,,0
+H1,2003,2003,2003,0,0,2,Export,624,Guinea-Bissau,GNB,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24764478,,,0
+H1,2003,2003,2003,0,0,2,Export,624,Guinea-Bissau,GNB,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30917869,,,0
+H1,2003,2003,2003,0,0,2,Export,624,Guinea-Bissau,GNB,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201021,,,0

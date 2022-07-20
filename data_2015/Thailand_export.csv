@@ -1,0 +1,230 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,214309375775,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29257579,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6779250,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128172437,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6044163,,,0
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,189987,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,182333524,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4334870,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13495540,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,673937892,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9768022860,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,232106057,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5413846,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,217803375,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,858611390,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1479051,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13455613,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1547456847,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2949141,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11521240,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58404132,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5002581,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1162123,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1532421212,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3716822,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2178,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11980326,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1872936,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105771715,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36974501,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4171791497,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,560624,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3758722,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4958478633,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,176474550,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1365026214,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13240036,,,0
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1967652,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,580256,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,434040969,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2328750,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,612244766,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23732457481,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54137,,,0
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8419,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,226285235,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1524465,,,0
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75988481,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8896197,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1988522,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146822714,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22762916,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5734314,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22399094,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,751243005,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,312414753,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,444420278,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10668779,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102613602,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,204926150,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54191597,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7538372,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50405600,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6897931,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51681272,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18725,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46284,,,0
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54803153,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,222797681,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1648792067,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20530923,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27053,,,0
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33175304,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61183021,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23252420,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28544099,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,665094,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4287428513,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,188765581,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77331,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1747424,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,122226814,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,890,,,0
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2984463,,,0
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9608326,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,145022791,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22159718,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6571106,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14654875,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,277200,,,0
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85844507,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11830365361,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,455545465,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5945605,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7827165346,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,217444521,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,184133184,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,497684838,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,706379949,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1329989296,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,244565634,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47565781,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20054877985,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36278269,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,216575469,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,156759897,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74959788,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4103918131,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,399884011,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1472741,,,0
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4236710484,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,229407439,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,230554,,,0
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37072799,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7431658,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106094269,,,0
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25447190,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7285704,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24602488,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34684222,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1954451,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10189111680,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81589781,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4880172,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19382727,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14949331,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80287510,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2687302151,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3532676757,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12569604,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,446205,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2095412,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55524,,,0
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97036758,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,180172543,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,618394434,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2972900,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140755,,,0
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54561890,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4270977646,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9708363,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4430862,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,228636,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21624,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55843030,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10790561,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1318277414,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99471640,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34365558,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,569523069,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29519,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,189539078,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,848121,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,982,,,0
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2725427,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1484346,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,815021,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,913304777,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,252662106,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,139917844,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34947477,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,464977471,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5991650747,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,388817719,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,143363712,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3837339,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27389001,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,354723800,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126991119,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,713441265,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5750623,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53074,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21073,,,0
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2151694,,,0
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33099,,,0
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5511064,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6588,,,0
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,684318,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12661,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,541524,,,0
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2944862214,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136068847,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14394582,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7272045,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23345707,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5294166409,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8756042628,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140231658,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8906274883,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58667826,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17660108,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2010154628,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5755225,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,830052343,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2963044,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,284218176,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11163,,,0
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17223230,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3702235,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,474563399,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2556804609,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45274369,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,962726,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,134668849,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,207774,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2182564,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,132046387,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3068344723,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109576294,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,978873369,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6693982,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,238333,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,174713,,,0
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17604631,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48522491,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4441309,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1012736531,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3817440960,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105999005,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24092851710,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11801277,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42246856,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9067059,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38176635,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,791284,,,0
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16448361,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,174301162,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14332065,,,4
+H4,2015,2015,2015,0,0,2,Export,764,Thailand,THA,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,693711091,,,4

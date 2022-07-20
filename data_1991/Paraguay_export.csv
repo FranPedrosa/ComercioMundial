@@ -1,0 +1,74 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,737040576,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34289,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45028536,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19750,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69086,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14523605,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41500,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7523456,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21496848,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2195736,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,203040992,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,306000,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83675,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47632008,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3613293,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,565126,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9238,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150000,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131330,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20500,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,118542,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9863,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170048,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6350,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39023,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11224829,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53380,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36220492,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12000,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,725914,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2039728,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2847511,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,789959,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2304930,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39323916,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3810567,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8018309,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,409400,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14850,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,746624,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88110,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1025552,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34122920,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109604552,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33824,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22241,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2078926,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4017701,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,612979,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22533,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13994742,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27000,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28300,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101292,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21627,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1876209,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1477128,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13200258,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32871,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35174528,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,982295,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20500,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,225833,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105672,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,810,Fmr USSR,SUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,193800,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,517500,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3802803,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35005528,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21977,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11318492,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11582458,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,890,Fmr Yugoslavia,YUG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,317308,,,0
+H0,1991,1991,1991,0,0,2,Export,600,Paraguay,PRY,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11908,,,0

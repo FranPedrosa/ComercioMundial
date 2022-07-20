@@ -1,0 +1,222 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1261588484277,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15185988,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86084477,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8377470,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2769397474,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28617,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1350019,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1192877561,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7195249,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2050507855,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3170635635,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3837867310,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,50889534365,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6184487,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71923571,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4353179488,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,184956274,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4008215,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,51403026335,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70540094,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1780117,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,139293909,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,695980903,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2345077,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15527405530,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,653414,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7367037,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1271671,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3489792,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2904826554,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84658525,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36730993,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,932765054,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,730266078,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,275810825,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7079731495,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,925316,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,312188187,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2209678,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,659049264,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17851528,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2789674387,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,112601119595,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27637,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2210556800,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2432621,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,175,Mayotte,MYT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50711,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,236354983,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14756600,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23975,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,556134532,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1204136585,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56918110,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,328286815,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,45478682715,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10452747,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16705628575,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,400,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,182778359,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,718255646,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,220259507,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40955576,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,303595939,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,176712,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,737060481,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26277803,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2869425,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31054,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2848885,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9151413964,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91466125743,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6006710,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1350,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,644083,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83200762,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,201786615,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,201289,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,291137,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,227542489,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1582770,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52466,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2702743831,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18221449,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3543322,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33852,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,143876024,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,116656734,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11640114,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5501924,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,827863,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,429188710,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2369363111,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25341992749,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1079394417,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6005217885,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1166653474,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,501091016,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17166289048,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2597490345,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66236679850,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1515428811,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78569569,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34885269226,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5954187416,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22056972,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,169554209,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49670372,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13545687409,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,131917914,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17712865,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87899705,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61570419,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1883973,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,915474242,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26911486,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2769151164,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2358895047,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4096139494,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40333742,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115676813,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99436107,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8812075280,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11337443,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2994174,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,580891217,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,184747593,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49888746,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6097495809,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9619112680,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18166745,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,155645629,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23714268,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,502,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,963192043,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,179208969,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53031598,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,268048285,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49787564,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102777848842,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,735199,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,307227,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1238356,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,215922,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,979762136,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43306433,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115973,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4841403605,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35877,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1048356,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11494699297,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15446,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61648,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34833076,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39604,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1584719740,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99993199,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,488773316,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,312093947,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1908622288,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2835269696,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44940676722,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6548531186,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3485,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19223542,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,116469785,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11639143408,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,41696766639,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18212238,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3912749,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,498851,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51617,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41784,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8556960,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,190288,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1273429695,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9497370,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1280747826,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5860379,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18387412,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10656510261,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6764077436,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14928332624,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5643213568,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6175377648,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,704643,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8067557986,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56259383,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31301047155,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33422335,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7630757,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21151170,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,19647383207,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52541029546,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1394990515,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2330049,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5835169325,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,183026808,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11581,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1445370,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,186032000,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1413640477,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2121040309,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16433878793,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66578095,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2904,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,700,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,139329443,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2668379063,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1339706816,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2340540583,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60632048133,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,224941377,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,839,Special Categories,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49712572048,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69261436923,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13677950,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,616114726,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,46073771,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1046606855,,,4
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,634753,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4586840,,,0
+H3,2011,2011,2011,0,0,1,Import,276,Germany,DEU,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56819917,,,4

@@ -1,0 +1,39 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43396107,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,334,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3632635,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43778,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9259,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2032210,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24558,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15587,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,300343,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,178105,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3926,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48684,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5510,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3250769,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,307647,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11174,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3073606,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86933,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154503,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10116777,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26667,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,625,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2554,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,272366,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25796,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,370,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1411864,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45626,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1658322,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,579947,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,644,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,512964,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2494458,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9172466,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40629,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2688948,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75264,,,0
+H1,2001,2001,2001,0,0,2,Export,212,Dominica,DMA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1090260,,,0

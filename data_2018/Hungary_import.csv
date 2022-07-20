@@ -1,0 +1,180 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,117381592676,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,301769,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25849755,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39019,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,658,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,93,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,397999,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18678412,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51110836,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7165682140,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,293326,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3099878,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8370451,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1064654,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2800991819,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65069,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,481,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118349,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,193031661,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,529,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,184231913,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,119014,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13331,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,473233112,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2408414,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1200,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80574258,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3552326,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70345,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95169923,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129010,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,138412,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1020,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43963466,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2368,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10068734,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6377348262,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3248889,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,347223,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1251692,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,725994691,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,272966,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90824182,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5947120321,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,182485,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,752973591,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8468,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33260,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,739101,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12668,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,749327,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50329806,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,270,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32275,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,347277131,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4375868163,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149233,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,984542,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30458352546,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,221252,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10148,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137618471,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1343,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158381,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1636,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,930,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,138421,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,943301731,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49242287,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,142308339,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,152145310,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,368663508,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,571561406,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,202848926,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5498476750,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2172922,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,305,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1506607166,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,537518506,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,517584,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2017437,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2134456410,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,365587,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,174386,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,519395,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,299612,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82695004,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,574,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81595731,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,189088974,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89252245,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9123423,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,237150,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,716170,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,420315274,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,206,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16647,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22957604,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48344,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1187661,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,202242387,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,557456705,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,597621,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9728522,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58198525,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7797728,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4074987,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7875853,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85372,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,573114,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6005042877,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6232,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,368,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,156,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1301,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5444045,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,334321,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75336,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,286002,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36198673,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,225,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18954989,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107099,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3650,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9775,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1092969,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158071377,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6771563660,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,252931502,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,771744,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3244979819,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4604945123,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24620,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,934,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,675289,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1198,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6784080,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14804,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1100416337,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1055777,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,459799009,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,443555739,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5835962154,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,536574707,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1755633775,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54299165,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4089183,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1933957500,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17103,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,954180384,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,726139433,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,165202,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,176,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,566449140,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2229,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15305,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42314732,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50087416,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1107957546,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47065,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,781,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,885912,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1801977050,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146868183,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140456413,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2166944864,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79918,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2145351609,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15665,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3034258,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,485667,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78029,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,266518,,,0
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17447,,,4

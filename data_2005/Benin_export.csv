@@ -1,0 +1,83 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,288195509,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13165,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3765515,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,498873,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1196622,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1546033,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,618619,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3498,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2257,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,451,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4144585,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104191066,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,555021,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199992,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,254145,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251858,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243513,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192472,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1260636,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8417064,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25013,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1635769,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9059,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2278900,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5444954,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129378,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195171,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1295758,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10479448,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2257,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4237583,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4456125,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61481,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2069,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,912,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1128,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15427,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32141,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21331,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39075,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,391959,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5254,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7952633,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7621227,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168399,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1114117,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3685859,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2129987,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6770,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,344112,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123006,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15135193,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16572234,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2257,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1574866,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,162981,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146209,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3169500,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7525,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2257,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,286708,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,421744,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21331,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19905942,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4198954,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4446446,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,447990,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2622779,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4294896,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3051977,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4887925,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10514238,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9936999,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,492128,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,229800,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1410214,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14669,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11220,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,658141,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10494,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124433,,,0
+H1,2005,2005,2005,0,0,2,Export,204,Benin,BEN,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2171769,,,0

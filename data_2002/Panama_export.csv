@@ -1,0 +1,61 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,759613136,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57352,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1360,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135105,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12719547,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38725,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33313113,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73777,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,395877,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,364667,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5320771,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114791,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2005193,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5751996,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36132720,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1977768,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8064,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35224,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15792509,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3903407,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7675058,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1473651,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6716885,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15700,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11400,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15902779,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,202016,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92998,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33556831,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5228343,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24000,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7763647,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3766468,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10223971,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49920,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14914959,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4805785,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12837881,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1508962,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,848499,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67831,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20911190,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19000,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,850500,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1071,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,619793,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30016456,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,505705,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2538952,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,264450,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21977911,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104930,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46119002,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,196291,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2363298,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7592592,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,360921155,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85689,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8581986,,,0
+H1,2002,2002,2002,0,0,2,Export,591,Panama,PAN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10113615,,,0

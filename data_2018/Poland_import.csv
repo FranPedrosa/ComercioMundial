@@ -1,0 +1,237 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,267699886888,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1502178,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20253071,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3438,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37931422,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110161,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1867289,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5618792,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114577127,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13863693,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,698887213,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,495414799,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4530239325,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,349479784,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55466218,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1841248937,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11784528,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2344076,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6642993302,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89603,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,884548,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9893855,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85690902,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3146,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5039,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1823075192,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,718580,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21836,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16078,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,290483,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,122985,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,762137079,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,160233087,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,429656,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1483409039,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,394772107,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9517642,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,496836765,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33972,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12621,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,180386,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,150687695,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79126,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,148564474,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30972443608,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,562220,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59237,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,278913857,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80203,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3846277,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2918005,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,847436,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127532904,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,207525108,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5153733,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125821710,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9151081893,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96553,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2931530772,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,314076,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46828684,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,217438572,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2641636,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5636560,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9350,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,332938884,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66524444,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,270798,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5140,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92592,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1993846025,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9769643850,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31496,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,187668,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1558579,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11910270,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20417322,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16927,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1012781,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59956977075,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39678779,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31583237,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,589820294,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15005224,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,340543,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,299,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37224540,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4232038,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1477820,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,181164,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1294,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9066974,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106463461,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4310790694,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,267827917,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,861000859,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,182862394,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,235850614,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1684123012,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,474274114,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13433536539,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,175177396,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1413219,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4172227810,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2127637665,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8787957,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34473695,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4836358,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4817397165,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4966821,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2719684,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2120954,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11715210,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,449601,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,620019371,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71915509,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6473,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2177813062,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,515937788,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3915913,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16772066,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39024249,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,984260210,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,685391,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1178851,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44732728,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,543638,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9793355,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,773403928,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1563184706,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1185019,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,175057524,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26668125,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2778,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,536877694,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,263271015,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5113921,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5069805,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,159010,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,485902,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9653522536,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,620516,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,460,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21989,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2932808,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127827306,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5395890,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,569484,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,297403024,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,151284107,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5450,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1361,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26500,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3044495668,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36776,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52229,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75986,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44664694,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,424262856,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81574462,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,765073,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,151532655,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128416351,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,539046110,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,251093,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1042711391,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26622,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16540,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,892765415,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2420073645,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19641827920,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,665791,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,200497,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101989,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4077921,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,293415,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11924,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1427872,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8972681,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3319584,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1237964871,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15872055,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,466688396,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80740,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1117118,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2124016856,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,506082562,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4722395303,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2951168623,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,974539449,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17526,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,454574069,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16060082,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5948704404,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13922,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,881345,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,262621,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1109197,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5141686728,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1986310797,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1320205,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1050306,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,897332005,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,171386,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,358677,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,121274,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,247669,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,295581665,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,250407413,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4504049978,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2572512,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,302968,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33446,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12395233,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3033059357,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,227912486,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,179088095,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6475426036,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38463083,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,328556,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,839,Special Categories,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28348,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7615876839,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,435736,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83068301,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54398604,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26563595,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4737,,,0
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149422,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,181829,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1883786,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,701896964,,,4

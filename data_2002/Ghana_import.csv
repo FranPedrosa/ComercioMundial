@@ -1,0 +1,154 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2708252300,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7753,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,826929,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13145,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,998216,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10027285,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5083913,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35025197,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4465337,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7034464,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6990220,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120793,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44544,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142611784,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4952,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46612021,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2112,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1032144,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1638,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1415,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2664871,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56819869,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9099,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,414,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18374,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128350209,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30593,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1221191,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33084,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37927,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3197,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2255046,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,241943,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,902616,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21255938,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,629,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8816,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94148,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,919,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52470,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1963965,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104262105,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5043,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61779,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,296104,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,189167302,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17404,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7416143,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7391,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,164,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21288,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,425542,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1473,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,937,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24702081,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,778638,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2108,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17682499,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,327474,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7984,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8328556,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9706194,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123612465,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41607232,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15484,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66118997,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2891,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7508463,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47696,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60772252,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140369,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61617,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3656058,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2465601,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2016,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,876125,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23398,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19312,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13988672,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7198,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24058523,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2551920,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15118632,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,970456,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1731448,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5089801,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1875,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4636993,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,446116,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4937,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6591,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1374,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137338844,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20135,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1978699,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29457499,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,194038270,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17201412,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68358,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1303272,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1143425,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,772,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22022,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,209288,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73197,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2022,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10668664,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8129280,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6032,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,269,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,462,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2732229,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14544654,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,408,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16073,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23364,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2313,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17308393,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69701872,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30242,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,881359,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69559262,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19243742,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7645983,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10439,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101133013,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1106446,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55775453,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,389,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28417739,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17900536,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3649,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46823602,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13938572,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26825,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15881147,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2349678,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22035178,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26997,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10960,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9788473,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,238246898,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,219709,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32324084,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201544594,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89144267,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2851509,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3505,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58971,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9594782,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42267,,,0
+H0,2002,2002,2002,0,0,1,Import,288,Ghana,GHA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8859,,,0

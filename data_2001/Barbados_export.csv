@@ -1,0 +1,120 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,259339456,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9845,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6106473,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71862,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,432337,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130286,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3004808,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,862201,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,903990,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,74,Bouvet Island,BVT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,254,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70918,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2712595,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1797544,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1425,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7149805,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,600,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,747643,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7000,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26951,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,224556,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8621,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,342005,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154305,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38386,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106216,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,342658,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3619402,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1134477,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1199,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173411,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2465049,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9030,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6039,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20591,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6290,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,579074,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1000,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22379,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7375212,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78464,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1975,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6351388,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,513312,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82193,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125644,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146786,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30688,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102599,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,348354,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4268,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2028122,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20138438,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,207415,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1000000,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5320,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55424,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40504,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6669,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,500,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2173,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10140,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8433,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7000,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,384405,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,204358,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4917,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9419,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,507379,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53847,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2451795,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1466174,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,235789,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1100,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,922790,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22359,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18438,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87563,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,182590,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2500,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3060,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165615,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155426,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13900,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7030,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,378098,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4553831,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1118722,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13804306,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9140039,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82695,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44608,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3096,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10119,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,157870,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39150,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,745,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9000,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,276222,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10000,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4673423,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,196862,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,634667,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1219038,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,326694,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28628971,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25473,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18391,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,216918,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8395,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1071033,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30321295,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43478006,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38814063,,,0
+H1,2001,2001,2001,0,0,2,Export,52,Barbados,BRB,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1214665,,,0

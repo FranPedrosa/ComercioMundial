@@ -1,0 +1,50 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46214060,,,4
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25105,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1010281,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67721,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,557629,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,119663,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16750428,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26250,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4295307,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76584,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2230,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,426000,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46907,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52651,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157955,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31109,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14100,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11966,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6581,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7179,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,138809,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,861214,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157955,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,706,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,291977,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52651,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1241415,,,4
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,342236,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,239326,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47865,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1109,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101106,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1059,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15298546,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,885506,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85874,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,181504,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102910,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12951,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59711,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12822,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1425763,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65814,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52651,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54490,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92360,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40355,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,670364,,,0
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9344,,,0

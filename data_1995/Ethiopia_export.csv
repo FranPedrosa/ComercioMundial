@@ -1,0 +1,56 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,421935072,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81718,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,649295,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7372020,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2589684,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,578076,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41671,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,415538,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7697,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2172604,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21157920,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38518136,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122738576,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1007,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,334406,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,473114,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1662568,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1407645,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36450120,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54760732,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85772,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1800731,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1282505,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,536307,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123887,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3311118,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174869,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,223816,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6643380,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38861,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,187634,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103413,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2227651,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1440809,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5919,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37954376,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2662926,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,926014,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3351814,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1164678,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,327572,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2139437,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6879425,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4203688,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,304585,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9880,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2983279,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15295879,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155594,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26985640,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,879,"Western Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2684459,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3476202,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,387166,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,570,,,0
+H0,1995,1995,1995,0,0,2,Export,231,Ethiopia,ETH,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,442691,,,0

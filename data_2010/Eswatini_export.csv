@@ -1,0 +1,101 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1539228250,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8300,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,172,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19697944,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42127224,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1358,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,242,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,473,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97455,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21010,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36714,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5740445,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3117,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,527443,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,411,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1192496,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,394938,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5104,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4005095,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54844,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,175,Mayotte,MYT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,181469,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,325554,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58558,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51474,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30848,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46508,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6221650,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,537401,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1509,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7842839,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17905,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6474359,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67482,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14451136,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83940,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9405,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3737,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1062521,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,531891,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29843814,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4768,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,251189,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,373,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37078421,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23031,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2863464,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32713,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27143,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6467885,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6666167,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20548,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7301,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,694986,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5510708,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,388,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,438901,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,615,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1852,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3221,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59129246,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9641660,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3924,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5596679,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11152655,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35478532,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80908,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67308,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4339,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33877,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16323023,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22535664,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31942302,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16356,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,154299,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,116240,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45298,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31694,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74205,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158911,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8524,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,881203417,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9869063,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18840747,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,736,Fmr Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32320,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17006,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,171221,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4223,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4116,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2195,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,984511,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13366774,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3580,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,891,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,238111,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60048880,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19105867,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129331834,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16356,,,0
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7125760,,,4
+H3,2010,2010,2010,0,0,2,Export,748,Eswatini,SWZ,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4413225,,,4

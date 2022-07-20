@@ -1,0 +1,40 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180056160,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14999,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3099,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91801,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7315375,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6359,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2402061,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5014,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4630,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17718,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14944,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17411,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,455713,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2649,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8719955,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5000,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,280,Fmr Fed. Rep. of Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4847581,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65161,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57296,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14029384,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78217,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1494890,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89958,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138546,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2233843,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9055,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8699,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4127,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49068,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13169,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,576918,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26158,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1502087,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1270,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13270,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,219624,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135449808,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66548,,,0
+H0,1988,1988,1988,0,0,2,Export,332,Haiti,HTI,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4763,,,0

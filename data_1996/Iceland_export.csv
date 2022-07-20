@@ -1,0 +1,92 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1897081344,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10134,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18143860,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156721,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,997200,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1871502,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12911,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22592,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25670708,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,233652,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10137400,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63880,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21950544,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38126768,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1767948,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1036386,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,207778,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6819,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,260147,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,404234,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1115982,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136588384,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46699,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,677983,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7942237,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1813,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18122308,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126810208,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243756304,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,164178,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12616121,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1217666,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1228906,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,404507,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97123,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2664,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2517415,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1207090,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36086864,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,553,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,185788832,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22294,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39406,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43763,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7079072,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,709676,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1215117,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1676,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1073900,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9966,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13106,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1024228,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29631820,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42393,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1072,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67922216,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17019,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,742219,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8674730,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70386888,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105470,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,297360,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,211674,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98851,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4555919,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48626592,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14217,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19300112,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140005,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92430,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,826687,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165098,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97543,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1598248,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1840690,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73317616,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24337568,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37446820,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1066896,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11926,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156548,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2052442,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,230424,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140552,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104305,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,359707968,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,234031616,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75949,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92732,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103972,,,0
+H0,1996,1996,1996,0,0,2,Export,352,Iceland,ISL,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107458,,,0

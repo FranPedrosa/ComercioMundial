@@ -1,0 +1,92 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,391342912,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,710,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149839,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1935128,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,399934,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,299908,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171333,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42853,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6848360,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1429341,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65786,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,285589,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18475,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9611,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8614,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,605458,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104777,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9081409,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6709,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,200,Czechoslovakia,CSK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,462358,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2157895,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,244731,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117787776,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2785,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1139,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,348039,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24062938,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96730,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14426,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1812,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43897,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1141624,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69772,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13279246,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1052174,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1684838,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11610861,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67907,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22992796,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138127,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,619571,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,493752,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2662364,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11206,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9128,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2099066,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5407,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,612175,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3064247,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39577,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5312466,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1632353,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3563589,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8309097,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2671723,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,263566,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181045,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,632769,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,283223,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12818,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,823815,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,282628,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,240571,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2285622,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1355947,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41903952,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6059,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,715124,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2701250,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5028335,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3142379,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21802808,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1879874,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5176203,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5401,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1295039,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4972924,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1589724,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2444271,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3595,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,574122,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85573,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20400846,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,743348,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19093304,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7712,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,656387,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1511,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124614,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15083,,,0
+H0,1992,1992,1992,0,0,1,Import,450,Madagascar,MDG,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,780059,,,0

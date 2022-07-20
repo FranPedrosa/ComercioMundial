@@ -1,0 +1,218 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,184130805605,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8573212,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11239432,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,138867365,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,312131,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25131029,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,193286,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23708362,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72437562,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1014462264,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,405121816,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19165553,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82609555,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19039251,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1136584,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2227366,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20399284355,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,595424,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17142,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1356861,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17726985,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,545790,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,339621167,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,282945,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80216533,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,734843,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149085387,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11293359,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13697,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7008016,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8885685,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25102605,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1950836218,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3194255,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,549159,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,271543,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7567256,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5305488,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81269195,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11337251691,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,103921,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,123101575,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36237,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7568243,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31846711,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56183210,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62699562,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1155784,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30826613,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,496010447,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16874113,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,670002275,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126080,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22631594,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7720249,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7942353,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1673981,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29123837,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48938,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16997542,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,810756,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96428,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,130365,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96935,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,310224623,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5949595678,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1381565,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46372,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,293221,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7823894,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8291853,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5056965,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2120574,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19924523265,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71893974,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81690602,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,141720,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2013371816,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6274,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,240490,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,589052,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20923041,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11831464,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3448584,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3431575,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5302214,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,797535028,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,287255672,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50490657,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117125768,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9779322,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,168551203,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,440483369,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5288048437,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28199419,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7065119,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3178461609,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36772504,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133129121,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26150975,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,749006757,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126860992,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,257344,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20848,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82442152,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,192650,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99283190,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4027834,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60319290,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78745707,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,179774858,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14347398,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1255402,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3870643,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,250269977,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,355085,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53719213,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48335671,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3155556,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7152570,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1825013749,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,532822510,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3858970,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1204175,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,372017,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118092693,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4685563,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84187893,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1844276,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1240355,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,852144,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9760232160,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,255020,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115833,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,511611,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3231590,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80096203,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1171332,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9502427,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,298043458,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,655458898,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,335250223,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68084,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,768787962,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9656899,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34302203,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35318238,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1372461,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,400013,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25799584,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157465603,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1309769517,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,419500241,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,399325,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29433,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157550215,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,450078234,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,508053980,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,295984,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,518593,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6665,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,177941,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3450,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,257111,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,775967,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,98226,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64095,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,715864241,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67959284,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101518275,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2383368,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1642029,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,417570340,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,594883939,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129925012,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110264409,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,166101541,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8707585,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,348543117,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7634898,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2806576033,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,176489,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18858988,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1224047,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3141328,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,886711111,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3675346481,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5428873,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,570043,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,163492213,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25894044,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2386615,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,229,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21268458,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,578744479,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23765756,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,755225669,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1746681,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126913,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34971439,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81255354,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20562473,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,269944218,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16594479838,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22363781,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111798366,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56970804429,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11414599,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53304164,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32695949,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,983312,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11129809,,,0
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41890154,,,4
+H5,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2040013590,,,4

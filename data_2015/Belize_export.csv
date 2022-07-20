@@ -1,0 +1,78 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,313895185,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,263971,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,119,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,135002,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,117780,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,524550,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1929802,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1574,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5079,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,597,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8476290,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1703655,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,772,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6657,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3532508,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,302807,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,46131,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38421,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26729,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,109615,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,86584,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,368405,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1309,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,236574,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2932958,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15353,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4926511,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2922548,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,84856,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2886937,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,631893,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16804,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14331797,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,344115,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,78522,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11786094,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1359996,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3964,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31244,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21518,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23665,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29361,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10731,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12198276,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,834683,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11212947,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8322,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35328,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25748,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,80512,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7061,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30930,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1154417,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,386755,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5357,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11987,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,225809,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,56109,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,187258,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,181575,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,86952,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,269082,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1123117,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,297947,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1106438,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3672084,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1089246,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,222,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,841648,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,372369,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13472644,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,339459,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8650,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4035,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,81889118,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,122167726,,,0
+H4,2015,2015,2015,0,0,2,Export,84,Belize,BLZ,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,157576,,,0

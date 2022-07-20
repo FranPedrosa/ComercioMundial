@@ -1,0 +1,35 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1277781806,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91734,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,441544832,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6616007,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14085845,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45412,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8126385,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3023485,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55579,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20704,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8019841,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22693,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,676580,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,418613,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16877,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1098161,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96604554,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8299066,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,919139,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,420547,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28900,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,368148,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5619352,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,858773,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,478827918,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,586853,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170306,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5209014,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9527811,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128375248,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,349,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56166303,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1936772,,,0
+H1,2005,2005,2005,0,0,2,Export,748,Eswatini,SWZ,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1,,,0

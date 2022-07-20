@@ -1,0 +1,95 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3410659130,,,4
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21709,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6468,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88966,,,4
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80039,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3840,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1002,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6400,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18815737,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30809269,,,4
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7155,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1,,,4
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12509,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40243,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136649,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,700,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4435850,,,4
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,327708,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3688132,,,4
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,228,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14569,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29322,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,152699,,,4
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2222,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,409366,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7259,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,647989,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4331,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1336470,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71080,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96824,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34878,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,281586,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13687802,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,882047,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1623,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,396562,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22663,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,851753,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3500,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,123586,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1001,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13496,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11301,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11480,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127444,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3468199,,,4
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16082,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6884,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41068,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73820,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,329,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,409517900,,,4
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,13742707,,,4
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4580488,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9011,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,301817,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79163,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28013,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14552,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,670,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2295,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106555,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17816,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,884410,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,792,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13507,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146661,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3429,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2074566246,,,4
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,303433,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126595,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1030083,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22703,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,271962,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1573,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8850,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147956425,,,4
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23259,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48205,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124377,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2103890,,,4
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,773013,,,0
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,839,Special Categories,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,578502322,,,4
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2310749,,,4
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,91677627,,,4
+H4,2015,2015,2015,0,0,2,Export,716,Zimbabwe,ZWE,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45765,,,0

@@ -1,0 +1,142 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4419363283,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2332352,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2189176,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150347,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3170612,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1456919,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1687651,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35588110,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6314414,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5921717,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,939787,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,946656,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2178217,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2934872,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23146278,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,411523,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,558551,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,942849,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,387499,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138424178,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,371738,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2060861,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,648150,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,332957,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21302548,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135858,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,351631,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,237596,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62039928,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101936585,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55444266,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,374043,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,209665780,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,240113,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4881848,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,257311,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,889181,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10563294,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,363825,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8250966,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99991487,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,203086536,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64935,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,238455,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,244924,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,207100,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6349098,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25333502,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,191044,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116977,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79194130,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,167491,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1625232,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,346489543,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71553,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122758,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160369,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22151595,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,285898,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115086,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4077038,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,284566,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77880,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2710064,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6727061,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22636075,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,937168,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90583876,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150802,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2293617,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6077200,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24333855,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104016,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44239,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43635,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94750,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27509,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54561,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34006,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10165147,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46115,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14971,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20063,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,253120944,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37177755,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19542,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,659,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,485680,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40252,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18635965,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,162370749,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1326827,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6221454,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63229967,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2298870,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1109499,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1047754,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133853347,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90004,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27965297,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,651089,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2547010,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1467473,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29254,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129889,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21190232,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26140,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114077,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21465,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18826832,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,630026,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,675055,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101831,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11232,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105507,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,728753,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16802,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49625541,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,217620,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16140,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42060785,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18534689,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,350642,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14071721,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95348799,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2739872,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20127,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3537152,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36236,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4768062,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13171,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,279965,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7458366,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1628231558,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3209693,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1361,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103187006,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23177,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114545,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25059,,,0
+H2,2005,2005,2005,0,0,1,Import,340,Honduras,HND,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21448650,,,0

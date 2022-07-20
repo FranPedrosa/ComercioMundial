@@ -1,0 +1,219 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,721077406256,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,808712,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18803861,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,376317278,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,257094,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29457,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62669760,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28201,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4492890,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,576961858,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45481319121,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2127407779,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62174039,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1171718412,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1474250425,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20247337,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158170,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3221425975,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18540,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,633653,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,310719751,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9434154,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30936175,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8002858537,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,80,Br. Antarctic Terr.,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4412,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6093472,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3106193,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9027,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2430005304,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,164842964,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1414931467,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1233646,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34995370,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1730459146,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32975497,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11801722743,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38246,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1442273,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,332768784,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,204838,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6653979896,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,169295821037,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,628265423,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,251525,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4107836,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5474277,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11751011,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,420751381,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106660526,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14098701,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,906205,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1122322550,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31916,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2309707641,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,722494,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,138401267,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1146271184,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17316359,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33458025,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137199051,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2421,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137827585,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13723647,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3060680,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42334920,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1794444706,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12046905544,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72007780,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5614,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56127831,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21811333,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,264708,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,469914,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24977487739,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,122398377,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15421,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8015678,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,537241199,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77343299,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19082,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5767196,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,150215635,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,344238,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8306184,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4322748,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59294023,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2065135632,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,927558585,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,141166240,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18182643712,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1164422284,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,959867063,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6864170748,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1217017576,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11603303196,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12329344,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10245417,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1044757623,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35412974,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71747695,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21981,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29605674186,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6887785162,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,534958,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,159030384,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14465398,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1167354,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81352194,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136656304,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1287488,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,466239622,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89174052,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18016598,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,214839481,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11979207,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17672059149,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3184448,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4527440,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,220721500,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,231772300,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10025873,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5908120877,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26858239133,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22430922,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25364441,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,359219,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7568,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,269464875,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,213682832,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2734434735,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11280500,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2466366,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10274022,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,527,"Oceania, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11651,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3148498311,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78878,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,219553081,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55356980,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2676897243,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24114850,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2593500,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,509626936,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44751,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75218,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1882298518,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75942,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13811516,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4285088,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16854032,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,304031083,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,135026154,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2635403970,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30815811,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2461249296,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10606567499,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8935,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1039187421,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,367664423,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10579592,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13150453149,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,637,"North America and Central America, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,296249,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,937748922,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14317380954,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3673031,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2770679,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14595,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6275,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13962,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2107770,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16605,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27667175158,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26055056,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,348563642,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75575227,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15796069,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5371419517,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7809369244,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,320980287,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22484506820,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,132334895,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19561530,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5129205739,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22400601,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3407531205,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7330,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11984601,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2112522,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5815672,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1247921,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2899993681,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8188010470,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,458841,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1498721,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25366805059,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6506654,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16614,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1448301,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63720750,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26196690367,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,103749163,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,768191265,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,618424,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1052990,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11304426,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,709813061,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8158390,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140551183,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8142666042,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88324230,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81420707429,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43882971,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27680077,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4653702,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37446241,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2096119,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3909630,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,142161718,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2274701,,,0

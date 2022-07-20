@@ -1,0 +1,35 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45228996,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1468020,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57446,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1603124,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2638,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2561,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89771,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77620,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3640,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3202,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110101,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73934,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,755,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,875285,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2071248,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1556682,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15777,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4491919,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97121,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,474,Martinique,MTQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,443304,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10287,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67815,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16274,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1249735,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,665876,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33640,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2373100,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,858489,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26060,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1793861,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21477404,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3430989,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28926,,,0
+H0,1994,1994,1994,0,0,2,Export,212,Dominica,DMA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152391,,,0

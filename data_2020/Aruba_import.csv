@@ -1,0 +1,15 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,939368007,,,4
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20846728,,,0
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34048101,,,0
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26844804,,,4
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4471257,,,0
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9229982,,,0
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144967875,,,4
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14966738,,,0
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34488112,,,0
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12572914,,,0
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8759469,,,0
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6836521,,,0
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,492931273,,,4
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128404228,,,4

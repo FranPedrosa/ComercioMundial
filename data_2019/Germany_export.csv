@@ -1,0 +1,235 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1493266563850,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73657984,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,293848442,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6964983,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2333258399,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24028,,,0
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50258734,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146731178,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8990231,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,528750987,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2714022084,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10370544315,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70988488257,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36369114,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,429396784,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,921128814,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,205350702,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28988695,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51634515394,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,134886340,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5641838,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,143199483,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1004234510,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74261922,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11474351672,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3494118,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19097,,,0
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,410389,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,498868578,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77597760,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4400193456,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,170494928,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15087872,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1693718948,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,160742678,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109974824,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12313775297,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15769505,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77069294,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10974552,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,358200875,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18068003,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3250916706,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108330594451,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,159094,,,0
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157076,,,0
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1931300141,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,924606,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48859859,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90638606,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1063593,,,0
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,245871372,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4177021205,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,223269744,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,706719329,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,49459744543,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41349099,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,21492643800,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1756579,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,310054500,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,516242114,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,502855204,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24938147,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,348854719,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14487918,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2032871719,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,150421639,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73176,,,0
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9933844,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12380022315,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,119249537119,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28307750,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3799356,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18824652,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45086028,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,468636106,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23251772,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90901526,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,272311892,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34965717,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39116,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6803026968,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15305405,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3659891,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6985388,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,320671307,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,169776934,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12447091,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31703848,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30337,,,0
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2799629,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,162938487,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6703637003,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30092940663,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,552264031,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3119695030,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1729537519,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1158091781,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8938287313,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5326717713,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75801862536,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,241340502,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71320375,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23241210158,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1642462039,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,882859498,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,398746396,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1322408,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19368616357,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1648675680,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66037779,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23732339,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,743803736,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1887748,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1930518054,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,246048334,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,503195282,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3875090021,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6406466368,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,164398841,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59552522,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35458092,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6297356687,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49525990,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99841682,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,991931878,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78787017,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,168809617,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15407646523,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8779639575,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,169858069,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,489745112,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137079174,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114594,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2502510092,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111012885,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,990354110,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67573276,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,161725,,,0
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49151665,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92760194932,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23199147,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10232595,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4750929,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2276780,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51588418,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,746605,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1928137112,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54034685,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37649933,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1138619364,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,98759,,,0
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18231119,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10548560986,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,583316,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80063,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55700,,,0
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,174552262,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22253,,,0
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1254693835,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,661411425,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33822837,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,195193780,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1056727479,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2813683602,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17856,,,0
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73592537185,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11919404099,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3066859,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,352496,,,0
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1669337151,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18852418678,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30445081382,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64297000,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1032204,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81709,,,0
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14642911,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,463180,,,0
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3581169,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,387714,,,0
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9700175,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64497917,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1275792,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6750400433,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144449281,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3641132895,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95171445,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19254989,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13439520022,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8277778745,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15687326061,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4838577993,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6133507471,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30596329,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10595336539,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37355265,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49495538044,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10728867,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,182012966,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51617,,,0
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29276142,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9282158,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,27889580658,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,64755169349,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,98932673,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32149677,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5643898770,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60654482,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,255489,,,0
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,260314,,,0
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,112242935,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9948337333,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1649380637,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22023429015,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,181304135,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1856209,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11603,,,0
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125501540,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5492971080,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1422012221,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4084590082,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88405572098,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,197301727,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4092661451,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133545758292,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69848281,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,273152545,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1002652976,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59444985,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,120157,,,0
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3199976,,,0
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102027726,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71803691,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14133908693,,,4

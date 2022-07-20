@@ -1,0 +1,199 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,627327030842,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,175349,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,522808,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2650123,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,355948,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,221123,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37074407,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,936357,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,257878749,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7156942723,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,340481878,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,573127,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147786864,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,170618698,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,411653,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10772968,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3305047214,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68520,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3923847,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,308640,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,341358453,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2739514685,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,819707,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2750136,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6489950,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64767909,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101091886,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10960,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7285284,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,298062911,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1288108,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2214175329,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,545365,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,248868,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,132911955,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24297,,,0
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1143028973,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,280977154407,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133673658,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15023,,,0
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3182106,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,847743,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158459969,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46241323,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52699125,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19333483,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,307489536,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,862599,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,537747739,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20958660,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36522651,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118581563,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3003,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11341634,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16720961,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2687191,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114731651,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6777376900,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1645648,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2015105,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4058801,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137520,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6947434295,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15741807,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129542,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137644,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50617018,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,298,,,0
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6550732,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21895020,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3295432,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23612581,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3348383,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2323,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11540643,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,360837076,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3526041,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2891204071,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117316287,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2323643,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,944942350,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2395129944,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6662377758,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,675707,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3623881,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34881253821,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1810825,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50966514,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57818740,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1,,,0
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35577226848,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61715209,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,495885,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9240755,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24125024,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13127,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13972275,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,856917,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8710,,,0
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41387052,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149746699,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,941220826,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6309680,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1749474,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24138171556,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5931415,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,583916,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,213602429,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,473,"LAIA, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7288027,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3090784,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8743214,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,987275531,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43291284365,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1508933,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8721999,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3018358,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,121279036,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9420255,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104161977,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52896550,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73,,,0
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2270102,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,527,"Oceania, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5019400,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2708124996,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,387155,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1514831,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,686669476,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29899069,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27655,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31040268,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91166,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10155,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,181888076,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102875,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1275,,,0
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,194557,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125667,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107054902,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26307096,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52525055,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12080591,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144878386,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11100587853,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,351642331,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147431998,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2551,,,0
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,789649079,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,637,"North America and Central America, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18790,,,0
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50417215,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,849891743,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,641481,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101184,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,528981377,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25003614,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12289019,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2502969,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,467283,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11846608705,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40415944393,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30001630,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8439277479,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,224178646,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,556804,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2850489671,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34123981,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1017365146,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60841,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,713369,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,225451467,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,335148,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,267131333,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15804183249,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53491,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3619,,,0
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11879584240,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6013797,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,181996,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23682,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,970890,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4426958151,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10260747,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,760391994,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,148588,,,0
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80046787,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57047756,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1331088,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75404535,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10002750292,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41914329,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31763724004,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21015,,,0
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62859716,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1428980,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17928018,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25326,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12865275,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23942870,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16113410,,,0

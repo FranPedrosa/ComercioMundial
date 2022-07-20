@@ -1,0 +1,19 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,1999,1999,1999,0,0,2,Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50693813581,,,0
+H1,1999,1999,1999,0,0,2,Export,682,Saudi Arabia,SAU,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,157209907,,,0
+H1,1999,1999,1999,0,0,2,Export,682,Saudi Arabia,SAU,221,"Eastern Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8583137,,,0
+H1,1999,1999,1999,0,0,2,Export,682,Saudi Arabia,SAU,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1954620832,,,0
+H1,1999,1999,1999,0,0,2,Export,682,Saudi Arabia,SAU,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,573596595,,,0
+H1,1999,1999,1999,0,0,2,Export,682,Saudi Arabia,SAU,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1156236380,,,0
+H1,1999,1999,1999,0,0,2,Export,682,Saudi Arabia,SAU,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5119091240,,,0
+H1,1999,1999,1999,0,0,2,Export,682,Saudi Arabia,SAU,473,"LAIA, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,778730584,,,0
+H1,1999,1999,1999,0,0,2,Export,682,Saudi Arabia,SAU,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18697861741,,,0
+H1,1999,1999,1999,0,0,2,Export,682,Saudi Arabia,SAU,492,"Europe EU, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2855564647,,,0
+H1,1999,1999,1999,0,0,2,Export,682,Saudi Arabia,SAU,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1450140042,,,0
+H1,1999,1999,1999,0,0,2,Export,682,Saudi Arabia,SAU,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1943785846,,,0
+H1,1999,1999,1999,0,0,2,Export,682,Saudi Arabia,SAU,636,"Rest of America, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,378522077,,,0
+H1,1999,1999,1999,0,0,2,Export,682,Saudi Arabia,SAU,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,826159961,,,0
+H1,1999,1999,1999,0,0,2,Export,682,Saudi Arabia,SAU,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93661605,,,0
+H1,1999,1999,1999,0,0,2,Export,682,Saudi Arabia,SAU,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9835992229,,,0
+H1,1999,1999,1999,0,0,2,Export,682,Saudi Arabia,SAU,879,"Western Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4463701840,,,0
+H1,1999,1999,1999,0,0,2,Export,682,Saudi Arabia,SAU,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,400354918,,,0

@@ -1,0 +1,71 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5438407896,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18009,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82780654,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8194299,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2091,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47992,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21437503,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7291439,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13466859,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5111,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25740964,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15146,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47969239,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6208265,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,472024893,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,315219,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,556188,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1169,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22538182,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,661,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11015,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53056,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68866975,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132996063,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2240,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102318,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,619241008,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19006,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91733226,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5527468,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5451,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2829,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77585629,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,336085610,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32308,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,413814,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,462362118,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1424477,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43809054,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125335,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3090,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,244972401,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226454,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,638048,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28689439,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15986380,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151846,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4927833,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19761,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,215328580,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,361032,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,500390,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47471205,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36111944,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,615174176,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,423376842,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16488,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18072503,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137543,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14550198,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23545440,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88749520,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2074002,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20072183,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7042,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1876115,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82490780,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7877,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,291313543,,,0
+H0,1995,1995,1995,0,0,1,Import,50,Bangladesh,BGD,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,712542358,,,0

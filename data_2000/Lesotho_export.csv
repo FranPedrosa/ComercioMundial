@@ -1,0 +1,15 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,2000,2000,2000,0,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,336165165,,,0
+H0,2000,2000,2000,0,0,2,Export,426,Lesotho,LSO,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1693,,,0
+H0,2000,2000,2000,0,0,2,Export,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14292,,,0
+H0,2000,2000,2000,0,0,2,Export,426,Lesotho,LSO,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,811168,,,0
+H0,2000,2000,2000,0,0,2,Export,426,Lesotho,LSO,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,238210,,,0
+H0,2000,2000,2000,0,0,2,Export,426,Lesotho,LSO,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121237,,,0
+H0,2000,2000,2000,0,0,2,Export,426,Lesotho,LSO,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27960,,,0
+H0,2000,2000,2000,0,0,2,Export,426,Lesotho,LSO,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36171,,,0
+H0,2000,2000,2000,0,0,2,Export,426,Lesotho,LSO,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1205918,,,0
+H0,2000,2000,2000,0,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91935581,,,0
+H0,2000,2000,2000,0,0,2,Export,426,Lesotho,LSO,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42623,,,0
+H0,2000,2000,2000,0,0,2,Export,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195,,,0
+H0,2000,2000,2000,0,0,2,Export,426,Lesotho,LSO,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,241730117,,,0
+H0,2000,2000,2000,0,0,2,Export,426,Lesotho,LSO,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1,,,0

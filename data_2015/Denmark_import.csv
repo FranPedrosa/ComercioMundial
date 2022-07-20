@@ -1,0 +1,219 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,85327361281,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,276843,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1040900,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,565,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,213215,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36774,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17042,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33683374,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1080293,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,577429,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,412733943,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,131840150,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,783041199,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,557190,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2105623,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,618765277,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,133014,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,799893,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2682191011,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,151220,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2199,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2855776,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6182146,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31981,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,202947241,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,62895,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20659,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,365023,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39436,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,120305130,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5657315,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35487,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37674584,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,62032795,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1979379,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,431977986,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,66890,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,384836,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12756,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27407062,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13792,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,168382762,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6375315508,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,302,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27488440,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1379338,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,127862,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2698,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6496865,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30693038,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,605400,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10381728,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1321947807,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3653,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30702,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10543096,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17086037,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,116215,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11078,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1346747,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13265,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,325382983,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,169017825,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,156190,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36344,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1109886115,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2607776920,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,665342,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14163,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,121439,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,421521,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,574501,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22326,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30106,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17459252997,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8081285,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,101713,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,131902483,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,425880772,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,138,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,195,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2135231,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,773,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,129022,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8652,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1165709,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,115181623,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,627644991,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,106334537,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,249716064,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7093306,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,91924,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,962769699,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,64852761,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2989042572,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,898326,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,59997,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,387832638,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17635367,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2647164,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3397429,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11157,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1752989784,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29573507,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,77327,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11289084,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4278016,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,361,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,478077713,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,322695,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1368,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,570052103,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,207756383,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,607584,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1211028,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4286677,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,214016347,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6983262,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24992,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27909143,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17409321,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6130617,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,128160851,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,399011573,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,299750,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3246923,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22185,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,187,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16702184,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,301337,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5941469,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5875230,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2957800,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6843373535,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,94761,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24937,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,92060,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6141,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15911,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,98431553,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,851220,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37147,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,350042192,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10464,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3992318322,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1920,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15391943,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,122,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,116221060,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9193144,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,875625,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16848893,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,128063544,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48263432,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2845744253,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,337207400,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,882,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2478,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,173822960,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,225037252,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1437609122,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,149706,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,203,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,537160,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10858,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,171080,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1044,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1383374,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,113933,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,143737795,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2574726,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,65649185,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5703432,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,229150,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,662642913,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,157481015,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,389318219,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,341468066,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,204064795,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,68414174,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,335286,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1436322712,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,321,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58186,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,338272,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,425497,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10498740669,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,651971606,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,232688,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12491,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,399576675,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,54020,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9218,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,379576,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58842387,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8238775,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,921187923,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,354,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8176,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4967839,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,124590790,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7318342,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20582408,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3855358238,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3626944,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,839,Special Categories,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1013651039,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2407866525,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,43876,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12305671,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,59773,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,123427,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,43445,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,671027,,,0
+H4,2015,2015,2015,0,0,1,Import,208,Denmark,DNK,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1419939,,,0

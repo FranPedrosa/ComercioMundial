@@ -1,0 +1,61 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80621360,,,4
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99357,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,561,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1095200,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,208108,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18366,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,847971,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2865,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,703322,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2020908,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51284,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2824,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,273242,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,255738,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,336,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23966690,,,4
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,547618,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1551,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10490102,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,204,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26104,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,858,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73365,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11072423,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40016,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,207018,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3820,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,119631,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50896,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,218416,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1488,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90601,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4625489,,,4
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1756351,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,179996,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1651389,,,4
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1718,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5822,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2023,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56980,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4086,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18514,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5166,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43716,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84888,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,717,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,614594,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14824,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105003,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1577,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20440,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3216,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,606,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7736,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,277,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10687,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59603,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15943665,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,340191,,,0
+H5,2020,2020,2020,0,0,2,Export,258,French Polynesia,PYF,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2571172,,,0

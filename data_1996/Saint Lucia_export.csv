@@ -1,0 +1,42 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79506648,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,944934,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59522,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37933,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1846432,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,200419,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15998,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110267,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13363,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117325,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94931,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1952,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3931,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6218,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3038211,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6394,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,567669,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1111854,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,650881,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,418511,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20981,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6482,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,238940,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,282691,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84150,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2245,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,264954,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9912,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103263,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,529207,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5684,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,425915,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10993,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120302,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36548,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2305378,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8518,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53797312,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11835952,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98486,,,0
+H0,1996,1996,1996,0,0,2,Export,662,Saint Lucia,LCA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71988,,,0

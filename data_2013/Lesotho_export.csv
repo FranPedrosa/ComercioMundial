@@ -1,0 +1,33 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,349994335,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,309854,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,148828,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16218557,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,971405,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1134305,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9211,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,107598,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,156298,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,79600,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,640,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,633920,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,28260,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,151524,,,0
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,518711,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,80028,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,198213,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,497076,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,131038,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,263141,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,24276,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,172023,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,65024,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,268102611,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22004,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1704,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3211322,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2327923,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,363008,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1020938,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,259809,,,4
+H2,2013,2013,2013,0,0,2,Export,426,Lesotho,LSO,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,52785471,,,4

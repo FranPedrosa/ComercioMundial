@@ -1,0 +1,170 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49918035761,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56828,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54816,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,774,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,471132,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43208616,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168545128,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1536997,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4117852,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15808819,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166221,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,422767218,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98229,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,443487,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17848,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,275370852,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1686989,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,763737,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180826,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3913508,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6926486,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,488068,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,434488,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,351076,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,793442166,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,302326,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8585764,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4087,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36306655,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37131708,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2441058951,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,598613,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5112,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9020929,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27334,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36983,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,409189,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,472955,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3350915,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6031351,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3034766,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1184254,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39918770,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,236900473,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,567258,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2104280,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,307522,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,693453,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,246939,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120844976,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,363000148,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1187345741,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1268065,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3483,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2946358617,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1468314,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41225,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26496,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36182401,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1356,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,312,Guadeloupe,GLP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5379,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1264601,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,472542,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63076,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,890930,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,615904076,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25585320,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1206954,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,737294792,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12943733,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,241945802,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166152828,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1334538057,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3737426,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,563780,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8777469693,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70962,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16567106,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7486229,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,389608,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1243342224,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31059115,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,870613,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21127,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2351327,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,684202,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,314454,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8925789,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,363895,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5656615,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,881955565,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,669,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2719183,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1266079,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81028524,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1769255444,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52843,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30439,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10307902,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11953,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,685854,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11127464,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,620782,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,503398533,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3342597,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30213450,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1148690,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2444699219,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,444587,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4458012,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28399,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28846,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90658637,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22113,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,584,Marshall Isds,MHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4861,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107383478,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,561719,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,822045797,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58375,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24769606,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169226181,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18983016,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50845933,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132090728,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,638,Réunion,REU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2191,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8433446,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13653238,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4670,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2802077,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,396879989,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1172,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60271,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,348780856,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1450653048,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1424093,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,212079062,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17805211,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,744,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,206303969,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12143913,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,287878296,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29637,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2581,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,873905983,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,639011645,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197425,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,623394687,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3222263,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,498780,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,836911,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,403052479,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,191925,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34627786,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1802004,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,662543,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1364059,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4415613,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2948084675,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,910964,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39246122,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10848514026,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2023986,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1222032,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5031,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1784442,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48042364,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,788495,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,176582,,,0
+H0,1994,1994,1994,0,0,1,Import,36,Australia,AUS,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,853803172,,,0

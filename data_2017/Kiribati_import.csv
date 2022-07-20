@@ -1,0 +1,54 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107885470,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,150165,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20713508,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46051,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2903,,,0
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52292,,,0
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,512886,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88,,,0
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2004,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59020,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86837,,,0
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42670,,,0
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10064370,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24757,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2217074,,,0
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27533,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18954233,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97535,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4444,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16132,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69,,,0
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1511918,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1940628,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14707,,,0
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9227704,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1107790,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1052410,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4290259,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,223278,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3767599,,,0
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10448315,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22420,,,0
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9310,,,0
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,606745,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43867,,,0
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,180,,,0
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89352,,,0
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,397148,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7026581,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6555240,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50219,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,473,,,0
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8259,,,0
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,357560,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3151837,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124540,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,266,,,0
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24063,,,0
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40569,,,0
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1207,,,0
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2544251,,,4
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,156361,,,0
+H4,2017,2017,2017,0,0,1,Import,296,Kiribati,KIR,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15815,,,4

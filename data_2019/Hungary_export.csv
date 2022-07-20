@@ -1,0 +1,211 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,122180657695,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4511339,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,98262583,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38882108,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5666,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126960,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2265090,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,401304,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40455204,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47127688,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,561438422,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5642630741,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24896,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8396095,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7856729,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22492288,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4857561,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3043331304,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,880919,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42997,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26320163,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,426372717,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1849208,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,231291510,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1170459,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,345633,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8885161,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1309444069,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3270729,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,112524,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115226958,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1384899,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7975605,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,252770157,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77159,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,357257,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63753,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6480932,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,748244,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79115667,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1666400946,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102132553,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,304,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2222898,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,916726,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81035,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31615729,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2065838930,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1488010,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49223876,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5239907624,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2779871,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,873502418,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,131548,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13350259,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16057278,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1906760,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1339066,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14624193,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108876834,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,256059,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,185905,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,430467477,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5281012382,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2211781,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85846,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,928676,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2077658,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45474746,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,680285,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2339499,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33827808495,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10073022,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1035567,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,564716988,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1833,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,230766,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31554,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3770013,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2487702,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1134383,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,890809,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,555,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2944973,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,330639522,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13440203,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39304844,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34704746,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47815467,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,305083429,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,378012777,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6271731820,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12019248,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10951058,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,699851957,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104424730,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31858652,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9942608,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,378109240,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43085747,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9341598,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,351120,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41565901,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23280,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,214295579,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,872079,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8070135,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,260182438,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,112147895,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,877791,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,726973,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,191413,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,151382797,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,185845,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2239659,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16918935,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1050815,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2286421,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,867594853,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,187271936,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10322115,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107715194,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72249702,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25390,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,182089531,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2502237,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13326948,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,179742,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,573027,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4239196663,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1898849,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,548190,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,131066,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,123239,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3028339,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,94676,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73067275,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,907931,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2215929,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26628922,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,433714,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,197541582,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3085,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,247990,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67870,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22871979,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17857237,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36012,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2815534,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19232350,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41998354,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5175806226,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,617760393,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40846,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46498318,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6174041956,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2026859490,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1421269,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,486483,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17427,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,288684,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26001,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1291023,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1269,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,186591,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,447909,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136875380,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7711249,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1944041437,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,225528,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,338224,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,254483281,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,202526111,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6405978765,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92736597,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1315322870,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,387878,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,223880060,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,356954,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3554374348,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1689172,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,458143,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4347,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1738499608,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1220086183,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14560669,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2175217,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,175750863,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1227786,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7183219,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,228345924,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105545366,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1932614693,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15047323,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8938,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7708308,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2392000341,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,420589033,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,183061225,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4025510627,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2226412,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3419215158,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1485450,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6367251,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84876649,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1564332,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39628,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5763279,,,0
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1473577,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2185694,,,4

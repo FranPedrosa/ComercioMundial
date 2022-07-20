@@ -1,0 +1,91 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6194679351,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17043,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24934759,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2762495,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19232795,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58048,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,261199,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40160,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10613280,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110074,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136721,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123279,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146545,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5465084,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,932935,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1500942,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74183,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24814820,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39372,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59003,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50444,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1353195,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1345386,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37495,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11977961,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201063,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13353233,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103255,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3122253,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10604674,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115093,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43812940,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34368530,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,436802,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37859535,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93553941,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6274043,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,545310,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66438633,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39329333,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4654,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2710477,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86673,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95239,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7404549,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,207468,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,325723,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29971692,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41803,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,833578,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140804120,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2985514,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,579063,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20739439,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31566,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43588538,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6196944,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1269679,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11291548,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7696312,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9676151,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115165,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36283506,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,784666,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,245170069,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49125,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63228021,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16731036,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4759572,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4873779,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1432577,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2181012,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,980708,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5722738,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5948360,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5157132,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41883962,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81383882,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5929894,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29287012,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1910103,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7582679,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10781402,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1097868,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8672749,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,375457101,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4787763,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13479,,,0
+H0,2000,2000,2000,0,0,2,Export,48,Bahrain,BHR,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4489727308,,,0

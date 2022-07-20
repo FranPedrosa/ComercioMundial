@@ -1,0 +1,154 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18146652693,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,103771,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,83950,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4370,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3022124,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,61246548,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13240,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,65787,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4570704,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,87442,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22328,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2086,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38200,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20435,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,812,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,403365357,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5640,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20294,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28803,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17172,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29110264,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,729752,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7941,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,110546,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9116,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6039,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,348455,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5392221,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,136524370,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,741185,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,52258,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8500831,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,823199,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5042,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,257852601,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,68306,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2726462,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2644315,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1300480,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15287,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,142398,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,54671,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,87335964,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13257336,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17110,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,191776,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4341,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4902975,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,252279,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,121950542,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,976987,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1722428973,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21522,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,170533,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3178424,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5993577,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5523375,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,169727667,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5224331,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17554429,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2021,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2542575,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,101271,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,835643,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12956327,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13898889,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18418,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7321099,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8178163,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1041464921,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,486210946,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5249,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,65848830,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3301,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,42098,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4673624,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7881,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13941730,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3920,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7151312,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,101542,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,140838072,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29252,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,362433,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,146571,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4375,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32816,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,139607337,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21565773,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,101100,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3712244,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2632,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22650,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,882817,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9751,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1039305,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,937415,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10733,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26127,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10757,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1511,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,710713505,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,327719,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2152858,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16999899,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,196948316,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25421435,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,233410,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1223,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,341131,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,138611,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6188880,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4006452,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,65839,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,309749,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2469521,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,730071,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16704,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27178,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5604731,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16358086,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21886372,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,722193873,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39253371,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2115,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24612577,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,42147,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3146837832,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13552,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,132578551,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,736,Fmr Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1957715,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28678,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11331913,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,865865127,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,305266,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10003669,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4594009232,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16979,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,993892217,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,859219,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,171181661,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,910659,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,55698336,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7759683,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,355984903,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,322402,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,444851154,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,500570220,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28740,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,88885,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7501,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1251638,,,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,817,,,0

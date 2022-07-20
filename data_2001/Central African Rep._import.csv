@@ -1,0 +1,62 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67981924,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14337,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41999,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3542001,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3038,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8513557,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161080,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,506,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,979302,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,588808,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,496792,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109387,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67737,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13155,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,286582,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15035,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27263456,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,701995,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1120183,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9690,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75302,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134912,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1290179,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,620448,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6865000,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74401,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31754,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133389,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,394832,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51599,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,473,"LAIA, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50780,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9919,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30900,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87838,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,631671,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,872699,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10599,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34711,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17010,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,465879,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2401,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134706,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5956,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41992,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60360,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48169,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,627477,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32406,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,334838,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78162,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140029,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,392213,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50667,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33300,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67390,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2278,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43193,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,516279,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1461232,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1438,,,0
+H0,2001,2001,2001,0,0,1,Import,140,Central African Rep.,CAF,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8094976,,,0

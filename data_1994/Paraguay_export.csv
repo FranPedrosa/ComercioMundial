@@ -1,0 +1,81 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,816832448,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90697728,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27199,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111811,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,186472,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1249636,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18652350,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3124419,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,323697632,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2970500,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,974611,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2826000,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32787720,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,783995,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102906,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28000,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74199,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25625,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,200811,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1231282,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,470733,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38710,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44315,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12199607,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2063,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13242868,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62628,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31549,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,474036,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39733,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2733630,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84292,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71817,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,780548,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5217556,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24227052,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188955,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1035712,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39899,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17300,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,279677,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,284105,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,231449,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7672,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3887006,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8993522,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,420656,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160042096,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82608,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25924,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,364492,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1199,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10000,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60637,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,494356,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28449,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79070,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4317839,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,684740,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,601347,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27658,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,374952,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119135,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16542,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1578636,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5574201,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36488,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10867559,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14615,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4211,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57656,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1679508,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58836,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,224490,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4687759,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57114724,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7358,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10446028,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2188067,,,0
+H0,1994,1994,1994,0,0,2,Export,600,Paraguay,PRY,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101298,,,0

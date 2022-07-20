@@ -1,0 +1,131 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13830314124,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45725,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7161,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,113861,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,114668445,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13385670,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15969234,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,102713090,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,429127,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9989,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,100907547,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,146355,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,232906587,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7109740,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15227,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,806845,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,86,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1396500,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,103866832,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1408299,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,93924541,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,983652450,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,393961491,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10514,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,427685823,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24196,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1449660,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1106,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,822997,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8677842,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12095,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39492284,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,178338924,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,675571696,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,181034,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,247,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,47158325,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17459469,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,63436913,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17849,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,424101,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,344,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,245679221,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1397409,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,40017,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2876,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1302,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25093,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5637,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,324,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,307000074,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,144710551,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,155240,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1315,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15891392,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,120477,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6273737,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27582917,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,84255560,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,532960,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,221307,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,276585846,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,391838,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1613,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,285604,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,387705889,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2281,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23040,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16141772,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,73877,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4683566,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,553632,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,99816,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20146,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26313693,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14772,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1542537717,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,93340046,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,589,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,190,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,66595,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,710479,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,577,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,83364743,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,530,Neth. Antilles,ANT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,159022073,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15560653,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,82303152,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,42019009,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,70909315,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13506960,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,438372989,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1201336,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,67439847,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1990219,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,963,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1962430,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2173951,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10480779,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,71035835,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4290,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16312247,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,215560,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,133002,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,142077691,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27298927,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,242030,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13297864,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3038143,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,151422165,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,736,Fmr Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,272511,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,40945,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1020384,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,41268302,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34950607,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,77850,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,94750627,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12448171,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6981683,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,290539,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18481533,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16302665,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7967,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1926004,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,46053080,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22500,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5125631524,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,57026554,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7148426,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6983,,,0
+H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,138557888,,,0

@@ -1,0 +1,145 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28507455998,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3505,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,620148,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,462618,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91771,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1145888,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158707741,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,241119606,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4855606,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2819,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,463265690,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2770805,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,315802650,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1505,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1739,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1797,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,813637482,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15472,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20546474,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3773963,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3443,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1278790,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34272080,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108412447,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6960332,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2004231073,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1184988,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61854,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,155110,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2849222,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1223836,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1505321,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100864820,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108176,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10013,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1797674,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,879682,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12451478,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,159844674,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38980308,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64884,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,191869,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,93,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1799711,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,493697625,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2905770,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8466142,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136215,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1297534,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6213,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1328010,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18476697,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,347550,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10465,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,184842597,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,218346474,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144647745,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32577911,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,392604094,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,706683,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1360246720,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64179,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64042015,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19696052,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76743,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,610501261,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136713652,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,920,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37785793,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2628730,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,399261,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3104891,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,340915472,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1326,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1634335,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,181502246,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6764,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1064327,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1769960,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,270197,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17412544,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47737634,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17506115,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,691284,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70091,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8348,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,330736779,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2600,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48577985,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,389534,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108725,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2577,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5902064,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,886738,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,262763547,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6569,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4938,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96012,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6471734,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13852193,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15207340,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11625887,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2213,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1421070626,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14263795,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,209453432,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,821,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1053,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1393972691,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38215,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1942,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19024,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1887364774,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144541204,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,233739,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41487590,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24052583,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,179188652,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31756168,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157247395,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14736318,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56611505,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86189630,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3929253,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46894,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,361317244,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3495,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6530,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10489756475,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6022647,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,484483311,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,224340,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53921813,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5641,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144101407,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,259235521,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14374869,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,838,Free Zones,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,537485171,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,684566903,,,4
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,873724,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5570,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23817,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,255993339,,,0
+H5,2020,2020,2020,0,0,1,Import,512,Oman,OMN,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1633,,,0

@@ -1,0 +1,69 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,701860800,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34578,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,370073,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23610172,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57930812,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27650728,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25216924,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122533,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17076,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2534,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19461,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2428,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26848,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1772082,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1408,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,385417,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,325379,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7776448,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53077568,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1022662,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109303,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24009944,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72566,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8389752,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2212904,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24151,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4452,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95468,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3238,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82430688,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1253,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33841424,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3425821,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3650786,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1518,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90802,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23999,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58634,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,144538,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,387620,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,368830,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,623126,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3730,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3454552,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7824466,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,536,Neutral Zone,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7334373,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24524,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71793,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1518,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72450,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32526,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12343496,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30221328,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,916620,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,118129,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66649,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37177,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4926,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84499624,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19189664,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39184,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1518,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,339065,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21547406,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,151125712,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11334,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3224124,,,0
+H0,1995,1995,1995,0,0,2,Export,324,Guinea,GIN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18962,,,0

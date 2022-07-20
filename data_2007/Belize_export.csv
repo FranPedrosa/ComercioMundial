@@ -1,0 +1,62 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,266633572,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24883,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31102,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19956,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1780962,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3290,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197190,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48317,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,371049,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99488,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26987,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70188,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,500,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31537386,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53112,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2777,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93822,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5337250,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2864801,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5107797,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,762178,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,530956,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125301,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1080069,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1252794,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96782,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7195,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17993,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51617,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5718446,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1957132,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152706,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20051,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30263,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6608691,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30263,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20694905,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,305338,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26606,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140628,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38071785,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7707867,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20530,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14367,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,416117,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1223,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1665520,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37353,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11835,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36283,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10657668,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,222228,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4977,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18866,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47990040,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71434630,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43442,,,0
+H2,2007,2007,2007,0,0,2,Export,84,Belize,BLZ,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,997709,,,0

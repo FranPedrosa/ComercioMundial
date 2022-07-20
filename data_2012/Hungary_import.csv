@@ -1,0 +1,162 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,94300664567,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1699,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1296682,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10374519,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9268,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,803500,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15742436,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23589420,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6635435531,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1879650,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,86888,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1597945,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,774857,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48499,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2006388692,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,169,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22595,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,93563866,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,162735041,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,174140,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,255543532,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,73572235,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,505213,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,280301,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,679371255,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,200,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,585,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8710925,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7541432,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5412282799,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27513861,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1914,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2014,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1646158,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,440737566,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45201,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58762630,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3353003700,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26933,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,550948581,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5931,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,107072,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,342258,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26714,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1460422,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27020927,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2671,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3917,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,500924150,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3404552005,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1218,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,378028,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,280557,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23192912486,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35820,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,87534785,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,51984,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1360,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,943,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,726080,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,787731859,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2063560,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,66469580,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3662153,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38045,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,515230434,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,168887176,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4166263099,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,718190,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3900,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1271524546,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,89163527,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1409218,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,478491,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,157,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1451726238,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18942028,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17094,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,417415,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31776886,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2500,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,117645243,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,102950717,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4983083,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18320,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,364367,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,326451804,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1402,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19872,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17588772,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7446334,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,499138437,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1176533212,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5047,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27497236,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,67975570,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4902834,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10216024,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16276702,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,87872,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,272510,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3784434266,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,40,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10712314,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,850,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,400,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32198,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20775922,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12354656,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35041,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3000,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6077,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2231736,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,161000043,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4397463400,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,218598020,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1042,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9039727,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2637118919,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8283260028,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,531829,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2121484,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6235,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,457771066,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,914754,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,363881003,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,583517900,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5331190380,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,44630786,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1007448370,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18178480,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,466506,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1124961129,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26844,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,311,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11748251,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1023569790,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,637630744,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,976685,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1344365,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,293178869,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2725,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23353007,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22607372,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,514383794,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1130318,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1564639349,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10955347,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10917732,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1789767224,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,203021,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1902610524,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,119,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18808773,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1812772,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12491,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,666,,,0
+H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2600,,,0

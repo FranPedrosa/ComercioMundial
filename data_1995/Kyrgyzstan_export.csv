@@ -1,0 +1,52 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,412041280,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2998193,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2132791,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1199,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1718699,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38200,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,217298,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2852896,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5033878,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1408400,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68460960,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1418499,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1176699,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1699,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86698,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49498,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3633200,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,689493,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2066289,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14400,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,176999,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4140791,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16300,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2924995,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,569097,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67230784,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,514400,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,808298,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2253297,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,427497,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,891198,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,978193,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,860397,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,604695,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1343200,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155199,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106566080,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24300,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,520796,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,840399,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1766199,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8262250,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79796,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3217881,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2216491,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8342367,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79098,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27369998,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4008799,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70821312,,,0
+H0,1995,1995,1995,0,0,2,Export,417,Kyrgyzstan,KGZ,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31200,,,0

@@ -1,0 +1,228 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,94729013059,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7934428,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6630909,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,343328,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79488527,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,677825,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1083934,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13462119,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1396150,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21480437,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118993578,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,937800799,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,588875254,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11817869,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28712957,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59781014,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4294728,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2984288,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1438825262,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2841212,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,451343,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15605216,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12680799,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,377626,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,354234324,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5338387,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78338,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,246114,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1858454,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1614067,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,93321125,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5516319,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1202360,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46401554,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,120097854,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4216675,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,435432308,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2111604,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2849222,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3388114,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29497054,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2720744,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,213863032,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3348235815,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69262097,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96880,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9778453,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3612816,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,506,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18221693,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96685749,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13452683,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41380511,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,573445420,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1823538,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,652335,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81669079,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19037772,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10162570,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,922022,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17272245,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1790871,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,272515251,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,486382378,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133336,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1672566,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2042110602,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2854168473,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2954413,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1313332,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7208425,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3184474,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16280201,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2641625,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4077754,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14172499174,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36840725,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3867490,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,874621,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,399076251,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,468558519,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1070439,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5350024,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9971807,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9240758,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1879721,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2785016,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6862563,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,492362054,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,549561491,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,485682881,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,116845159,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,148057713,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35035280,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,974821102,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146522814,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2218578529,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6647985,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5991329,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1506378387,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23073635,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52836668,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27437024,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2342578,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,666886816,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72506914,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6733656,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1386129,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105432331,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79457,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,264179503,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4773231,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30158575,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,415005091,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56382312,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3360507,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4115167,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3235529,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,178945301,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8224867,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7655019,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60532631,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3546069,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14504712,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,433857213,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,322488591,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3147052,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10024382,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1816359,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68093393,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12730163,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108450688,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9609647,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32592,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3581580,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4992015126,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4389535,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1213601,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1023042,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32687,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6854045,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9875,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109312653,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3428973,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3740181,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84960195,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,365396085,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1269925,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5887766190,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147957,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99732,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38397,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9227115,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34860,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,98753599,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68190492,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8379216,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5946986,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48933557,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,113551298,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2547330816,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,241290972,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,622496,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,391461,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77169921,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,217070679,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,738923709,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1543650,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7023,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5030,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,988389,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,172736,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,512083,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4270,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1745736,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2178794,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,263674,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,584662088,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8803346,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129719543,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3506554,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2604701,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,336292855,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,463754469,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,201863006,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,420812683,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81995207,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2083500,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,304138016,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3640892,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1806351147,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4513860,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10511486,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49249,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1467356,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,269463,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10585877539,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,798494053,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6820335,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,756269,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,241278490,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3710649,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60513,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114333,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7003225,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,420636300,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15102613,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,799448388,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4403181,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36692,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9764773,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,220129331,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12322914,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,251315489,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5623812460,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11636557,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,839,Special Categories,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11100894585,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4654490936,,,4
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3678870,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63185389,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9892150,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13161048,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17912,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,242564,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41632835,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2224310,,,0
+H4,2016,2016,2016,0,0,2,Export,208,Denmark,DNK,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,339691710,,,0

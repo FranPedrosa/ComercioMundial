@@ -1,0 +1,43 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,388319808,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11568287,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3260,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6398,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8545,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25071,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16343,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15928,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4613,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,141936832,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10437,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4265,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22609,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,346664,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16813,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1114,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60020,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9193801,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5884,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10248884,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70401,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7272701,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2468933,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39831,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2483,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1149,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2106,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65951,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195000384,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,977,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4724,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11452,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26196,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1196,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3211,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7130,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1240432,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1079818,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57754,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103570,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5085569,,,0
+H0,1996,1996,1996,0,0,2,Export,562,Niger,NER,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2278086,,,0

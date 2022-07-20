@@ -1,0 +1,166 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8413439462,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,100999,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,177610,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,55188,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,76585,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,199136,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,54083,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50317,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1428539,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15953901,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5841488,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2424829,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,57193645,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23005074,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,67322,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2627016,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23822904,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26347,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14426,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,718307,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13040545,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1061866,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27515516,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1121,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34143,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1555976,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,250144,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,194262,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1952243,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1915008161,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,71604,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15244,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7858,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,634,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,350868,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,434169,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13282391,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3676730,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3161,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10998750,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,713861,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50062,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,88231195,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15650,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35912508,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4974218,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,69413,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,51149,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6573306,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,78521982,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1602985,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,167783,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,158348173,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33319,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4628982,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12500,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5466272,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,55080,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3278,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4727098,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2696567,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12796243,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,674341,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16424,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,126688746,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27299318,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8265934,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,128831808,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50435,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1011104,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,427539410,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,726562,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,722317412,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,54373784,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,63954,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,187918845,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17494221,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,232500,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11471996,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1475348,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,671912,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,361653,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,151969,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,542132,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,42598154,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,138006,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5342610,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,377,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,301970,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,49000491,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,93303,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13819,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5209449,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14448785,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3102054,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17193,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38983,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,77079934,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,118684498,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,127322,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,127266711,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,394433,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2283180,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2815009,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4321,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,107197857,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,162,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,428760,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20975,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1900826,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5571791,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4950242,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18609205,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5647641,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,103511342,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1955158,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1002822,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1524013,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,54874,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,181401,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19223722,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,144488,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,397991967,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,881454,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36372,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,980,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,717668805,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36819638,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1422237,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13576458,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1810384,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3883,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15864218,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19380215,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36264852,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1043,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,122437,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,626795,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19128446,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,77608475,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27046013,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4345825,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,334115326,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48313,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,80203,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20114,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,469004008,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11813953,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,375275718,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,312497,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,43446826,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,124391673,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38728,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,545628809,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,110920234,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,163270,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,51215486,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27095,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,868056,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39780,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,118627,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1956,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,208543,,,0
+H3,2015,2015,2015,0,0,1,Import,729,Sudan,SDN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7089299,,,0

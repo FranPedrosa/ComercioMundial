@@ -1,0 +1,125 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5518813696,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,328738,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95370,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1370097,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1241547,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2524940,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88514,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,739628,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23422,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13752227,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,285695,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,273521,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14568849,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8892,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1846,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77953,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1461,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84341,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75162,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1119476,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1617553,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3225990,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43693,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89737,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,482739360,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129388,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,132379,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66318,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,715,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23230,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,662419,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,282229,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9102,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,825923,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7802,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9191843,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2638424,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39297,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10168844,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,331097,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1137774,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,294191,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,520,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16720,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23322288,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,178498,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160336480,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3059582,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5881250,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123749,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1242788,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,990245568,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12069422,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23815078,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35646124,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,754269824,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19193350,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13732,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2168819,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112094,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4894575,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13003,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,319604,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,336194,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19817,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,527417,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65539,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160816,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34430,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2966774,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,625097,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30449,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33354,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2678,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16089705,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98294,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,520,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,144043,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7649623,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,253958,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5006173,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3901,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10403,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,208764656,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56692,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,315861,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16341514,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52859,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8791366,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,748346,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101075696,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,469667,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,845,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128842,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53014064,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25241612,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39269,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6501,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,717005,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2000320,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,520,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1391232,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5819935,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,567715,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3340607,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3319810,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,299356,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,977211008,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42000,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,746113088,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3600515,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70033,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2061079,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,359345,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2548718,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24527884,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53720036,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63167884,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86843232,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,235679,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17425,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136425232,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24287516,,,0
+H0,1998,1998,1998,0,0,2,Export,512,Oman,OMN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,343777536,,,0

@@ -1,0 +1,163 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2546668712,,,4
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,517,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,179,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,188,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12964,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57128,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,219,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,246,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3791,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2878331,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1539295,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18547,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8567126,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,405760,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58965573,,,4
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12031,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5005,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41579,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3172468,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5370,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7700601,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102235,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2189869,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10694,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5013842,,,4
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,318756,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68704,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55602,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8859716,,,4
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,297,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39473,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,565937,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44591,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,445756177,,,4
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2660,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,216949,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36982,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7618200,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2352,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78540,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2393,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,295581,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1850466,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2304,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7141980,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2042,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,583986,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,672887,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,944,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,521506,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9208186,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28429519,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,116742,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64973,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,437415,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88905806,,,4
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,185643,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,161477,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13233,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64511,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1702,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9036,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,740,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14759401,,,4
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,513360,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25041,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20488706,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3083553,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2160096,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12473990,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31197618,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82511,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3120,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81044207,,,4
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41111,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,654298,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,145657846,,,4
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1080958,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31400973,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111060,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,880131,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,267,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1625213,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,537703,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1868137,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,516455,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,403007,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3958993,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35194358,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,294883,,,4
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,236671,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1010665,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8739558,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,568176,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10914202,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,436,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2685337,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,734943,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1223218,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,243561,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8225,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29811878,,,4
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56687,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,142828,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6848,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,926821,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45239,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,560744,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5276888,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62367471,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,592060,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6749050,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4722785,,,4
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1221179,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108005,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28825913,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,300,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1154,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31488366,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,153333,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2907020,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17432,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14459,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,309179665,,,4
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15787413,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5569,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1005609,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,522298,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56955830,,,4
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,479909,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4057816,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2691,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,316907,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70581,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3499362,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16240990,,,4
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39149299,,,4
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4268,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22601389,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,156402,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7714,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1196,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,307962297,,,4
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2697636,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71705952,,,4
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,630452,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,181773560,,,4
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3636600,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,886,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27392683,,,4
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19713678,,,4
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78129169,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59499276,,,4
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15146,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2654188,,,0
+H4,2016,2016,2016,0,0,1,Import,646,Rwanda,RWA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35351912,,,0

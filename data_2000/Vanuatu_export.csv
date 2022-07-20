@@ -1,0 +1,46 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23327961,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1405874,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1045,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5007014,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,305458,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,498622,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,363,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,233368,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,660,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1345046,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1125,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,402831,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,275066,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,804378,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105349,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76110,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5247,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38157,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1370431,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78933,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4354,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173629,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2805775,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,231336,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,203738,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,351097,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,575335,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,537,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,692280,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9267,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1363958,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,750967,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,585125,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2126,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5457,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,382367,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121807,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136263,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34811,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2384548,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,483274,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74427,,,0
+H1,2000,2000,2000,0,0,2,Export,548,Vanuatu,VUT,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94,,,0

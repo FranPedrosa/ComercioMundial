@@ -1,0 +1,69 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1123429439,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1085133,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,304478,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,718668,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,433542,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103101100,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1170095,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9871,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1373482,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34155,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22135,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6142060,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6098150,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27556760,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12713,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20631,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,417472,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10920,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53337953,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14022836,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2138,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,952,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,693050,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4736,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2911467,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,200851,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1048789,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,886069,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15038,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9984,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96520549,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1538329,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201079,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23305384,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75509338,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48364,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6519656,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14856,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110932,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66248680,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13296,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8837,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41545,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65984,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,583,FS Micronesia,FSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1693,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25028020,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27674,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124916,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1646470,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14891,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1239884,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128375747,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14700,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8770,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41434610,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73376723,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21783,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47582525,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34158636,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7361823,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,425489,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,482130,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102085693,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,162442245,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,660378,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5074213,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5013,,,0
+H1,1997,1997,1997,0,0,2,Export,894,Zambia,ZMB,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43356,,,0

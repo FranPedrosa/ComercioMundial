@@ -1,0 +1,36 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,279594271,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21489675,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,289946,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14408641,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,949,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55322,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23582,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,628986,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11913,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8289,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,784,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,942,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30460,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13821,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1372,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53715,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8909,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7316,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161704,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22655,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150789,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2259,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1729,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156977,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148300896,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197557,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12676,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8517,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4380,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4760,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1153,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,244421,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12194,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93271247,,,0
+H0,2001,2001,2001,0,0,2,Export,426,Lesotho,LSO,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5734,,,0

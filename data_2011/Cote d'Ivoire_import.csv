@@ -1,0 +1,158 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6711111220,,,4
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58401,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10584850,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3846091,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23557281,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19375092,,,4
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8095779,,,4
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79654,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3464346,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7742,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81811542,,,4
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44421,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66624,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61473,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87351020,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8710045,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1104829,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59800442,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16395890,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,834921,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2236545,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20659147,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1033037,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5424658,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2258227,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,459935354,,,4
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,258497491,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21758492,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,526165,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,477791,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7138417,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64602,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105468,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9085451,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9550050,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11432544,,,4
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,383803,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,172441,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13486,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32334750,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35545,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,234656,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1583683,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7849,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6607695,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,790065643,,,4
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1841768,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99356,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,211347,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,183446787,,,4
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20616459,,,4
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,476,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10678126,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14672,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16563909,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2493,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,731,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1044807,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5414206,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144603,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27211672,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11632278,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28612265,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5911707,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,155363847,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,138460208,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66372,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2488618,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1971924,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3180339,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88210869,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4710040,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,617532,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,244159,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15775202,,,4
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6208,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,609614,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37225287,,,4
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23292,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,181122,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1742802,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20459,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1190,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9095982,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67895225,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,380068,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3730,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,177759972,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2084625,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3581710,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17317085,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,648487,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62247716,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1517924,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34316,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55449,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,135250611,,,4
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,533,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9328794,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,919761,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1568412735,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4063494,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,93008622,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,291186,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1072536,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5859614,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21790805,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26869821,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1531081,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,156,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13264464,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8223378,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8882170,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10539,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84688,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38116468,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67264339,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6408,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6724,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,538560,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,178881194,,,4
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12363395,,,4
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3668898,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,199299898,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,460688,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84123249,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17749,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149977893,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,736,Fmr Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3710876,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96865,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37865006,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48161517,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2038602,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,346792140,,,4
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5587335,,,4
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8151835,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21539836,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22323099,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60586677,,,4
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5446,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2693110,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40034087,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39894,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23502398,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73497309,,,4
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2640868,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128048635,,,4
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4040328,,,4
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7936682,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,947820,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,301893,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,266350,,,0
+H3,2011,2011,2011,0,0,1,Import,384,Côte d'Ivoire,CIV,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,162869289,,,4

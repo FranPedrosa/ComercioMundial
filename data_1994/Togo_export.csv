@@ -1,0 +1,65 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161734576,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25125,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3300191,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3319752,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12326971,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1558733,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106616,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27430580,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19942,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81962,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5854,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95308,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1894,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4252637,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1157485,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8057131,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,681,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,501096,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80830,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2629171,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3452521,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2123237,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62258,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17960,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9154359,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,486042,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68639,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2501188,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112418,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1149,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,215862,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10416,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17067,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1444198,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,410222,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8082,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49807,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1601707,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21663598,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2787634,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5813904,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,638614,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6215877,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53880,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8754185,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4023550,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2912467,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1346,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47512,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81302,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2931491,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112117,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3539652,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1571915,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,226721,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,683837,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5153013,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8237,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32986,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1183953,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181031,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3777508,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,800201,,,0
+H0,1994,1994,1994,0,0,2,Export,768,Togo,TGO,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1848954,,,0

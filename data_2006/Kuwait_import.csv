@@ -1,0 +1,175 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17239735172,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26913,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152774,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3099914,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,574448,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7547,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1324,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3558,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59335170,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,449413902,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148094746,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111285033,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19158699,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20417,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126239597,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1958,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95253,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,383773,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28278,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154267172,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48419,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7568222,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4723875,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,202318,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1936330,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,480395,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,169076122,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3810,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,645,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24227834,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,260684,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13828474,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1594018204,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2242768,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,172,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35142,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,979,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1794923,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1762690,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,276591,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10666198,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47666413,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54108,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57494859,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,191347,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,403043,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1421258,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46799,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,544081,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90592,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1046138,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2220,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127114243,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,414497764,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,690,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69195,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17628,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1211590,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1302971261,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73988,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,210,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15737091,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3274298,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1200,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,416361,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3910,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,211875,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25824158,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71189900,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,187358,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131175420,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,333356356,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73112,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121150655,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,735127809,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1488981,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73998,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1377954927,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24379,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70985176,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1098040,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,751695575,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,198401,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,240787782,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1886,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1545909,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2193,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8171,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3632473,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5622397,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1549443,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,891864,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2338,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201495041,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26637,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1724,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3277343,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67113,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1866586,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68249056,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,146411591,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63510,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,182835,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16359848,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20141,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72103967,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72695,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102590,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,527,"Oceania, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41107,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,240427977,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50209769,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19293,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,414189,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7490811,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,586,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13555888,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8957,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87086785,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,338312,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,655676,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1409874,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82391759,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45316891,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30708372,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14616910,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,637,"North America and Central America, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3965,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47781804,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63800103,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5513,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,674,San Marino,SMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,249675,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1368960311,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12784,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1459975,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4585,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,733901,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,750714246,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92109082,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32510435,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34215825,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5921136,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14755997,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40364275,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107565,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,197138897,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1749968,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180053,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128212473,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,208762783,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76687190,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4620,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,244500852,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,183,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5937,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,901613418,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5621856,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,271759683,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90064,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4079,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65982333,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,507977,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,173769399,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,637515314,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,252368,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11738483,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1940101695,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1817726,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,982390,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,289541,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21693,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2098572,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67604275,,,0
+H2,2006,2006,2006,0,0,1,Import,414,Kuwait,KWT,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6460184,,,0

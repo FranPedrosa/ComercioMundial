@@ -1,0 +1,201 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,95066801050,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31924,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,171247,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,246454,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125619,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20677,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20806190,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89531,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,240476788,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,873673270,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137694567,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1541,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21077039,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58856317,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14590,,,0
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14662,,,0
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,452776478,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,201891,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5548551,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,225,,,0
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,837063571,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,176,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6192149,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83716,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,174483823,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127900175,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,120079815,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2778967,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31823297,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106268,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,542121385,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,364,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3446,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9726409,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3000,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38359281,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22010082834,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,278893,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,229737,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7813716,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18640,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17755322,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11900812,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2288617,,,0
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1632362,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97301777,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,174317354,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54977,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31184943,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18546593,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,227810,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1387737,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,569027,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1135,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1857839,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,628856,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,31350,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2763714,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,153068003,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,669394523,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19655,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1322,,,0
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18055,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5992507,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1093426,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9963,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2066816140,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1014464,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,35506,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11741254,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13822135,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17646,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12600,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1171433,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6228317,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,6580,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,311242,,,0
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1210,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,31954,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2291571,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2921321285,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20130551,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,277802,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6120013314,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,194011,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30226,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,216418568,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,198636118,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,653550186,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,235090,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,198750,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9218887144,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2977,,,0
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8481111,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5890363,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7242704671,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,484295092,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,435,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4689172,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128435,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59641,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,923422,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30424,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8779030,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22609722,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15861965,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57411,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1192793,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4239336904,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,203438,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73222217,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14772809,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,113761843,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4929186538,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,249035,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1034942,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,137,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9385628,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1003845,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21115056,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27092861,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,592,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,593844479,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,827543,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31495,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5091969,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,448586816,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28860,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29553,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111757905,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,406705,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42508670,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91981,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,242237,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16497379,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5441664,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4198,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108649522,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1012685,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147355952,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,457841,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56105783,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124399418,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10726218,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,137,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,206435861,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127198087,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,862280464,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3456,,,0
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,662,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,52,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147853,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,484,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136678,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,589463885,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,925645,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1237458,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,691854,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,139557,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1723043853,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5888314163,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1834932,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3337764288,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22646722,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35784,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55944074,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,980602,,,0
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,437318442,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,418893,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89641,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8455,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,185213578,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,337233044,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79356,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,412,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5173132386,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13065458,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5861,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3402,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3073,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,464216666,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2820261,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107591013,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27049,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3872234,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30134,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,203439897,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,130903,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6553325,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,589296900,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1187183,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7404080104,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3788,,,0
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46372884,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4048224,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,716543,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10343,,,0
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1639,,,4
+H5,2020,2020,2020,0,0,1,Import,608,Philippines,PHL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11910,,,4

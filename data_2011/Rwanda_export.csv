@@ -1,0 +1,100 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,400075916,,,4
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2183,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8037,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3655,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39557,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3584700,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,231284,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,453262,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2699,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46817233,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1234,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2000,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34716,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8494693,,,4
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89753,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,167231,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1760,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3756,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9963,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17541202,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,194128,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44619509,,,4
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20200,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16287,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24611,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5934,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,518249,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,177299,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36152,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61677,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47504255,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,641,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21612,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6788,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2509260,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,171723,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24576,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128481,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3395313,,,4
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14754418,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18113,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7893,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96169,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3316729,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30517,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,451538,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1052691,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1399,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,181069,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62921441,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,581130,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133700,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,196299,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5080,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1654298,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8413,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43903,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4389429,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2123,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1744,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18807,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68065,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17504,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11169,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1009431,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22644,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,693,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7677,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,486140,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2966,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84572,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,596,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,167456,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45268,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4982,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111607,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,93773,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,434084,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88937,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,737100,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1064099,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1064301,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11521,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,641305,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,736,Fmr Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10212748,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,155657,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,534790,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75463753,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4993,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3229260,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37240,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7072236,,,4
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4984,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53634,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17360204,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1544416,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9949377,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1444644,,,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39526,,,0

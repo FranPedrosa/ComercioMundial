@@ -1,0 +1,220 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2263370504301,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,541205985,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,454033529,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6784746250,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1270964,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2257453225,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44869624,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,386971460,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9067210848,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41438227660,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2527128524,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,278492711,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,902519415,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15169021003,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,143851698,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107797967,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15738121286,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,132024205,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6238154,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,729173078,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78816751,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,232699710,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,28950538235,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87246990,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92581912,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,11844073,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,637592774,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1169047355,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8948464266,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45252632,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,933361512,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4783198403,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1388611486,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31375454689,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69239870,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,256971751,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12962438,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4087995801,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115364034,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14409849164,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7439749642,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,67758298,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,497835733,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,969983161,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7419090,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1495083265,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1159640718,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1357042195,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,524306881,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8792969695,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1926508591,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6511017642,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49128139,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1702948057,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2963208185,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,772552245,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,166217956,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2664554880,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42947305,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1006352315,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2069693,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,365495101,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2845701253,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27963501958,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62398195,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2175409974,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,446190755,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,912618656,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,398652570,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69058497,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71134400096,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4824797038,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3969239,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15398399,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4751381411,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2493065,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10699750,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1959399855,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1239956655,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,188638049,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,532573667,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83676,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,844819930,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,279210546471,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6049345107,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111826411,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34757384544,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18584814804,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8330414675,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2912629195,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8918466720,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29199961821,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1692544965,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,516573649,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137258933310,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11564442930,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2803608942,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5034650207,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3245097511,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102703776594,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3112773877,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5336808026,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1419351176,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2010610880,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61300650,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1148242366,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2103670654,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1027969894,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1600274355,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,700940270,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3168949080,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1007487260,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,261944326,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41712282701,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,295626356,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,337247558,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2095942391,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,473,"LAIA, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1468945,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,859154381,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,762149251,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35905386995,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43983206347,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1235611572,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97915867,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,132455707,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,220992,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3176226241,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1306746135,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2316452581,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,272141118,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,422802,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,966954543,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67131666962,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74013418,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24302076,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1117439,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85329849,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65585242,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5100102859,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,624142254,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97876055,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12153161394,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8008,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2230313,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11369664,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2488990846,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26286988,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3096407943,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16833960,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18250788585,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6626968671,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,774994301,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1560563591,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6958865007,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32065932447,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17873049958,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3445214944,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33724346,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,132596622,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1682329963,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,637,"North America and Central America, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,470599,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3777960251,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42830599817,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128668606,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8689273,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,15917229,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40309,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42090231,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5552452,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6901858,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18375008211,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2040713466,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,545639029,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48824200,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,242430892,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68042252505,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45019300478,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2729478548,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71617248156,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2886929825,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,473500499,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14808766628,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,443819338,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22918279284,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,51942094,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2221759883,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1785424,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,177548596,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34227955,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7025726412,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3206730094,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1102814096,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1301374985,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38541726588,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1886345956,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27942465,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,429891127,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28723965341,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1327986910,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,18121507516,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,368116552,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2714649,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18346663,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,777367201,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5040644515,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78041448,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9485643131,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,56713517329,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3119554166,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,430328146524,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,183049294,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2151523503,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2749423215,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1746405111,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,304338,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63880532,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1643037967,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,709467936,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17173336,,,0

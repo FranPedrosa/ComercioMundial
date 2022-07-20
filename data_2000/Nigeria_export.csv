@@ -1,0 +1,69 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27080017684,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4264522,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,147261544,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175072,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1977,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,217265,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,667025817,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,246223504,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,615388215,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1918,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1841248,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,280624805,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140334660,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,363395,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6313299,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1867,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5663933,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1657279003,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3135,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46491,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112103413,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262256597,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17501,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12121672,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,243689,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,606436843,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,242410,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62509,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1117415203,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,842270853,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108582849,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26632,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31641775,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,230674171,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149483,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1218036,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27926,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9224,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4681644,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,342916641,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,412242,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26836773,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,253605058,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,233340,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,388081,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30751,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4533127,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13255,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67131548,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,686750946,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,246843890,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3920261476,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15042288,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,266433561,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2346303740,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29981319,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105039,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2468788,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10510,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6742332,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11499763172,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,453618,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48220588,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,135642682,,,0
+H1,2000,2000,2000,0,0,2,Export,566,Nigeria,NGA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75678721,,,0

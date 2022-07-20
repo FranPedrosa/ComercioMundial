@@ -1,0 +1,43 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,726980000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3862000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1697000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2286000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,329000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3619000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5894000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11961000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,189000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4757000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11541000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1375000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23806000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24079000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10595000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1107000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,215000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24123000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36788000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1129000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,950000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,669000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,240000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3797000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17085000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4759000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8020000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65726000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23703000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4830000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,213168000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30700000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23659000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9902000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4239000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6833000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5234000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26515000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49900000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,352000,,,0
+H0,1995,1995,1995,0,0,1,Import,508,Mozambique,MOZ,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57204000,,,0

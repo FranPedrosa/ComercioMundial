@@ -1,0 +1,10 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2014,2014,2014,0,0,1,Import,4,Afghanistan,AFG,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7697178170,,,0
+H2,2014,2014,2014,0,0,1,Import,4,Afghanistan,AFG,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1038198468,,,0
+H2,2014,2014,2014,0,0,1,Import,4,Afghanistan,AFG,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53230942,,,0
+H2,2014,2014,2014,0,0,1,Import,4,Afghanistan,AFG,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1497079740,,,0
+H2,2014,2014,2014,0,0,1,Import,4,Afghanistan,AFG,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,258847983,,,0
+H2,2014,2014,2014,0,0,1,Import,4,Afghanistan,AFG,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1327930936,,,0
+H2,2014,2014,2014,0,0,1,Import,4,Afghanistan,AFG,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107664176,,,0
+H2,2014,2014,2014,0,0,1,Import,4,Afghanistan,AFG,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6095647,,,0
+H2,2014,2014,2014,0,0,1,Import,4,Afghanistan,AFG,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3408130278,,,0

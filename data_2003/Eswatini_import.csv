@@ -1,0 +1,42 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1457472194,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2562038,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1235599,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1701876,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14310148,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,462,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21794225,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17395,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1206500,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,356276,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,187311,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1621274,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83081,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13397324,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7434925,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20531,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11509,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4310,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,271915,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12486054,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1216505,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166056,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,296215,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1317,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90496217,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,794521,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37986152,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1666535,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1052143,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,561312,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,543897,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10520274,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,413054,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12318512,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1199340926,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,996967,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2085523,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3970251,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,716137,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9481421,,,0
+H1,2003,2003,2003,0,0,1,Import,748,Eswatini,SWZ,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4145505,,,0

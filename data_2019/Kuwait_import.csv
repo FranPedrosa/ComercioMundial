@@ -1,0 +1,201 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33530892789,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,519780,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2139640,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,913786,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43044,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128335,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77650,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58256,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,171832,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83575214,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,382066134,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,184225930,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19080,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,462199360,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77580231,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1217712,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4229,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,211422298,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1384,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,760030,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2962886,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,269656832,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2011,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2337,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13265,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26903451,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13402572,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48957,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4883924,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27922803,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,326529,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,260295920,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7343,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108232,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40386580,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35308,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12250603,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5988380245,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10148827,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22479,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,138919,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1864,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7730771,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3880339,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36250,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21759664,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,112318079,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,131345,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127885685,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,390622,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5801679,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37325444,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,705936,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4947,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4681276,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2554,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5329828,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,381341,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35357853,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,780407010,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,240308,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6469852,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73687,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6391176,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1750849556,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,377495,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1546,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41788646,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3732,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20702,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1268,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17098705,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133369,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124350,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,200422,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1469,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1104425,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12001403,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96814763,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,612906,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,271514932,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,227481412,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,978461,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,230303100,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1450516162,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,238480,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13989,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2113393142,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,178661,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,195763666,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7980455,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14219,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,901866085,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,267482,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4266328,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,241661970,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8282,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13102314,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9068,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6470,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12472620,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4260610,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,196465,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3864909,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64031,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,264216242,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7344,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118154,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4391332,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25756,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3164661,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,283122357,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,212135275,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40775,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2941621,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64204,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,214,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32216609,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64586,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,214158314,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,348972,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1626,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,990565,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,447215360,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129232,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105952,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7820,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92064706,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,389766,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2186593,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4850409,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35914734,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2382,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,183214117,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70161,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11290,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20505799,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4690041,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68935897,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,182524157,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74540200,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40569,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61215605,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89927717,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147946619,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31241,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1051,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,448,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2071,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,622533,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2794,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2075504976,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78643,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27777,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106042,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1903915964,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,132909357,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106173733,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,389304019,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17574461,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2520646,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129662021,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107494,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,401395750,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12421100,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67046,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72652,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129665569,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,540617018,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35778219,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7858,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,450454450,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2763,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,204,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10187,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2821389659,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23681935,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,649813263,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6087,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2251,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,352,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,482020,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52174800,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2933338,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,373551533,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,878210581,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,530615,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,838,Free Zones,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,246616,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3052431863,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,214118,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,979780,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65979,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32556,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27135,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7316051,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39743692,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39633073,,,0

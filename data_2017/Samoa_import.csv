@@ -1,0 +1,62 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,356189844,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,803570,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37395168,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,203609,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52534,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1247,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4190,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,914094,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22222,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19029,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,141836,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5395,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24759,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69507,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32261765,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4252,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,868,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20729673,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3759,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2118099,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1042176,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13260965,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4114363,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,173,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3439,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1204124,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15209974,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1319449,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6755566,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,336,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2955344,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19968,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,542083,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,630,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,260771,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18759,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12376,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,94074842,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70027,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20588,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30595,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,262566,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,449674,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,961902,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58975099,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4702017,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76170,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18604,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,211651,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,998516,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75349,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8654776,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26128,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73816,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1401,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1346734,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3969387,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39693663,,,4

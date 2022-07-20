@@ -1,0 +1,18 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2012,2012,2012,0,0,2,Export,60,Bermuda,BMU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9624203,,,0
+H4,2012,2012,2012,0,0,2,Export,60,Bermuda,BMU,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1452,,,0
+H4,2012,2012,2012,0,0,2,Export,60,Bermuda,BMU,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,46157,,,0
+H4,2012,2012,2012,0,0,2,Export,60,Bermuda,BMU,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8256,,,0
+H4,2012,2012,2012,0,0,2,Export,60,Bermuda,BMU,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,129,,,0
+H4,2012,2012,2012,0,0,2,Export,60,Bermuda,BMU,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,172927,,,0
+H4,2012,2012,2012,0,0,2,Export,60,Bermuda,BMU,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3816,,,0
+H4,2012,2012,2012,0,0,2,Export,60,Bermuda,BMU,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,117,,,0
+H4,2012,2012,2012,0,0,2,Export,60,Bermuda,BMU,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,107352,,,0
+H4,2012,2012,2012,0,0,2,Export,60,Bermuda,BMU,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3163,,,0
+H4,2012,2012,2012,0,0,2,Export,60,Bermuda,BMU,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26537,,,0
+H4,2012,2012,2012,0,0,2,Export,60,Bermuda,BMU,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32250,,,0
+H4,2012,2012,2012,0,0,2,Export,60,Bermuda,BMU,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,286,,,0
+H4,2012,2012,2012,0,0,2,Export,60,Bermuda,BMU,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,235415,,,0
+H4,2012,2012,2012,0,0,2,Export,60,Bermuda,BMU,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,705711,,,0
+H4,2012,2012,2012,0,0,2,Export,60,Bermuda,BMU,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5330270,,,0
+H4,2012,2012,2012,0,0,2,Export,60,Bermuda,BMU,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2950364,,,0

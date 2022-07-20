@@ -1,0 +1,217 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,60501949554,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3787521,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,941070,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,79,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,40088,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1628,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2278788,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1159,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,95,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1216510,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,120783323,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,111034782,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,577489416,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,852380,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,681029,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,175090415,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,75798,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,527574,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1333088578,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,71475,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,576692,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5246322,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,122655363,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,227,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,579078880,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,108130,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,145,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,51302,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1444,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,60019278,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9427348,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1019466,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16013954,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45734853,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,962023,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,474131736,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1377,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,111,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37328,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26410011,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36441,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,149534693,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4456430916,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,271,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,317,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,67485293,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34440,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30915,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9142181,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,79638101,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19696450,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,137465,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7231576,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,816554325,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9508,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1742628139,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5351,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4330006,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19135756,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2668836,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2323,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6189091,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8673,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1799709884,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,350527,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1051,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,622,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,71196,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2411682164,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8238,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,127,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,65,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14562,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1436475,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25013,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24517,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8816944447,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,235795,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,154685,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16196,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,89803734,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,868095,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6212,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1574,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9148180,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12257,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,363023,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,141793,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14679,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15581876,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,124486823,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,356188500,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12790907,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,125236150,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4391562,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37882,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,503908851,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,94293813,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1738675744,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1310033,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1338807,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,739873821,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,151545386,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1078060,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30162031,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6990,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,579374867,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15505,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,75584,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,574261,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,517676,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,257,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,196036056,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1766,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,368331,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,393798448,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,66996865,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,548672,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5065984,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,811702,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,207397682,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,651516,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,702287,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5417713,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,80553,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9270572,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,226881938,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,378661916,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3646950,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2041748,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,197978,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20764527,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9802212,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,160513,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1021321,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,74349,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1011845,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3028527275,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2197,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3780,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7436,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5822,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1082,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36621054,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7177443,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31541,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8674908,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6388,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1174337049,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,84,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,65773,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,264,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,55699796,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1197704,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,391525,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,101344,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,115155832,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,135181453,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1586770527,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,270166210,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1206,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31569084,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,221116086,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6701563001,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2760939,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1334,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,550938,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,360,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26286937,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,963665,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23441787,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2734014,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,545270,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,357561489,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,107883346,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,304243516,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,239116213,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,81702561,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,152530623,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3492011,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1364742549,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,42,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,98509,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10391,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11726142,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6737847896,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,692882029,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50707,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,39029,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,225879866,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7459,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2334,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,168,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4154088,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13245903,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13609260,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,503995437,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58445,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8093,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58850,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2082075,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,54292561,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5288932,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22253028,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1818333655,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3994726,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2228118791,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,81697,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,43315725,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,555735,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13985241,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5584,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4951,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,156633,,,0
+H4,2016,2016,2016,0,0,1,Import,246,Finland,FIN,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1868589443,,,0

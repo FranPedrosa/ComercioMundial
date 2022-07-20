@@ -1,0 +1,164 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33788000000,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,227367051,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,966521,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4565152,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11199,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102464,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,291010991,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,546592,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29002605,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6544385,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18703883,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16836089,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90486980,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11035,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27317011,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71941,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1013805,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165237,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4123050,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,846222,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3527871,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3747136,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,599643,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31576,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,579913,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41185892,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4184694,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165964,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1308002,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,220882037,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2091276,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2295907,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7534,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,472638,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1810728,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2614585,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4205303,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,612603,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11076959,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3392,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52528,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9353,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3174859,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,265397,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,415266,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36092,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188525,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1251183824,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5860450,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,634678,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32902126,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117238,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,355208556,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,228150,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9644051,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12136,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,270498,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25751,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6678,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71120839,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5782925,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84485716,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,437594261,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4313013,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2364589727,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,561965,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54707,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7458859294,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49307409,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15446363,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2049423,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42084957,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101671044,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28323547,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,796,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25453669,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,588210,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11443,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10808646,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1127450,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2847787,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52500,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,708607,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23775,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9591559,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1197425,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,290263,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,473,"LAIA, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,572344865,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53379,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48585,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12819797,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6044720619,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,162647,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6209100,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,440318,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10276971,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,379913,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72136,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,529454784,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84759,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1985843,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,239657,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,144214,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3715601,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,568,"Other Europe, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5447632934,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1814060677,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2979578,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150895556,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199022,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50457,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26586,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,521703,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4697307,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6499629,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3843026,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,235981,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19655017,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9495362,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98262603,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,196816,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8105,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124653834,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6063709,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59258,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3134751,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,258276933,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73426149,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1331337,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26730293,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,395175,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,211911,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14524431,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,722062,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99870214,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20925076,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11432723,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46530433,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57412255,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74799900,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9586531,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97205,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61563,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72306,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,910177920,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,961806,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116098858,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,129465240,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1478617,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19239437,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1734767,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8752776,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31439567,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2137248,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,838,Free Zones,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70087999,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139050757,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32537,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,82067,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69600803,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49445,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8616519,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1602977,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20829,,,0
+H2,2003,2003,2003,0,0,2,Export,364,Iran,IRN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3304358893,,,0

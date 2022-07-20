@@ -1,0 +1,225 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,182349823981,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,149792,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,42092155,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1816,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,198961509,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,262,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,307179,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,107636,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22656,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,82155204,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,203586287,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,111377566,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1694490,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8350596,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,359799238,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8464013,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,390308,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2865637092,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3267,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6754,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8712757,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,480683009,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,47160,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,831643939,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,54927,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,110,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,46991,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,292913,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,540361953,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16186105,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3122033,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29967874,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,49792009,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7938170,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,481347369,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9040,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,493,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,188496,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,60938474,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,291,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,189373359,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8899480099,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16920,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3169,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31916487,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,296804,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,104924,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,459954,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6456,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,67965981,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,876548628,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5403570,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,108604416,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6791090043,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29783,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,746866034,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1649965,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21738918,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,55126358,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6859349,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,334,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8154839,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,57764,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,66779774,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,108887,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12941,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,105829,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,317520,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,690674208,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5232255367,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,287791,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1620,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,127441,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,237698,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2448857,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11727,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,203537,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,69627491010,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37053193,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,777164,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,731,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,253947948,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,365830,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1549937,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12178,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6647295,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27230,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,853443,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,41392,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,53226,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,44975033,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,153689072,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5085484043,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19873496,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,301775822,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,42109366,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,638608311,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,781714711,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,281695625,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11868276670,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30433911,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,885788,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2712338541,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1949853745,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8347036,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11451592,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,456160,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,815179712,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3265601,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,249087,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4305035,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2287945,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2141,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35177088,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1022,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,415540170,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,95973081,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,306044123,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1735013,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8486683,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1479681,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,449841354,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36405,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1599721,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15314256,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16885,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13938557,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,327811331,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,742338469,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3882842,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28536047,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9546575,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10832,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,105815677,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6030935,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8472242,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2551328,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,337,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4003695,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5090583159,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3390821,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,61720,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,156803,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,104996636,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5879282,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30264,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1082407836,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,516,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1274,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,855358226,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,586,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,100,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,367744,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,740,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,118276388,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4491344,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1843804,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2122226,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,33394634,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,193258867,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10175,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3386636362,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,694599794,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3130,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8439184,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1554925494,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4638632992,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3880195,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18831,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,136,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30421,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13108,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,148,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11408658,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25793196,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,141083,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,693068935,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,535036,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,439014170,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14176871,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45418,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,776664212,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,197444090,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4509550666,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,474418667,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2253410630,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37696,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,784494489,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2844982,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2809871220,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,736,Fmr Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,425817,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,474885,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21259,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1936533867,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10055575299,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,161779827,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1418515,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,591615495,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1986541,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2763,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3339,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,119086,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,101773639,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,179373878,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1450905101,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,274166,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,97,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3255753,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1265464258,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,67123590,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,67421444,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2808056000,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6218263,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,839,Special Categories,,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,172600471,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5175834729,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,602197,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24968058,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4611596,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22293389,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1321,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,680883,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1642823,,,0
+H3,2011,2011,2011,0,0,1,Import,40,Austria,AUT,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1,,,0

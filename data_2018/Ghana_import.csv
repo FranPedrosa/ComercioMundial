@@ -1,0 +1,182 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11880470763,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110988,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13766,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12790637,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,396718,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45548437,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27710,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,205227,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71761432,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95846751,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16128313,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,295616,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,888398,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1064479,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1092,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77399,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,691150300,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59421,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,178502,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37051,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158039739,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2045169,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1399575,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107054,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15541570,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21584,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,328,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,494257,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2159311,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1251312,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,332963912,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12845,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136447,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4494267,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2362,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5950827,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2272599778,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65994,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1237319,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6417,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1820672,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91793,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,652836,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10173,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1286716,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5417535,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1984269,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51120806,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,252010,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,875746,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2773576,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1294442,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,865064,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4664622,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13803,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67964708,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,282552676,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14180,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35709,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,778468,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8077252,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,493505,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157809,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,305788145,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,212950,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77684511,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81680,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25032,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7452293,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1561058,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49846,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14768,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71328299,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2009294,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,494264,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95338091,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8247926,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24905,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63772643,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46484948,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,302044960,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,119226045,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106289,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,202908937,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,301948,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1219790,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9183158,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6152337,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,302839221,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7087558,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51222,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24818452,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1267,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1344666,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13410155,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4101548,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5001886,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7549070,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3109018,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,154342,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,230815574,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4265231,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1770336,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76442052,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10124479,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13464453,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19575467,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35053,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,173999,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86913511,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1004089,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5457056,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1064271,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11043,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19066,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,259588587,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,119800,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53113,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21682448,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,410318,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9252650,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,159383954,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34375,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21101651,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48074,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32308552,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2826956,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,442815,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,865664,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4102229,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34591980,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38988462,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3377683,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1209,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14543918,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6434081,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,177857631,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39684,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,240021,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,113494302,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8964216,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,296400,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,397684,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19829339,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,673817512,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62339677,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,756477,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,342560900,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10733134,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,406244043,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13366,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,199244491,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27385,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15295,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4439418,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104136866,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66933281,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21329,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,246,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,212360201,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60954835,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49383,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16627,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,145231,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,303175823,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21540005,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,332245646,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157626,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,116162,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75019596,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90672784,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,604136342,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4502494,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,953709977,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50726432,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5806021,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3833,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16032,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,231747,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,161591,,,0
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51532199,,,0

@@ -1,0 +1,222 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65606975840,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1189232,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2997556,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22044,,,0
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,123775275,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,451623,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,914134,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,93165,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22304613,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83021710,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,707778216,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,506243550,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25839014,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8377298,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59882864,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20553070,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29225847,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1805284792,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,154753,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31775,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3534427,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10587581,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1584654,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,643125943,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58056,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6134,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15439,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,504659,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,93856521,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30267531,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1150,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80733097,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30019794,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9184875,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,603951066,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,300705,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107659,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81692,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6221427,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58001,,,0
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,379898798,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3422534185,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57595684,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24977,,,0
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3419036,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8444186,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6014,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9450571,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38470294,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3746860,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18427944,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,366597743,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,783641,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1090876942,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,950,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13459602,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42112136,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72362003,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32091,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2667297,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,208972,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1952313688,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2158584,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2999,,,0
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,246668,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2057635788,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,231709,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,174019,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,548403,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,797621,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13294840,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1855562,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1223810,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8886351716,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40313449,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41774950,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51627,,,0
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146835003,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11034821,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6941,,,0
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117547,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13415173,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,422654,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25169746,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,121688,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54539,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4057487,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106592187,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,220672709,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53998293,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,170239787,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6156421,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15953441,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,325491929,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,207910085,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1604967679,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11302029,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1043238,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1014078777,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89784797,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35027396,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46869462,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,724326257,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20969245,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3335653,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4581270,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13167505,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8454,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,625562739,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,751232,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,614792,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,637664726,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30935067,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,966703,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,586991,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2523717,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,176909773,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1022885,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19319420,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11481985,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30283301,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1625047,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,290827461,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,283955745,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11666891,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7890771,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1086663,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1,,,0
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,159236000,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2018872,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21758592,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26177622,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,472656,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4283623017,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,203715,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6788721,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64998,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18239,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2539209,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6165,,,0
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72251607,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,828162,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,327858,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56397373,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11913,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1747343168,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75351,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12213,,,0
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,559929,,,0
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44606,,,0
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51082314,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10160252,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,452848,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10115129,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83494631,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,161612527,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1817533331,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,188535358,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27773,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,314,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33857165,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,178177843,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3416376213,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,845236,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7091,,,0
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,334400,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4228,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50403,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1250,,,0
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13890,,,0
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,809621,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65,,,0
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,370918400,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33557257,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64845120,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1406005,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,122639,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,522924685,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,224040724,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,190091363,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111827254,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62257069,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,319785,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,321241745,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1972236,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1005226528,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71459,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7796328,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1691414,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,233792,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6818134245,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,497042548,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3346817,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1923807,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,192415073,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2766972,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25071,,,0
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1650795,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,214345105,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37573363,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,856610306,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5110742,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15224,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51627,,,0
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2104573,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,216157903,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3811382,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,396474938,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2462883108,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21161009,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,183571565,,,0
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,839,Special Categories,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,231862,,,0
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5433558711,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10312508,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48249898,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45420873,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,888758,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46712,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12568828,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14705179,,,4
+H5,2020,2020,2020,0,0,2,Export,246,Finland,FIN,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2413196136,,,4

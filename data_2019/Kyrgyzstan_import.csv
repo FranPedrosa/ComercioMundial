@@ -1,0 +1,127 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4988946048,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24270,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20653,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55649,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,135000,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2152791,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,787117,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1782458,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10978753,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3537200,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,593563,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,879,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8505837,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,358,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,130646,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3802,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,287229,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31977,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11902252,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,203592,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46478144,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,674436,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6345264,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1360745,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,444062,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1734970508,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3945,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13296,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,160300,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,221879,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24266,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,547092,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8314380,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2237057,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65318,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,163187,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6653723,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28916,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,888278,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3427786,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37672005,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5853515,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,534,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70778007,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7647,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1696191,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5309,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2213,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,449,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1162067,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6825171,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5370,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2430393,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17525338,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,116404,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2261810,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2877648,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24511374,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,623,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25312576,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,649333709,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4341309,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1494282,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11540,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33148364,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3701,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7547,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2738,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5824993,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31171967,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54628,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9601,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4311639,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1513720,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4982074,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3229549,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16060,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1627652,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,287498,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,159306,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13042,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11199406,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,120754,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,856,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15761926,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1603556,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5416954,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,714148,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,830374,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24664542,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,473009,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,292,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3183726,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1404285223,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4593,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38700,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,416983,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7051641,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3640,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42017147,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1219938,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1716383,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7214385,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11236893,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14573059,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7737565,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8672438,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7316088,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,464020,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10560606,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4216472,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,259,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13599813,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,148406,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,222842644,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5091679,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48471885,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,566579,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3936648,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15676390,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3860,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90256904,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,200887625,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1764,,,0

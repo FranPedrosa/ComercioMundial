@@ -1,0 +1,37 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,26742833,,,4
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,46574,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23287,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,77623,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,175,Mayotte,MYT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,216588,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,694,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3705006,,,4
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,179003,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1321048,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,92795,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,465743,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,201822,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,493,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21170,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2581001,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,277,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,91016,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2521747,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1017493,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,481974,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23287,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,127021,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1411,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,957225,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10121522,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18276,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,77762,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21170,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21170,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1168868,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,161656,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,94107,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23287,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,178535,,,0
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,45387,,,4
+H2,2011,2011,2011,0,0,2,Export,174,Comoros,COM,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,656779,,,4

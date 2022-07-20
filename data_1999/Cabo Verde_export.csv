@@ -1,0 +1,24 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,1999,1999,1999,0,0,2,Export,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50152720,,,0
+H1,1999,1999,1999,0,0,2,Export,132,Cabo Verde,CPV,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19698,,,0
+H1,1999,1999,1999,0,0,2,Export,132,Cabo Verde,CPV,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43104,,,0
+H1,1999,1999,1999,0,0,2,Export,132,Cabo Verde,CPV,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1605845,,,0
+H1,1999,1999,1999,0,0,2,Export,132,Cabo Verde,CPV,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12413,,,0
+H1,1999,1999,1999,0,0,2,Export,132,Cabo Verde,CPV,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,175957,,,0
+H1,1999,1999,1999,0,0,2,Export,132,Cabo Verde,CPV,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1155663,,,0
+H1,1999,1999,1999,0,0,2,Export,132,Cabo Verde,CPV,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,973,,,0
+H1,1999,1999,1999,0,0,2,Export,132,Cabo Verde,CPV,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140478,,,0
+H1,1999,1999,1999,0,0,2,Export,132,Cabo Verde,CPV,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,871292,,,0
+H1,1999,1999,1999,0,0,2,Export,132,Cabo Verde,CPV,536,Neutral Zone,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49931,,,0
+H1,1999,1999,1999,0,0,2,Export,132,Cabo Verde,CPV,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57425,,,0
+H1,1999,1999,1999,0,0,2,Export,132,Cabo Verde,CPV,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4282,,,0
+H1,1999,1999,1999,0,0,2,Export,132,Cabo Verde,CPV,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18570176,,,0
+H1,1999,1999,1999,0,0,2,Export,132,Cabo Verde,CPV,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,583095,,,0
+H1,1999,1999,1999,0,0,2,Export,132,Cabo Verde,CPV,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17518,,,0
+H1,1999,1999,1999,0,0,2,Export,132,Cabo Verde,CPV,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2726670,,,0
+H1,1999,1999,1999,0,0,2,Export,132,Cabo Verde,CPV,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60207,,,0
+H1,1999,1999,1999,0,0,2,Export,132,Cabo Verde,CPV,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,632313,,,0
+H1,1999,1999,1999,0,0,2,Export,132,Cabo Verde,CPV,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1732959,,,0
+H1,1999,1999,1999,0,0,2,Export,132,Cabo Verde,CPV,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20572896,,,0
+H1,1999,1999,1999,0,0,2,Export,132,Cabo Verde,CPV,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,953069,,,0
+H1,1999,1999,1999,0,0,2,Export,132,Cabo Verde,CPV,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166756,,,0

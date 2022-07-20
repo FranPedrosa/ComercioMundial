@@ -1,0 +1,88 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,693346787,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,424620,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24165,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130411,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55578,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7692924,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2376732,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,157900,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9236845,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,500056,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1500301,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,461129,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44615,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1184978,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,325,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12735242,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5278059,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,234684,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1730,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6995522,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,481965,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9222,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,346738,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4920,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127712867,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21452,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5764029,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33110281,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10622578,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4242378,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17324141,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10991835,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,376503,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126064,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,610620,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76543444,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14874321,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4051,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8560618,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,159123,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17109,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,750848,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33324,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1818872,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7781192,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,204577,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42713603,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17698997,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7871,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1160471,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1029767,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,654439,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61483,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17058480,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15604,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145464,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3844356,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7677,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33644,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81123,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12623901,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11755610,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61414,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,614007,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3554224,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84907905,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15833,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,249685,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43530894,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1351,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6814704,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2298,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,786038,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6928541,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17345,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2135213,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180867,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11347,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8372163,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105842,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,837,Bunkers,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36098336,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3676989,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2767168,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4372,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120350,,,0
+H1,2000,2000,2000,0,0,2,Export,686,Senegal,SEN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11968476,,,0

@@ -1,0 +1,219 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,192840115910,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,453364,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1512713,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19300,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2510119066,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,963,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10764,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,216548562,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91009,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,619706,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11520028512,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1187057369,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1204197395,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2162381,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,123183964,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,223411481,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,170278,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58493,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1953671829,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25828,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,200784,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1781584321,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2866569,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5354,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1145715,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1725417,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,312963,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65789877,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7745834,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,280,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,635908989,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43349415,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1748507,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2523911914,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31964,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11599837,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6948,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60715161,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3001,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3516812510,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36715527802,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2654,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8615,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1834955604,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,98356,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96477,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69019633,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,915,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63360942,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15333926,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35548563,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1750131,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,553293102,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2579,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,708834655,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38999,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16655064,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115645629,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6658104,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9392906,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63781,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1694,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44291125,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1717,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2651,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84384,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,474059000,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5328674747,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104194,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20787,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7198,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,373080,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3603,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,408402,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11303279524,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147666628,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1028,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,583,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,182545808,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41674,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41461847,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2058838,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1903380,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1446894,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4700,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,439,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14856459,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,763888435,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,405099515,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13499140,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1423687241,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42262521,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,338653904,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,653047998,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1230837690,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5073118635,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57406799,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1107359,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5038263016,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90971136,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9215577,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1653205,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,197005,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5667701952,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,226341328,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,694,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1975112,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29481422,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42670,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14656479,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1207808,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97365185,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41902541,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61912851,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3250582,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3310654,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1394593,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1675891881,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,474,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11255,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14239084,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3121,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1380157,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5452011006,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2281332530,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,255567,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5004374,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125499,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,990113640,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137646694,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133374513,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54677,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,172881,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1786850261,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91948,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59424,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2268,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,919,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115111,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,266,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63328623,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4519405,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2615799,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1587147514,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,846,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,579049223,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55604,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1297,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,214370,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37957,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70123774,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14774014,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,294196,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2833430851,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1879138031,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,292508051,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,812,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,736603161,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1015050953,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1798328,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,612,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,290750745,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,332652935,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3647390744,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17908,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,788859,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,143426,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1122,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30804,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9931781,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,209488,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2387190422,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5041686,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28638465,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,263779,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32179,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4033284908,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,710574087,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147326253,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2425621738,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84013112,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4785,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,686121883,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1162736,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3230885735,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13998,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61798,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1436,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1214793,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,112932,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1412442912,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2301804481,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1800460,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,805982,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1756796597,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,752349,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,539702847,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,592067248,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32224947,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,764942041,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6250112,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,668,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48967,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65061001,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6237290,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,296479055,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2516076165,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,306167,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34634398633,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1189509833,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,266124,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,188238126,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2127720,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68813,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18882815,,,4
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,348058799,,,4

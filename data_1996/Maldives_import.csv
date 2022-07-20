@@ -1,0 +1,55 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,301655456,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2944885,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150112,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1918,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64639,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1585855,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25777,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,423666,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,285242,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2706624,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4787735,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22853776,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,458012,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6489472,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1623647,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2951095,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5880809,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4465,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6232154,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6132752,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145639,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9798,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2594779,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8431,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10416887,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,221620,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262172,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,552335,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25732376,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3469,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1260689,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64276,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2996107,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2182020,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10074946,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1358273,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93203,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25392,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121058,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,206812,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36082840,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96495600,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2416,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1163258,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143302,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1336030,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1334792,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6542160,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19131838,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251061,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6226,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10911373,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3517165,,,0
+H0,1996,1996,1996,0,0,1,Import,462,Maldives,MDV,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,804476,,,0

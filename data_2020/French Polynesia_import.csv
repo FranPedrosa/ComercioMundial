@@ -1,0 +1,174 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1714131452,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,228,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114004,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1749,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104941,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,145,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2651,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5034,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,587,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3559739,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42242330,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4699664,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1803795,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,553,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33758,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21618478,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30214,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88656,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3299182,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,719,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1213816,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,206706,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6482,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,648163,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,134327,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12589574,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3618,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,289,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1088591,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1178537,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,234549052,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125125,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1088,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2400,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,209,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,185289,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,612228,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59361,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,418789,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4622785,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4693343,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,196,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,293882,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57672,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18279,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,424,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17104,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1239,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,407536,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,269,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4684192,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2186194,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,443526432,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,557,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3669,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1935,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60327489,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12757,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,968833,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,265,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62054,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,292997,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85563,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2209,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33108,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9194200,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5476697,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144270,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20685695,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44886,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9823515,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1051695,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64378996,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38544,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20027,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33079063,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,404,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50831,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8214,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,253706,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146684709,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,227,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17908,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140629,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,225196,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,917,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1477543,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,656627,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,804,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,161378,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2201,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11879026,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48448,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1080,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,226713,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8741,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74273,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6138332,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10818249,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19935,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1548,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1807670,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1573,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,207,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22738,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24457443,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1086544,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5548,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107462145,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5637,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4944,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21190,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3189432,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1921135,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61883,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1085797,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10192,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147654,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,123930,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,379014,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1194555,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10537704,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4734221,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1438,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5153645,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,116840,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,308,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6042,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2042,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1591,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,621193,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124483,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16660,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10038961,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35595123,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4148165,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14919431,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1371685,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14670,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1276215,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3810,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34355528,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,359,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5913,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3162,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4042963,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15575997,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10837,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41181741,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18146,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,275998,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2030029,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13269831,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,684,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,999,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,285740,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87879,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,380684,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19803373,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4039,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,164261712,,,4
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1191,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10321440,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29318,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24993,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49,,,0
+H5,2020,2020,2020,0,0,1,Import,258,French Polynesia,PYF,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,718664,,,4

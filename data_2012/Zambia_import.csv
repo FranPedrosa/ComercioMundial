@@ -1,0 +1,161 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,8808403113,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15600,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1431,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12300,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82594,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25073,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1830523,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59729675,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4848046,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,948108,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34425,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,358291,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6904,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70237123,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1256162,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3961,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1226,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27845288,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8684236,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21961,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5215,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4343224,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,757,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,722266,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1129,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8123,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5261,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46143,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45677241,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60176,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,236298,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7452056,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,872425567,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,485323,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4034884,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1269026954,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115449,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,846325,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1005,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,525275,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,753401,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3867,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30876863,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,262,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95656,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89752,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17026,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,610,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46237626,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44617490,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3011,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4569,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84422,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,112155529,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,299411,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9105,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1128973,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1506301,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2541,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63625954,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140506,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,156141,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26815515,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2808823,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70911289,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2263441,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25239683,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74231,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21468,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,240928490,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3641417,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,283827577,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1590106,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34101204,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,553791543,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19337,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10159230,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41115,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1116,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1970,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1778866,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6727,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2502649,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9082,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10948,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69130568,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11450039,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30170,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38818351,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1897733,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39208386,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2062,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6328026,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21176112,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1376823,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24754287,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61158127,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7849,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,346,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1621,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1361317,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,886067,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133687,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,727669,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1700600,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,194405,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5985045,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1068779,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6253,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,436430,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104873,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9673647,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,823413,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1104213,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,456873,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,719640,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,372633,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2933,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13747288,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25796,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12010,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18865,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47392,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,306208209,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56007401,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,656657,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10307110,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,171319,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2973867510,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,93059638,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13122763,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2306313,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19941475,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97199371,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81720304,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,510900,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18188896,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2555,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,487920,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,624,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,220629824,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105771,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16347798,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157043,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2816936,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2257233,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,93965435,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,216924622,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71242519,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,247974064,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,182,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,625087,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2291559,,,4
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20831,,,0
+H4,2012,2012,2012,0,0,1,Import,894,Zambia,ZMB,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18053,,,0

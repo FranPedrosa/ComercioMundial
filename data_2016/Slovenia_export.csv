@@ -1,0 +1,204 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,27657727689,,,4
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,232343,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49038872,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84542840,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25885,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,476988,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34794,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13862014,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27298467,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91564495,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2161570902,,,4
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1205668,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3121340,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2928088,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7870374,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34425,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,368098329,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83672,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3376,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,179413,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,752334401,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19216,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43173090,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1297,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2201146,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39975,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,228025427,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,343573,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11010,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43910774,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1000594,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,357027,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79727042,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110912,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,222770,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3859,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4206580,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1029100,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13582549,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,300677623,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18668093,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,915552,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106070,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1511286,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2299047065,,,4
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2230238,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26020211,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,643363811,,,4
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73237,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,310758884,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22602,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4409131,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2448277,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,238328,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,274426,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3238394,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39526042,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,744205,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3213,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57586893,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1304120761,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,260621,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56871,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,919106,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,314236,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23765163,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,528172,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,196223,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5711108445,,,4
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6501966,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85629,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,119112814,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6297,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1293544,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36606,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,93130,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,460875,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19385,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,321962,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39553543,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,779734481,,,4
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3570007,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9714402,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50960151,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6167253,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52760794,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53189268,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3026545658,,,4
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,327584,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,249477,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126162118,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74398837,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12363984,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1011730,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29605,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58511443,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11483319,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10449111,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,470750,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11247700,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51057862,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,393717,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6790122,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60731871,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22032673,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2102997,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,477762,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114641,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15170846,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,341327,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,506784,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10415415,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28437,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1616937,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72902619,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25676740,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11279650,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21435883,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95616374,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15891095,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13148,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4624036,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47275,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,181614,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,496387976,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1140024,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75270,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56574,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22023,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,402348,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6093,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7018945,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,410145,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,252591,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6216071,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48811,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77141557,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15094,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10295,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13322449,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11026076,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19483,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1475780,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3777288,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9338736,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,900315956,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79741586,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,430191,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4744,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12255226,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,424748446,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,833130791,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,414882,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1819,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158581,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13996,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8639,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8797664,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73455707,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1495128,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,998210796,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1477359,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114460,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96483512,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21390390,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,522443945,,,4
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34863782,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,415064,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41898925,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71666,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,491778232,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,691,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7863354,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,259264,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,316118588,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,481446628,,,4
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2038501,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4308316,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30264268,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40143,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1214510,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87458116,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20133515,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,254457090,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22178782,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3441,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2090997,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,134844518,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,194743912,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46779660,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,591319781,,,4
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,611585,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3444752,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,839,Special Categories,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53277092,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,577032265,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,187061,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2204675,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23121798,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,977043,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3489,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3753167,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11351375,,,0
+H4,2016,2016,2016,0,0,2,Export,705,Slovenia,SVN,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25042,,,0

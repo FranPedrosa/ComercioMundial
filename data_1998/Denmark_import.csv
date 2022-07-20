@@ -1,0 +1,180 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45700681728,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4350335,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2941127,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10597448,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61919,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109149,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201854,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100431,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,176667936,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117062536,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,449058784,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36695,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9059751,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53441932,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,597248,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1646359936,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,265260,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,255137,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,158442,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,244443552,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2989,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,476245,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29968552,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6459280,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1564915,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14420168,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4994918,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1834866,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155270928,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3909,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1537,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16383,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15210777,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49403420,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,959709824,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1512,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45780872,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8763,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1146077,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77090,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76887,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5794055,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3099156,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,848251,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5990819,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160986576,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50657,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33471,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,745178,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2653198,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,938123,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9038091,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5168,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109091008,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131189352,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14231,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1190636544,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2606203136,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2091,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40032,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1495,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,515805,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15315,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9873079296,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8295295,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109220,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78086856,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,246576944,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8267117,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1126586,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,114125,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3425,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5453209,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,229009744,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110638976,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104927040,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,212829584,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4797687,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2488,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,498181088,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56591384,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2147849728,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18642840,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38872,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,844506240,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1089491,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,211346,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3802126,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1434238,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,335073600,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41950888,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1559102,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,990819,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103017712,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3672,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154742976,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28311500,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2403420,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4730389,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,156196800,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,395698,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,818957,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2442943,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2407056,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35505688,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,345760160,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48016,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107605,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15500,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3605815,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1404431,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,333650,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,687117,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3447568640,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93167,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3212,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52951848,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2390309,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,349971,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2112440832,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,585,Palau,PLW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36463,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51526112,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,497265,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,740986,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,657537,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15027186,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30778356,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,678163392,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,401851680,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,218068,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23129198,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,319472032,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,512368,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1666,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30408,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,409318,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11573,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1494140,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119865,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1338069,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195515808,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65611780,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21478582,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,51219024,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62933192,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14950,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37819664,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16020937,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,652582272,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,616754,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5748129792,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,563669056,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,647779,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,178523,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,238806112,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104725,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30995,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3429019,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8862971,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11501185,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,210467440,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,460401,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,798,Tuvalu,TUV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9906,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5839666,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49100028,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2872003,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6446299,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3492457728,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1417074,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2244574976,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42212,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3177645,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,579447,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50889032,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2291,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53518,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8926462,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,278752,,,0
+H1,1998,1998,1998,0,0,1,Import,208,Denmark,DNK,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,893829760,,,0

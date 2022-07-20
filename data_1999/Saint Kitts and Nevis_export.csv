@@ -1,0 +1,33 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27930712,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1199,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,222427,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22541,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48391,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115769,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44605,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1088,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12450,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,446196,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11625,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101022,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8007,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32793,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10873,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3750,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2236,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18551,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16955,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89614,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149184,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18602,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,270708,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1280,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96926,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111544,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28292,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,545,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31309,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6701525,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19243084,,,0
+H1,1999,1999,1999,0,0,2,Export,659,Saint Kitts and Nevis,KNA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,67620,,,0

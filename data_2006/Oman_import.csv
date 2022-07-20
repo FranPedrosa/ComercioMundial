@@ -1,0 +1,109 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11038363202,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,459540,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32813968,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,216422568,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39874787,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89943703,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1295511,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140660817,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38887,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78420092,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3912,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,764151,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1482923,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,551532,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48294,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42145473,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5761448,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39669432,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,368402843,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41430,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1007342,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55750,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34044,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62062,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3078447,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10464834,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34894686,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78203,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1001,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,287095,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22785897,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,191306474,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,275,State of Palestine,PSE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4148,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,551384676,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12364,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12959952,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,463735,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25972523,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,780359,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46140396,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111512612,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9482,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34873383,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,225627972,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2138,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1883028215,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10340745,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,810710,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,384162454,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35901198,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6109648,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23027,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,563716,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2211,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,211246,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1855251,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104329803,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,850902,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1935659,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106806,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8572462,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24842908,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7191097,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1300,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,217310480,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30247891,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7022,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5674540,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62669310,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2755547,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35450325,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,763191,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21233897,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11576725,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49482045,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,111118,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,376592359,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17984,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,577806687,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,127940483,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1100068,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5511178,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,866445,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7270660,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50617397,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6712155,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64520577,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31691,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120708574,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86374075,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3724606,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39134,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,265869763,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2819152688,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,456728,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58086016,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2172,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38806,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91991838,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31448772,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,369376874,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4024442,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,570430425,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47417,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4244,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10001937,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6311552,,,0
+H2,2006,2006,2006,0,0,1,Import,512,Oman,OMN,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,140563116,,,0

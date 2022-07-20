@@ -1,0 +1,41 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,351097824,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63836,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,979,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6071397,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3649363,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26032,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,313644,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,393747,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,334074,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5172043,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10377,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2165945,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23261905,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47318787,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,416809,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41773,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43446,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150485,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14099,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,244153965,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106303,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73370,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42289,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96504,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,612366,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16059,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1684235,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174037,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27392,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2986434,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,561033,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1098586,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4166750,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48652,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1043351,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1286268,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,849,US Misc. Pacific Isds,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2958,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60188,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3383174,,,0
+H1,1999,1999,1999,0,0,2,Export,8,Albania,ALB,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25169,,,0

@@ -1,0 +1,90 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,789705845,,,4
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,103645,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6675440,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26918,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,307045,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,169911,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26009430,,,4
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23475648,,,4
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19256,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,386656,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1134228,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146733,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2416,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40820488,,,4
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47234,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28955,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,342675,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,221949,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40789,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30208,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,698722,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1420061,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,269665,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15380693,,,4
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15558812,,,4
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,524384,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,249884,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14139,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25198,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4050,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,624398,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,706334,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3231,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22335212,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,502066,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3667208,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111613,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,132834,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3244854,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46518,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2992,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18000,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,348455,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1685,,,4
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,550689,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,380946,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1398,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7662,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31657,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30026,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4513681,,,4
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102192626,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,343673,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6777,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,178300,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65408,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,584160,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1130416,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,353779893,,,4
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,153151,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13126,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,148206,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1297348,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11705,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5241448,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30097,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2791953,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,822336,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10745,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2923298,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,131147,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,460981,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83984690,,,4
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36360,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2319838,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3659118,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8314554,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,573688,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1312666,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19776,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11747856,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,526365,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,257420,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128583,,,4
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1196849,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1042830,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12684013,,,4
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1292838,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16894875,,,0

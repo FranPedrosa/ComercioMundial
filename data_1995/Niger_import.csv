@@ -1,0 +1,80 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,344552704,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1754129,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149891,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31215,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94424,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13472,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5831179,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1540961,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45229,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3815451,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,856718,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120067,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8741650,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1882,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15676,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,469852,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5140711,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,360920,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68119,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78410616,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,879041,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8811799,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4293504,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17169,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1699,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1457,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1819268,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153890,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123740,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130901,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,537201,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4454781,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36567976,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15846913,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35809,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62198,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,429061,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,676098,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12512,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31299,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,336789,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60771,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81411,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,604223,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1211540,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,172064,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15229894,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42117976,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52549,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11393742,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,614,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,933710,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1209444,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1116,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,159300,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,684298,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,726116,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3253595,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,52685,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143072,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3903,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2757133,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1008557,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,466514,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,825,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,278861,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1240253,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5190,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,290895,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,148715,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22684,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18810698,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,962,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,839,Special Categories,,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,740,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14288636,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1463864,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55146,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61382,,,0
+H0,1995,1995,1995,0,0,1,Import,562,Niger,NER,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42874372,,,0

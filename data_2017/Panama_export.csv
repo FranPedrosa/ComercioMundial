@@ -1,0 +1,115 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,11091556992,,,0
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,982783,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6132626,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54270131,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1891719,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51286,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35112167,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11399,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47604155,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3457288,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8531671,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39580815,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71925742,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38937654,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11406438,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8316,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27188,,,0
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11428876,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99905,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,315746872,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43686434,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,953454693,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,736753951,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13680,,,0
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,309751019,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58680,,,0
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,235600,,,0
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10145847,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2074365,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,526169842,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,351706893,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,343875577,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39949,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78488,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12624161,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,310172,,,0
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9595328,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,103384,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,765940,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5821588,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,479072961,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44690264,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71033085,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,393213787,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4950445,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2010682,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,379665,,,0
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,485096,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43650,,,0
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2100250,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8746914,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,135530981,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56047478,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1226588,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5236,,,0
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26990622,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4363,,,0
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1930,,,0
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,463647,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,89185,,,0
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,409635,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1540,,,0
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,555946,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,173300,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7980,,,0
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,120990928,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36282276,,,0
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1024921,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1950,,,0
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50895164,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56014959,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6552085,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1852701,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,948967,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,433385731,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,324759,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19321,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,209317,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83892971,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,261210212,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,579978,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,356490,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7551167,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61007,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1400695,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1870,,,0
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3104396,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10753502,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5362964,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,542823,,,0
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34209886,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10768808,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,305,,,0
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80314772,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56739,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1336444,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29949867,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24559098,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80439,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29834625,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24870308,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76000,,,0
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,193966598,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11356043,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4644996,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32232,,,0
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,337987,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10874321,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,838,Free Zones,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,182843254,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2251874334,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99036111,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,473878246,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,369180,,,0
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1360257393,,,4

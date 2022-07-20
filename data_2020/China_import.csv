@@ -1,0 +1,220 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2069567864872,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54512300,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81120571,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,997055550,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,432094,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14757730338,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32718,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,698779881,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6814456938,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117693742899,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6639807037,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72928310,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146309020,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,799754630,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,794486880,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15162203,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7828104293,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3638,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32527,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,291211057,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72684402,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87486159,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85517209220,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,437787,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,355240301,,,0
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,267001,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1475993950,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1370982164,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6684807205,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7637538,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,888692999,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1498508854,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,761326749,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22063322622,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1209992,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12963,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57075172,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,317763285,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,421471363,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29932011949,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125264219826,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4336016082,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117360,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3371849050,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7083727458,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2643564,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,668609180,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137590092,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,470009989,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25172350,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5133531446,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58247536,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6011297154,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,599400,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,299304139,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4320755517,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,171781379,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1182549225,,,0
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,338770517,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,308629890,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,281400051,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66108129,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23539373,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4196310191,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29712349181,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4154185,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46248864,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3244067014,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100865861,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29902106,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8637,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105110505822,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1774498710,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1499,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,221696,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,773891395,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,259989792,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43783,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,267096519,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2438851194,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,308864649,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3026313,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97542,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45952511,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6982776368,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4282898329,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104645720,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37480543305,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6441556555,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19303764652,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14045210891,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6285594805,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22249447130,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,580471410,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31930501,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,174655178945,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10366080476,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,425729742,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,150594884,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47948195,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,173100170786,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10734988771,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34801089,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2088437966,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31798465,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12262426,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,200394953,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97344331,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,827065454,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,487610102,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,275927090,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63137400,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,138651863,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12332333,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75174350512,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5771090,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,168652330,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,387612617,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,473,"LAIA, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,334561,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1277054045,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26487746,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16217413252,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,200498309450,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5124562278,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60472982,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57384096,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2432,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,595611279,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,579498619,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15659425492,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,562885348,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81513,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16154224,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12789316578,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18011,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88553,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1045,,,0
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1169305489,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7937074,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12076041627,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18958280,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,224696136,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2485363217,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,226210,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6059,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59582,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7367839375,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7260409,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7679075,,,0
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7310,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2124873682,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,469415495,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2270895657,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13912031,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14735455734,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19335468064,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4320382018,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2772488349,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5381,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1210615,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8305086393,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,637,"North America and Central America, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2753,,,0
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2638404916,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57844468529,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38209405,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,423655,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59338,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,905,,,0
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8927,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2857811,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46656,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39069814042,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,315088117,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,498176664,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37621,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158491522,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20977286374,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31616281621,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6431076798,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78473071644,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,508681108,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7871903,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20824537983,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,872724102,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10387597055,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,683241681,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,766295393,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61102677,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,483886,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9518266992,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17494678177,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1331472,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45293459,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48139504471,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,164199953,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,237571,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,334830084,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17054552303,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,222717951,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3731026547,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8503468117,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57017,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12215,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39692320,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8001752356,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,227133494,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,923482598,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19871556472,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,411118015,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136339520982,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79956816,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2367322761,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1619128547,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,534238475,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1062,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,575384,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,674019114,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3506043957,,,4
+H5,2020,2020,2020,0,0,1,Import,156,China,CHN,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2057226122,,,4

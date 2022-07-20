@@ -1,0 +1,70 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,794994752,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,553258,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6442069,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,321027,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1383769,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3706009,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4712143,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,58,Belgium-Luxembourg,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,294743,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12422124,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,33584768,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7267754,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,459473,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,502842,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6112,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160771,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,603611,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1871185,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16000,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5544444,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29668,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2158723,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2733528,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29757166,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28626,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4315448,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2699722,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47687,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,649789,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,142865,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1856784,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21046824,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59039,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7610222,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188000,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6227079,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,607469,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14595784,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19949,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14201410,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24671,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8688620,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145181,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3017000,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1657522,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13000,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72212128,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,428886048,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2260548,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,673024,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2757895,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,695859,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,353775,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,711,So. African Customs Union,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116363,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2528169,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121818,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1338486,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161459,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128308,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9444256,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2850551,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46511736,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126507,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1581267,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5296928,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10952195,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3337400,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143955,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31556,,,0
+H0,1996,1996,1996,0,0,2,Export,498,Rep. of Moldova,MDA,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110625,,,0
